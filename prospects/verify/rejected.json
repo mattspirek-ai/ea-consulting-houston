@@ -1,0 +1,2288 @@
+[
+  {
+    "company_name": "Enchanted Rock",
+    "reason": "LinkedIn lists 201-500 employees, above the 150-employee ceiling.",
+    "source": "https://www.linkedin.com/company/enchanted-rock/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: LinkedIn lists 201-500 employees, above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Corva",
+    "reason": "LinkedIn lists 201-500 employees, above the 150-employee ceiling.",
+    "source": "https://www.linkedin.com/company/corva/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: LinkedIn lists 201-500 employees, above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Opportune LLP",
+    "reason": "LinkedIn lists 201-500 employees, above the 150-employee ceiling.",
+    "source": "https://www.linkedin.com/company/opportune-llp/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: LinkedIn lists 201-500 employees, above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "WildFire Energy",
+    "reason": "Being sold by Warburg Pincus and Kayne Anderson to Magnolia Oil & Gas for $4.06 billion, so it will not remain an independent Houston operator.",
+    "source": "https://www.wildfire-energy.com/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Being sold by Warburg Pincus and Kayne Anderson to Magnolia Oil & Gas for $4.06 billion, so it will not remain an independent Houston operator."
+    ]
+  },
+  {
+    "company_name": "Ridgemar Energy",
+    "reason": "Acquired by Crescent Energy (closed January 2025); no longer a standalone Houston E&P despite an active website and leadership page.",
+    "source": "https://www.rigzone.com/news/crescent_seals_acquisition_of_eagle_ford_player_ridgemar-04-feb-2025-179521-article/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Acquired by Crescent Energy (closed January 2025); no longer a standalone Houston E&P despite an active website and leadership page."
+    ]
+  },
+  {
+    "company_name": "Momentum Midstream",
+    "reason": "Acquisition by Williams Companies completed 3 September 2026; now part of a Fortune 500 parent.",
+    "source": "https://www.williams.com/2026/09/03/williams-completes-acquisition-of-momentum-midstream/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Acquisition by Williams Companies completed 3 September 2026; now part of a Fortune 500 parent."
+    ]
+  },
+  {
+    "company_name": "Audubon Companies",
+    "reason": "Houston EPC/O&M firm but reported record workforce and revenue well above the 150-employee ceiling; a subsidiary of Nobel Energy.",
+    "source": "https://auduboncompanies.com/news/audubon-companies-names-kevin-pitts-ceo/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston EPC/O&M firm but reported record workforce and revenue well above the 150-employee ceiling; a subsidiary of Nobel Energy."
+    ]
+  },
+  {
+    "company_name": "SCS Industrials (SCS Technologies + Fleaux Services)",
+    "reason": "Post-merger company reported at 250 employees, above the ceiling.",
+    "source": "https://www.mrt.com/business/oil/article/big-spring-tx-oilfield-services-merger-22280650.php",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Post-merger company reported at 250 employees, above the ceiling."
+    ]
+  },
+  {
+    "company_name": "Oil States International",
+    "reason": "NYSE-listed Houston energy services company far above the size band (Fortune 1000-scale); CEO transition noted but out of ICP.",
+    "source": "https://www.businesswire.com/news/home/20260323540775/en/Oil-States-Announces-Retirement-of-Cindy-Taylor-and-Appointment-of-Lloyd-Hajdik-as-CEO-Effective-May-1-2026",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: NYSE-listed Houston energy services company far above the size band (Fortune 1000-scale); CEO transition noted but out of ICP."
+    ]
+  },
+  {
+    "company_name": "Hornbeck Offshore Services (post-Helix merger)",
+    "reason": "Merged global offshore services company; far above the 150-employee ceiling.",
+    "source": "https://www.oedigital.com/news/542628-hornbeck-and-helix-complete-merger",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Merged global offshore services company; far above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Fervo Energy",
+    "reason": "Houston geothermal developer but well beyond the size band after a $462 million Series E and $421 million debt raise.",
+    "source": "https://energycapitalhtx.com/fervo-energy-series-e",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston geothermal developer but well beyond the size band after a $462 million Series E and $421 million debt raise."
+    ]
+  },
+  {
+    "company_name": "Base Power",
+    "reason": "Austin-headquartered, not Houston metro, and at a $13 billion valuation is far outside the size band.",
+    "source": "https://energycapitalhtx.com/base-power-1b-series-d",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Austin-headquartered, not Houston metro, and at a $13 billion valuation is far outside the size band."
+    ]
+  },
+  {
+    "company_name": "Gulf Interstate Engineering",
+    "reason": "Could not source a live corporate site - both gulfinterstate.com and gie.com resolve to a HugeDomains for-sale listing, so no contact or leadership data could be verified.",
+    "source": "https://www.hugedomains.com/domain_profile.cfm?d=gulfinterstate.com",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not source a live corporate site - both gulfinterstate.com and gie.com resolve to a HugeDomains for-sale listing, so no contact or leadership data could be verified."
+    ]
+  },
+  {
+    "company_name": "Deep Imaging Technologies",
+    "reason": "deepimaging.com resolves to a domain-for-sale page; no verifiable company contact or leadership data.",
+    "source": "https://www.deepimaging.com/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: deepimaging.com resolves to a domain-for-sale page; no verifiable company contact or leadership data."
+    ]
+  },
+  {
+    "company_name": "Zeta Energy",
+    "reason": "Houston HQ and 11-50 employees confirmed, but the site publishes no phone, general email or named leadership, so the row could not be sourced to schema standard.",
+    "source": "https://www.zetaenergy.com/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston HQ and 11-50 employees confirmed, but the site publishes no phone, general email or named leadership, so the row could not be sourced to schema standard."
+    ]
+  },
+  {
+    "company_name": "Mati Carbon",
+    "reason": "Houston-based and in the size band, but the team page names no individuals and no main phone is published; only a contact@mati.earth address.",
+    "source": "https://www.maticarbon.com/team",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston-based and in the size band, but the team page names no individuals and no main phone is published; only a contact@mati.earth address."
+    ]
+  },
+  {
+    "company_name": "Rhythm Energy",
+    "reason": "Houston HQ (24 Greenway Plaza) and 51-200 employees, but the site has no leadership page, so a company-source confirmation of the CEO title could not be paired with LinkedIn.",
+    "source": "https://gotrhythm.com/about",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston HQ (24 Greenway Plaza) and 51-200 employees, but the site has no leadership page, so a company-source confirmation of the CEO title could not be paired with LinkedIn."
+    ]
+  },
+  {
+    "company_name": "Energy Ogre",
+    "reason": "Houston retail-energy company in the band, but the About page refers only to 'Our Co-CEOs' without naming them, so no decision-maker could be sourced.",
+    "source": "https://www.energyogre.com/about",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston retail-energy company in the band, but the About page refers only to 'Our Co-CEOs' without naming them, so no decision-maker could be sourced."
+    ]
+  },
+  {
+    "company_name": "Fortis Minerals",
+    "reason": "Houston minerals and royalties company, but the Wix site renders no team or contact content to any fetch method available without a browser.",
+    "source": "https://www.fortisminerals.com/our-team",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston minerals and royalties company, but the Wix site renders no team or contact content to any fetch method available without a browser."
+    ]
+  },
+  {
+    "company_name": "Greentown Houston 2026 Houston-HQ members (Focis AI, Iron Lattice, Orbital Arc, Sustain Energy LLC)",
+    "reason": "Newly admitted incubator members below the 10-employee floor with no published leadership pages, main lines or general email addresses.",
+    "source": "https://energycapitalhtx.com/greentown-new-members-2026",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Newly admitted incubator members below the 10-employee floor with no published leadership pages, main lines or general email addresses."
+    ]
+  },
+  {
+    "company_name": "Halliburton Labs current cohort (Electroflow, Osmoses, SiTration, Nandina REM, Noon Energy, Proof Energy, Tidal Metals, 360 Energy, Cella, NuCube, Adena Power, Espiku, Mitico)",
+    "reason": "Cohort acceptance is a valid trigger but none of the current participants are Houston-metro headquartered.",
+    "source": "https://halliburtonlabs.com/companies/",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Cohort acceptance is a valid trigger but none of the current participants are Houston-metro headquartered."
+    ]
+  },
+  {
+    "company_name": "Applied Computing",
+    "reason": "Opened its first U.S. office in Houston after a $20 million raise, but the company is not Houston-headquartered.",
+    "source": "https://energycapitalhtx.com/applied-computing-energy-ai",
+    "_segment": "energy_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Opened its first U.S. office in Houston after a $20 million raise, but the company is not Houston-headquartered."
+    ]
+  },
+  {
+    "company_name": "Cart.com",
+    "reason": "Far above the 5-150 employee / $2-50M revenue band \u2014 has raised over $1B total and reached a $1.6B valuation; not an ICP fit.",
+    "source": "https://houston.innovationmap.com/cartcom-180m-growth-capital-2675554335.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Far above the 5-150 employee / $2-50M revenue band \u2014 has raised over $1B total and reached a $1.6B valuation; not an ICP fit."
+    ]
+  },
+  {
+    "company_name": "Strategic Office Support",
+    "reason": "Excluded vertical and competitor-adjacent: healthcare (HME/DME) staffing, BPO and virtual-assisting provider \u2014 its own category list includes 'virtual assistant solutions'.",
+    "source": "https://www.inc.com/profile/strategic-office-support",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Excluded vertical and competitor-adjacent: healthcare (HME/DME) staffing, BPO and virtual-assisting provider \u2014 its own category list includes 'virtual assistant solutions'."
+    ]
+  },
+  {
+    "company_name": "Allied Wealth",
+    "reason": "Private capital / wealth management (The Woodlands) \u2014 covered by the private-capital researcher.",
+    "source": "https://houston.innovationmap.com/inc-5000-houston-2025-2673901565.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Private capital / wealth management (The Woodlands) \u2014 covered by the private-capital researcher."
+    ]
+  },
+  {
+    "company_name": "Sydecar",
+    "reason": "Private-capital infrastructure (fund/SPV administration) \u2014 covered by the private-capital researcher.",
+    "source": "https://houston.innovationmap.com/inc-5000-houston-2025-2673901565.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Private-capital infrastructure (fund/SPV administration) \u2014 covered by the private-capital researcher."
+    ]
+  },
+  {
+    "company_name": "Dahnani Private Equity Group",
+    "reason": "Private-capital firm (Stafford) \u2014 excluded by brief.",
+    "source": "https://houston.innovationmap.com/houston-rankings-2677721938.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Private-capital firm (Stafford) \u2014 excluded by brief."
+    ]
+  },
+  {
+    "company_name": "Amundson Group",
+    "reason": "Human resources / executive search \u2014 staffing firm, excluded by brief.",
+    "source": "https://houston.innovationmap.com/inc-5000-houston-2025-2673901565.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Human resources / executive search \u2014 staffing firm, excluded by brief."
+    ]
+  },
+  {
+    "company_name": "Murray Resources",
+    "reason": "Staffing and recruiting agency \u2014 excluded by brief (also a competitor category).",
+    "source": "https://www.einpresswire.com/article/934212441/murray-resources-named-to-inc-5000-list-for-the-seventh-time",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Staffing and recruiting agency \u2014 excluded by brief (also a competitor category)."
+    ]
+  },
+  {
+    "company_name": "CRB Workforce",
+    "reason": "Staffing firm \u2014 excluded by brief.",
+    "source": "https://www.prnewswire.com/news-releases/crb-workforce-receives-4th-inc-5000-honor-with-148-growth-302861268.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Staffing firm \u2014 excluded by brief."
+    ]
+  },
+  {
+    "company_name": "Sterling Staffing Solutions",
+    "reason": "Staffing firm \u2014 excluded by brief.",
+    "source": "https://www.einpresswire.com/article/937910737/sterling-staffing-solutions-named-no-4-300-on-the-2026-inc-5000-list-of-america-s-fastest-growing-private-companies",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Staffing firm \u2014 excluded by brief."
+    ]
+  },
+  {
+    "company_name": "Arthur Lawrence",
+    "reason": "Houston professional-services firm whose core offering is contract staffing/resourcing \u2014 falls under the staffing exclusion.",
+    "source": "https://lifestyle.thedailyhaze.com/story/809756/arthur-lawrence-named-to-the-2026-inc-5000-list-of-americas-fastest-growing-private-companies/",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston professional-services firm whose core offering is contract staffing/resourcing \u2014 falls under the staffing exclusion."
+    ]
+  },
+  {
+    "company_name": "Buildforce",
+    "reason": "Electrician staffing marketplace \u2014 staffing exclusion, despite the $10M Series A trigger.",
+    "source": "https://houston.innovationmap.com/buildforce-10m-series-a-2677295592.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Electrician staffing marketplace \u2014 staffing exclusion, despite the $10M Series A trigger."
+    ]
+  },
+  {
+    "company_name": "Empower Pharmacy",
+    "reason": "Healthcare/compounding pharmacy and well above the employee band \u2014 covered by the healthcare researcher.",
+    "source": "https://www.empowerpharmacy.com/compound-medication/empower-news/fastest-growing-houston-company-2025/",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Healthcare/compounding pharmacy and well above the employee band \u2014 covered by the healthcare researcher."
+    ]
+  },
+  {
+    "company_name": "Sterling Physical Therapy & Wellness",
+    "reason": "Healthcare provider \u2014 covered by the healthcare researcher.",
+    "source": "https://www.einpresswire.com/article/849973665/sterling-physical-therapy-wellness-named-one-of-houston-business-journal-s-fastest-growing-companies-of-2025",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Healthcare provider \u2014 covered by the healthcare researcher."
+    ]
+  },
+  {
+    "company_name": "White Orchid Hospice",
+    "reason": "Healthcare provider \u2014 covered by the healthcare researcher.",
+    "source": "https://www.einpresswire.com/article/937908519/white-orchid-hospice-named-no-1-407-on-the-2026-inc-5000-list-of-america-s-fastest-growing-private-companies",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Healthcare provider \u2014 covered by the healthcare researcher."
+    ]
+  },
+  {
+    "company_name": "Integration Health",
+    "reason": "Healthcare \u2014 covered by the healthcare researcher.",
+    "source": "https://www.prnewswire.com/news-releases/integration-health-named-to-the-2026-inc-5000-list-of-americas-fastest-growing-private-companies-302847712.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Healthcare \u2014 covered by the healthcare researcher."
+    ]
+  },
+  {
+    "company_name": "Koda Health",
+    "reason": "Health tech ($7M Series A, 2025 Houston Innovation Awards winner) \u2014 covered by the healthcare researcher.",
+    "source": "https://houston.innovationmap.com/koda-health-series-a-2674144997.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Health tech ($7M Series A, 2025 Houston Innovation Awards winner) \u2014 covered by the healthcare researcher."
+    ]
+  },
+  {
+    "company_name": "The 'Pause Life",
+    "reason": "Menopause/health consumer brand (Galveston) \u2014 healthcare exclusion.",
+    "source": "https://houston.innovationmap.com/houston-rankings-2677721938.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Menopause/health consumer brand (Galveston) \u2014 healthcare exclusion."
+    ]
+  },
+  {
+    "company_name": "Oliva Gibbs",
+    "reason": "Law firm \u2014 covered by the legal researcher.",
+    "source": "https://www.einpresswire.com/article/835852273/oliva-gibbs-named-2025-fastest-growing-company-by-houston-business-journal",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Law firm \u2014 covered by the legal researcher."
+    ]
+  },
+  {
+    "company_name": "Midstream Valve Partners",
+    "reason": "Energy/oilfield equipment \u2014 covered by the energy researcher.",
+    "source": "https://www.midstreamvalve.com/midstream-valve-partners-ranks-no-2165-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies/",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Energy/oilfield equipment \u2014 covered by the energy researcher."
+    ]
+  },
+  {
+    "company_name": "Chariot Energy",
+    "reason": "Energy retailer \u2014 covered by the energy researcher.",
+    "source": "https://www.linkedin.com/posts/caseybluna_chariotenergy-hbjfast50-fastestgrowingcompany-activity-7357150447167590400-hkoT",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Energy retailer \u2014 covered by the energy researcher."
+    ]
+  },
+  {
+    "company_name": "Envana Software Solutions",
+    "reason": "Not founder-led \u2014 a joint venture of Halliburton and Siemens Energy; also energy vertical.",
+    "source": "https://houston.innovationmap.com/envana-software-solutions-2671177028.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Not founder-led \u2014 a joint venture of Halliburton and Siemens Energy; also energy vertical."
+    ]
+  },
+  {
+    "company_name": "Fervo Energy / Sage Geosystems / VoltaGrid / Utility Global / Helix Earth / DexMat / Casimir / Ace Green Recycling / Aquanta Vision / Artemis",
+    "reason": "Energy and energy-transition companies with 2025-2026 funding triggers \u2014 all covered by the energy researcher.",
+    "source": "https://houston.innovationmap.com/2026-houston-startup-funding-q1-q2-2677282158.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Energy and energy-transition companies with 2025-2026 funding triggers \u2014 all covered by the energy researcher."
+    ]
+  },
+  {
+    "company_name": "Axiom Space",
+    "reason": "Above the size band (525M+ raised, large workforce) and not a founder-CEO-led small business.",
+    "source": "https://houston.innovationmap.com/2026-houston-startup-funding-q1-q2-2677282158.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Above the size band (525M+ raised, large workforce) and not a founder-CEO-led small business."
+    ]
+  },
+  {
+    "company_name": "NovEx Supply Chain",
+    "reason": "Headquartered in Southaven, Mississippi despite Houston-adjacent press coverage \u2014 outside the Houston metro.",
+    "source": "https://www.inc.com/profile/novex-supply-chain",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Headquartered in Southaven, Mississippi despite Houston-adjacent press coverage \u2014 outside the Houston metro."
+    ]
+  },
+  {
+    "company_name": "Groves & Company",
+    "reason": "Headquartered in Austin, not Houston.",
+    "source": "https://www.inc.com/profile/groves--company",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Headquartered in Austin, not Houston."
+    ]
+  },
+  {
+    "company_name": "Freeit Data Solutions",
+    "reason": "Headquartered in Austin, not Houston.",
+    "source": "https://www.inc.com/profile/freeit-data-solutions",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Headquartered in Austin, not Houston."
+    ]
+  },
+  {
+    "company_name": "Overwatch Mission Critical",
+    "reason": "Headquartered in Austin on its current Inc. profile, and 201-500 employees \u2014 outside metro and size band.",
+    "source": "https://www.inc.com/profile/overwatch-mission-critical",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Headquartered in Austin on its current Inc. profile, and 201-500 employees \u2014 outside metro and size band."
+    ]
+  },
+  {
+    "company_name": "Freight Flex",
+    "reason": "Headquartered in Denton, Texas (DFW) \u2014 not the Houston metro.",
+    "source": "https://www.inc.com/profile/freight-flex",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Headquartered in Denton, Texas (DFW) \u2014 not the Houston metro."
+    ]
+  },
+  {
+    "company_name": "JB Warranties Corp",
+    "reason": "Headquartered in Argyle, Texas (DFW) \u2014 not the Houston metro.",
+    "source": "https://www.inc.com/profile/jb-warranties",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Headquartered in Argyle, Texas (DFW) \u2014 not the Houston metro."
+    ]
+  },
+  {
+    "company_name": "ChurchSpace",
+    "reason": "Houston-founded but relocated its headquarters to Detroit.",
+    "source": "https://houston.innovationmap.com/churchspace-detroit-seed-2672030812.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston-founded but relocated its headquarters to Detroit."
+    ]
+  },
+  {
+    "company_name": "Why Not Natural",
+    "reason": "1-10 employees per Inc. \u2014 below the 5-150 band and likely a solopreneur operation.",
+    "source": "https://www.inc.com/profile/why-not-natural",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: 1-10 employees per Inc. \u2014 below the 5-150 band and likely a solopreneur operation."
+    ]
+  },
+  {
+    "company_name": "Acuity Technology Partners",
+    "reason": "Could not source the decision-maker's founder/CEO title from two independent sources (Inc. lists Robert Pangborn as leadership; the company's LinkedIn describes him as Head of Operations), and the site publishes no phone or email at all.",
+    "source": "https://www.inc.com/profile/acuity-technology-partners",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not source the decision-maker's founder/CEO title from two independent sources (Inc. lists Robert Pangborn as leadership; the company's LinkedIn describes him as Head of Operations), and the site publishes no phone or email at all."
+    ]
+  },
+  {
+    "company_name": "Field Industries",
+    "reason": "Could not source a name-plus-title pairing from a second independent source \u2014 Inc. lists Jared Field as leadership but the company site has no team/leadership page and his LinkedIn returned no title.",
+    "source": "https://www.inc.com/profile/field-industries",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not source a name-plus-title pairing from a second independent source \u2014 Inc. lists Jared Field as leadership but the company site has no team/leadership page and his LinkedIn returned no title."
+    ]
+  },
+  {
+    "company_name": "Novo Communications",
+    "reason": "Inc. 5000 2025 (No. 324) Houston honoree, but the decision-maker's title could not be sourced (Inc. names Anthony Peters with no title) and novocommunications.com was not retrievable via curl to confirm published contact details.",
+    "source": "https://www.inc.com/profile/novo-communications",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Inc. 5000 2025 (No. 324) Houston honoree, but the decision-maker's title could not be sourced (Inc. names Anthony Peters with no title) and novocommunications.com was not retrievable via curl to confirm published contact details."
+    ]
+  },
+  {
+    "company_name": "Ezee Fiber",
+    "reason": "HBJ 2026 Most Admired CEO honoree, but Matt Marino is a hired CEO rather than founder and the company is a capital-intensive fiber ISP well outside the size band.",
+    "source": "https://www.prnewswire.com/news-releases/ezee-fiber-ceo-matt-marino-named-a-2026-most-admired-ceo-by-the-houston-business-journal-302808385.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: HBJ 2026 Most Admired CEO honoree, but Matt Marino is a hired CEO rather than founder and the company is a capital-intensive fiber ISP well outside the size band."
+    ]
+  },
+  {
+    "company_name": "Oxford Partners",
+    "reason": "Houston commercial real estate advisory with a Managing Partner on the HBJ 2026 Most Admired CEO list, but 'Most Admired CEO' is not a growth/capital trigger as defined for this segment.",
+    "source": "https://www.prnewswire.com/news-releases/oxford-partners-managing-partner-ryan-hartsell-named-a-2026-houston-business-journal-most-admired-ceo-302811370.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston commercial real estate advisory with a Managing Partner on the HBJ 2026 Most Admired CEO list, but 'Most Admired CEO' is not a growth/capital trigger as defined for this segment."
+    ]
+  },
+  {
+    "company_name": "Tomball Controls",
+    "reason": "Tomball, TX founder won EY Entrepreneur Of The Year 2026 Gulf South, but an individual award is not one of the growth_list / funding / acquisition triggers this segment requires.",
+    "source": "https://www.einpresswire.com/article/919982405/tomball-controls-founder-named-entrepreneur-of-the-year-2026-gulf-south-winner",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Tomball, TX founder won EY Entrepreneur Of The Year 2026 Gulf South, but an individual award is not one of the growth_list / funding / acquisition triggers this segment requires."
+    ]
+  },
+  {
+    "company_name": "Kodiak Robotics",
+    "reason": "Went public via SPAC merger \u2014 now a public company, outside the founder-led private-company ICP.",
+    "source": "https://houston.innovationmap.com/kodiak-robotics-goes-public-2674265790.html",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Went public via SPAC merger \u2014 now a public company, outside the founder-led private-company ICP."
+    ]
+  },
+  {
+    "company_name": "Zupt",
+    "reason": "Houston subsea firm acquired by Rosenxt in an offshore-technology deal \u2014 energy vertical, covered by the energy researcher.",
+    "source": "https://energycapitalhtx.com/zupt-rosenxt-acquisition",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston subsea firm acquired by Rosenxt in an offshore-technology deal \u2014 energy vertical, covered by the energy researcher."
+    ]
+  },
+  {
+    "company_name": "Lena Health (Bloom Circle, Inc.)",
+    "reason": "TMC-linked, founder-CEO-led ($2M seed April 2025, Alex Harb, Founder & CEO, 13 employees) and otherwise an excellent fit - but geography is contradictory: the company's own Privacy Policy and Terms give a legal address of 7710 Frida Bnd, Austin, TX 78744, while its LinkedIn page lists a Houston HQ at 2450 Holcombe Blvd. Cannot honestly assign metro=Houston. Re-check if the Houston address can be confirmed on an official source.",
+    "source": "https://lena.io/privacy",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: TMC-linked, founder-CEO-led ($2M seed April 2025, Alex Harb, Founder & CEO, 13 employees) and otherwise an excellent fit - but geography is contradictory: the company's own Privacy Policy and Terms give a legal address of 7710 Frida Bnd, Austin, TX 78744, while its LinkedIn page lists a Houston HQ at 2450 Holcombe Blvd. Cannot honestly assign metro=Houston. Re-check if the Houston address can be confirmed on an official source."
+    ]
+  },
+  {
+    "company_name": "CLS Health",
+    "reason": "Physician-owned and Houston-based, but self-reports more than 40 locations and 200+ providers - far above the 150-employee ceiling.",
+    "source": "https://cls.health/press/sports-injury-clinic-in-sugar-land",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Physician-owned and Houston-based, but self-reports more than 40 locations and 200+ providers - far above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Fondren Orthopedic Group",
+    "reason": "Physician-owned Houston orthopedic group with 40+ surgeons across 10+ locations and part of the OrthoLoneStar MSO; well above the 150-employee ceiling.",
+    "source": "https://www.fondren.com/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Physician-owned Houston orthopedic group with 40+ surgeons across 10+ locations and part of the OrthoLoneStar MSO; well above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Advanced Orthopaedics & Sports Medicine (AOSM)",
+    "reason": "Second-largest independent orthopedic group in Houston with 20 physicians, 7 PA/NPs and four locations plus in-house PT, OT and imaging, and a division of the OrthoLoneStar MSO - total staff almost certainly exceeds 150.",
+    "source": "https://wolfmediausa.com/2025/02/19/news-release-remedy-medical-properties-and-kayne-anderson-real-estate-begin-construction-on-new-advanced-orthopaedics-sports-medicine-mob/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Second-largest independent orthopedic group in Houston with 20 physicians, 7 PA/NPs and four locations plus in-house PT, OT and imaging, and a division of the OrthoLoneStar MSO - total staff almost certainly exceeds 150."
+    ]
+  },
+  {
+    "company_name": "Coastal Eye Associates",
+    "reason": "Six Houston-area locations under one PLLC; the NPI authorized official for every location is Kelly Ferree, Executive Administrator, not a physician-executive or owner, and the multi-site footprint suggests headcount at or above the 150 ceiling. Would need a sourced headcount before inclusion.",
+    "source": "https://npiregistry.cms.hhs.gov/provider-view/1922070036",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Six Houston-area locations under one PLLC; the NPI authorized official for every location is Kelly Ferree, Executive Administrator, not a physician-executive or owner, and the multi-site footprint suggests headcount at or above the 150 ceiling. Would need a sourced headcount before inclusion."
+    ]
+  },
+  {
+    "company_name": "Vida Family Medicine (Rebecca Berens, MD)",
+    "reason": "Physician-owned Houston-metro direct primary care practice with a published named email (rberens@vidafamilymed.com) and phone, but it presents as a solo micro-practice, which the anti-ICP list excludes (solopreneurs). No evidence of 5+ employees.",
+    "source": "https://www.rebeccaberensmd.com/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Physician-owned Houston-metro direct primary care practice with a published named email (rberens@vidafamilymed.com) and phone, but it presents as a solo micro-practice, which the anti-ICP list excludes (solopreneurs). No evidence of 5+ employees."
+    ]
+  },
+  {
+    "company_name": "Juniper Modern Primary Care (Sonia Singh, MD)",
+    "reason": "Self-described micropractice - below the 5-employee floor and inside the solopreneur exclusion.",
+    "source": "https://soniasinghmd.com/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Self-described micropractice - below the 5-employee floor and inside the solopreneur exclusion."
+    ]
+  },
+  {
+    "company_name": "Amanecia Health",
+    "reason": "Physician co-founded concierge practice (Dr. Ann Czarnik, Co-Founder) but it operates across Texas and Virginia via telemedicine and in-home visits; no Houston headquarters address is published, so metro=Houston cannot be honestly asserted.",
+    "source": "https://amaneciahealth.com/about/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Physician co-founded concierge practice (Dr. Ann Czarnik, Co-Founder) but it operates across Texas and Virginia via telemedicine and in-home visits; no Houston headquarters address is published, so metro=Houston cannot be honestly asserted."
+    ]
+  },
+  {
+    "company_name": "Nuveau Surgery Center",
+    "reason": "Independent Houston ASC with a 2025-05-28 organization NPI (a good new-launch signal) and a physician medical director (Edward Lee), but I could not reach any official practice website, so the decision-maker title has only one source (the NPI record) and no company-published contact detail exists. Fails the two-independent-sources rule.",
+    "source": "https://npiregistry.cms.hhs.gov/provider-view/1497548846",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Independent Houston ASC with a 2025-05-28 organization NPI (a good new-launch signal) and a physician medical director (Edward Lee), but I could not reach any official practice website, so the decision-maker title has only one source (the NPI record) and no company-published contact detail exists. Fails the two-independent-sources rule."
+    ]
+  },
+  {
+    "company_name": "TSO Champions (Texas State Optical Champions) / Dr. Ayesha Butt",
+    "reason": "Dated April 2026 dry-eye-center expansion and a Houston address, but ownership could not be verified - Dr. Butt is described as providing 'leadership' and her NPI is an individual optometrist record; no organization NPI or company filing confirms she owns the practice.",
+    "source": "https://www.einpresswire.com/article/905198066/houston-optometrist-dr-ayesha-butt-expands-dry-eye-center-to-focus-on-root-cause-treatment-not-just-symptoms",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dated April 2026 dry-eye-center expansion and a Houston address, but ownership could not be verified - Dr. Butt is described as providing 'leadership' and her NPI is an individual optometrist record; no organization NPI or company filing confirms she owns the practice."
+    ]
+  },
+  {
+    "company_name": "Gemini Urgent Care",
+    "reason": "Three Houston-area locations with a new League City site opened April 2026, but the decision-maker cannot be pinned down: Community Impact names an owner surnamed Khan while the NPI record for the Falcon Pass location lists Kashif Siddiqui as Owner of Falcon Healthcare Services. Conflicting identities.",
+    "source": "https://communityimpact.com/pearland-friendswood-manvel/healthcare/gemini-urgent-care-serves-with-affordability-efficiency-in-mind/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Three Houston-area locations with a new League City site opened April 2026, but the decision-maker cannot be pinned down: Community Impact names an owner surnamed Khan while the NPI record for the Falcon Pass location lists Kashif Siddiqui as Owner of Falcon Healthcare Services. Conflicting identities."
+    ]
+  },
+  {
+    "company_name": "Behavioral Innovations (Westchase clinic)",
+    "reason": "New Houston clinic opened Sept 2, 2026, but it is a large multi-state PE-backed autism services platform, not a founder-led 5-150 employee organization.",
+    "source": "https://communityimpact.com/heights-river-oaks-montrose/business/childrens-autism-diagnostic-therapeutic-care-clinic-now-open-along-westheimer-road/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: New Houston clinic opened Sept 2, 2026, but it is a large multi-state PE-backed autism services platform, not a founder-led 5-150 employee organization."
+    ]
+  },
+  {
+    "company_name": "Choice Health at Home / New Day Healthcare / LifeCare Home Health",
+    "reason": "Active 2025-2026 Texas home-health and hospice acquirers, but all are large multi-state, PE-backed platforms far above 150 employees; the Houston targets they bought (Devotion Hospice, Cy-Fair Health Care, Christian Senior Care, St. Gabriel's Hospice) are now absorbed and no longer founder-led.",
+    "source": "https://hospicenews.com/2025/02/20/new-day-healthcare-acquires-christian-senior-care-services/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Active 2025-2026 Texas home-health and hospice acquirers, but all are large multi-state, PE-backed platforms far above 150 employees; the Houston targets they bought (Devotion Hospice, Cy-Fair Health Care, Christian Senior Care, St. Gabriel's Hospice) are now absorbed and no longer founder-led."
+    ]
+  },
+  {
+    "company_name": "Specialists in Dermatology (Vintage Park)",
+    "reason": "Dated April 2026 relocation to a larger Vintage Park space, but no owner/founder could be identified from the practice site (a template phone number with a non-Texas area code was the only contact scraped) and no organization NPI matched the name.",
+    "source": "https://communityimpact.com/houston/spring-klein/business/2026/04/08/specialists-in-dermatology-to-relocate-to-larger-space-in-vintage-park/",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dated April 2026 relocation to a larger Vintage Park space, but no owner/founder could be identified from the practice site (a template phone number with a non-Texas area code was the only contact scraped) and no organization NPI matched the name."
+    ]
+  },
+  {
+    "company_name": "Baylor Medicine Orthopedics / Memorial Hermann / Houston Methodist / HCA Houston Healthcare",
+    "reason": "Hospital-system or academic-medical-center affiliated - excluded by the task brief and by the Anti-ICP rule on large organizations with existing EA pools.",
+    "source": "https://www.bcm.edu/news/baylor-medicine-opens-new-orthopedic-clinic-location-at-kirby-glen",
+    "_segment": "healthcare_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Hospital-system or academic-medical-center affiliated - excluded by the task brief and by the Anti-ICP rule on large organizations with existing EA pools."
+    ]
+  },
+  {
+    "company_name": "Schouest, Bamdas, Soshea & BenMaier PLLC (SBSB Eastham)",
+    "reason": "Out of size band: firm describes itself as 150+ attorneys across seven offices with ~203 total workforce, above the >150-staff exclusion for this segment.",
+    "source": "https://sbsblaw.com/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Out of size band: firm describes itself as 150+ attorneys across seven offices with ~203 total workforce, above the >150-staff exclusion for this segment."
+    ]
+  },
+  {
+    "company_name": "Gray Reed & McGraw LLP",
+    "reason": "Out of size band: ~150 attorneys and ~262 total workforce, above the >150-staff exclusion.",
+    "source": "https://www.grayreed.com/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Out of size band: ~150 attorneys and ~262 total workforce, above the >150-staff exclusion."
+    ]
+  },
+  {
+    "company_name": "Porter Hedges LLP",
+    "reason": "Out of size band: ranked 8th largest Houston firm with 123 local lawyers on HBJ's 2025 list, well above the 3-60 attorney target.",
+    "source": "https://www.porterhedges.com/newsroom-news-the-houston-business-journal-names-porter-hedges-among-the-largest-law-firms-for-2025",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Out of size band: ranked 8th largest Houston firm with 123 local lawyers on HBJ's 2025 list, well above the 3-60 attorney target."
+    ]
+  },
+  {
+    "company_name": "Dike Law Group",
+    "reason": "Out of geography for this segment: healthcare boutique but headquartered at 6160 Warren Parkway, Frisco, TX 75034 (DFW), not Houston metro.",
+    "source": "https://dklawg.com/team/doris-dike/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Out of geography for this segment: healthcare boutique but headquartered at 6160 Warren Parkway, Frisco, TX 75034 (DFW), not Houston metro."
+    ]
+  },
+  {
+    "company_name": "Zimmerman, Axelrad, Meyer, Stern & Wise, P.C.",
+    "reason": "No longer an independent firm: zimmerlaw.com now redirects to spencerfane.com, indicating absorption into Spencer Fane LLP (a large multi-state firm).",
+    "source": "https://zimmerlaw.com/attorneys/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: No longer an independent firm: zimmerlaw.com now redirects to spencerfane.com, indicating absorption into Spencer Fane LLP (a large multi-state firm)."
+    ]
+  },
+  {
+    "company_name": "Egan Nelson LLP",
+    "reason": "Decision-maker is not Houston-based: the firm's name partner Shane M. Egan is seated in Dallas (2911 Turtle Creek Blvd, Ste 1100) with a 214 direct line, so the row belongs in the Texas-expansion segment rather than legal_houston.",
+    "source": "https://www.egannelson.com/professionals/shane-m-egan/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Decision-maker is not Houston-based: the firm's name partner Shane M. Egan is seated in Dallas (2911 Turtle Creek Blvd, Ste 1100) with a 214 direct line, so the row belongs in the Texas-expansion segment rather than legal_houston."
+    ]
+  },
+  {
+    "company_name": "Markovich Grover",
+    "reason": "Could not source any contact data: markovichgrover.com is a fully client-rendered site that returns no addresses, phone numbers or emails in raw HTML, and no State Bar cross-check was attempted for the founders. Strong trigger exists (7 shareholders left Brown Sims to launch the firm, Feb 2025) so this is worth a browser-based retry by another agent.",
+    "source": "https://www.law.com/texaslawyer/2025/02/19/7-shareholders-leave-brown-sims-form-civil-trial-firm-launching-in-4-states/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not source any contact data: markovichgrover.com is a fully client-rendered site that returns no addresses, phone numbers or emails in raw HTML, and no State Bar cross-check was attempted for the founders. Strong trigger exists (7 shareholders left Brown Sims to launch the firm, Feb 2025) so this is worth a browser-based retry by another agent."
+    ]
+  },
+  {
+    "company_name": "Kretzer & Arnett (kafirm.com)",
+    "reason": "Could not source firm website data (domain returned nothing crawlable) and the only trigger source is an aggregated press-release republisher rather than a primary outlet; two-partner Bellaire firm, so contact data could not be verified to the standard in rule 2.",
+    "source": "https://newsramp.com/curated-news/legal-powerhouses-kretzer-arnett-launch-houston-litigation-boutique/0aae44aa7416923837e78beca68872e7",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not source firm website data (domain returned nothing crawlable) and the only trigger source is an aggregated press-release republisher rather than a primary outlet; two-partner Bellaire firm, so contact data could not be verified to the standard in rule 2."
+    ]
+  },
+  {
+    "company_name": "HTX Venture Legal PLLC",
+    "reason": "Could not source a firm website, address, phone or email -- htxventurelegal.com returned nothing crawlable and the only sources are syndicated press-release copies. Good ICP fit (founder/managing partner Layla Dotson Lumpkin, corporate/VC boutique launched ~2024) so worth a browser-based retry.",
+    "source": "https://pressadvantage.com/story/90205-htx-venture-legal-debuts-specialized-services-to-help-entrepreneurs-navigate-complex-transactions",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not source a firm website, address, phone or email -- htxventurelegal.com returned nothing crawlable and the only sources are syndicated press-release copies. Good ICP fit (founder/managing partner Layla Dotson Lumpkin, corporate/VC boutique launched ~2024) so worth a browser-based retry."
+    ]
+  },
+  {
+    "company_name": "Berg & Androphy / Law Offices of David Berg",
+    "reason": "Firm appears reconstituted (site now brands as 'Law Offices of David Berg' and describes Berg & Androphy as 'the predecessor firm') with only three attorneys listed and no named partner email published -- below the reliability bar and at the edge of the solopreneur exclusion.",
+    "source": "https://www.bafirm.com/attorney/david-berg/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Firm appears reconstituted (site now brands as 'Law Offices of David Berg' and describes Berg & Androphy as 'the predecessor firm') with only three attorneys listed and no named partner email published -- below the reliability bar and at the edge of the solopreneur exclusion."
+    ]
+  },
+  {
+    "company_name": "Parks Law PLLC",
+    "reason": "Appears to be a single-attorney firm ('founded by a seasoned trial lawyer', no named team) -- solopreneur exclusion in the anti-ICP list. The launch press release also never names the founder.",
+    "source": "https://www.einpresswire.com/article/837744299/parks-law-pllc-launches-in-houston",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Appears to be a single-attorney firm ('founded by a seasoned trial lawyer', no named team) -- solopreneur exclusion in the anti-ICP list. The launch press release also never names the founder."
+    ]
+  },
+  {
+    "company_name": "Peters Law (Houston healthcare)",
+    "reason": "Appears to be a solo practice (single named attorney, Cindy Peters) -- solopreneur exclusion in the anti-ICP list.",
+    "source": "https://peterslawhouston.com/about/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Appears to be a solo practice (single named attorney, Cindy Peters) -- solopreneur exclusion in the anti-ICP list."
+    ]
+  },
+  {
+    "company_name": "Kelly Watkins McPheeters",
+    "reason": "Three-lawyer appellate boutique split across Houston, San Antonio and Dallas with no single Houston-metro headquarters; could not source a Houston office address, phone or partner email to the standard in rule 2.",
+    "source": "https://www.law.com/texaslawyer/2025/01/29/ex-appellate-court-judges-launch-boutique-focused-on-plaintiffs-appeals/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Three-lawyer appellate boutique split across Houston, San Antonio and Dallas with no single Houston-metro headquarters; could not source a Houston office address, phone or partner email to the standard in rule 2."
+    ]
+  },
+  {
+    "company_name": "Morris Law and Associates PLLC",
+    "reason": "Appears to be a single-attorney practice (Brittanye Morris) combining law firm and title agency -- solopreneur exclusion, and the title-company revenue mix sits outside the legal ICP.",
+    "source": "https://www.morningstar.com/news/globe-newswire/9461628/morris-law-and-associates-attorney-brittanye-morris-launches-innovative-dual-service-approach-to-real-estate-law-in-houston-market",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Appears to be a single-attorney practice (Brittanye Morris) combining law firm and title agency -- solopreneur exclusion, and the title-company revenue mix sits outside the legal ICP."
+    ]
+  },
+  {
+    "company_name": "Smyser Kaplan & Veselka LLP",
+    "reason": "Could not reach skv.com on any tried path (no attorney index, no contact page) so no contact data could be sourced. Known Houston trial boutique -- worth a browser-based retry.",
+    "source": null,
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not reach skv.com on any tried path (no attorney index, no contact page) so no contact data could be sourced. Known Houston trial boutique -- worth a browser-based retry."
+    ]
+  },
+  {
+    "company_name": "Schiffer Hicks Johnson PLLC",
+    "reason": "Could not reach shjlawfirm.com on any tried path, so no contact data could be sourced. Known Houston trial boutique -- worth a browser-based retry.",
+    "source": null,
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not reach shjlawfirm.com on any tried path, so no contact data could be sourced. Known Houston trial boutique -- worth a browser-based retry."
+    ]
+  },
+  {
+    "company_name": "Crain Caton & James",
+    "reason": "Could not reach craincaton.com attorney index on any tried path; no contact data sourced.",
+    "source": null,
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not reach craincaton.com attorney index on any tried path; no contact data sourced."
+    ]
+  },
+  {
+    "company_name": "Diggs & Sadler",
+    "reason": "Could not reach diggsandsadler.com attorney index on any tried path; no contact data sourced. Houston family-law boutique -- worth a browser-based retry.",
+    "source": null,
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Could not reach diggsandsadler.com attorney index on any tried path; no contact data sourced. Houston family-law boutique -- worth a browser-based retry."
+    ]
+  },
+  {
+    "company_name": "Hoover Slovacek LLP",
+    "reason": "Attorney bio pages returned empty bodies on repeated fetches, so no name/title/email could be sourced for a managing shareholder. Houston real-estate/bankruptcy boutique -- worth a browser-based retry.",
+    "source": "https://hooverslovacek.com/attorneys/leonard-meyer/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Attorney bio pages returned empty bodies on repeated fetches, so no name/title/email could be sourced for a managing shareholder. Houston real-estate/bankruptcy boutique -- worth a browser-based retry."
+    ]
+  },
+  {
+    "company_name": "Bella Law PLLC",
+    "reason": "Moved to rejected on size/solo doubt: no per-attorney mailbox published, State Bar record lists only a PO Box and a different phone, and I could not confirm the firm has more than one timekeeper (solopreneur exclusion risk). Founder/managing attorney Babak Kalbasigharavi is a good healthcare-law fit if another agent can verify headcount.",
+    "source": "https://bellalawpllc.com/attorneys/babak-kg/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Moved to rejected on size/solo doubt: no per-attorney mailbox published, State Bar record lists only a PO Box and a different phone, and I could not confirm the firm has more than one timekeeper (solopreneur exclusion risk). Founder/managing attorney Babak Kalbasigharavi is a good healthcare-law fit if another agent can verify headcount."
+    ]
+  },
+  {
+    "company_name": "Roberts Markel Weinberg Butler Hailey PC",
+    "reason": "Moved to rejected on size: attorney index lists 45+ attorneys across multiple Texas offices and total staff likely exceeds the >150 exclusion; the firm also publishes no attorney email addresses, so no named contact could be sourced.",
+    "source": "https://rmwbh.com/attorneys/",
+    "_segment": "legal_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Moved to rejected on size: attorney index lists 45+ attorneys across multiple Texas offices and total staff likely exceeds the >150 exclusion; the firm also publishes no attorney email addresses, so no named contact could be sourced."
+    ]
+  },
+  {
+    "company_name": "Pelican Energy Partners",
+    "reason": "Houston energy PE and a good size fit, but the team page already lists a dedicated Executive Assistant plus an Office Manager and a 30+ person back office - the ICP is the executive who has NOT yet made that hire.",
+    "source": "https://www.pelicanenergypartners.com/our-team",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston energy PE and a good size fit, but the team page already lists a dedicated Executive Assistant plus an Office Manager and a 30+ person back office - the ICP is the executive who has NOT yet made that hire."
+    ]
+  },
+  {
+    "company_name": "TXE Partners",
+    "reason": "Houston lower-middle-market holdco, but the team page lists a full-time Executive Administrator supporting the founder and executive team.",
+    "source": "https://txepartners.com/our-team",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston lower-middle-market holdco, but the team page lists a full-time Executive Administrator supporting the founder and executive team."
+    ]
+  },
+  {
+    "company_name": "The Artemis Fund",
+    "reason": "Houston VC in the right size band, but the team page lists a dedicated Executive Assistant.",
+    "source": "https://theartemisfund.com/team",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston VC in the right size band, but the team page lists a dedicated Executive Assistant."
+    ]
+  },
+  {
+    "company_name": "Rock Hill Capital",
+    "reason": "Six-person Houston industrial PE firm, but the team page lists a dedicated Executive Administrator; excluded for consistency with the other already-staffed firms.",
+    "source": "https://www.rockhillcap.com/team",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Six-person Houston industrial PE firm, but the team page lists a dedicated Executive Administrator; excluded for consistency with the other already-staffed firms."
+    ]
+  },
+  {
+    "company_name": "Prudentia Group",
+    "reason": "Explicitly a one-person acquisition vehicle ('Not a fund. Not a portfolio. One business, one owner') - solopreneur, below the 3-60 employee band and inside the anti-ICP.",
+    "source": "https://www.prudentia-group.com/",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Explicitly a one-person acquisition vehicle ('Not a fund. Not a portfolio. One business, one owner') - solopreneur, below the 3-60 employee band and inside the anti-ICP."
+    ]
+  },
+  {
+    "company_name": "EnCap Investments",
+    "reason": "Mega-fund energy PE explicitly excluded by the segment brief.",
+    "source": "https://encapinvestments.com/team",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Mega-fund energy PE explicitly excluded by the segment brief."
+    ]
+  },
+  {
+    "company_name": "The Sterling Group",
+    "reason": "Multi-billion-dollar industrial PE platform with Houston and Dallas offices; above the size band the segment targets.",
+    "source": "https://sterling-group.com/",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Multi-billion-dollar industrial PE platform with Houston and Dallas offices; above the size band the segment targets."
+    ]
+  },
+  {
+    "company_name": "Main Street Capital Corporation",
+    "reason": "Publicly traded BDC, not a partner-led private-capital firm in the 3-60 employee band.",
+    "source": "https://www.mainstcapital.com/team/lower-middle-market-team",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Publicly traded BDC, not a partner-led private-capital firm in the 3-60 employee band."
+    ]
+  },
+  {
+    "company_name": "Linscomb Wealth, Inc.",
+    "reason": "Houston RIA but $5.21B regulatory AUM and 46 employees - above the $200M-$3B AUM band in the brief.",
+    "source": "https://adviserinfo.sec.gov/firm/summary/106779",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston RIA but $5.21B regulatory AUM and 46 employees - above the $200M-$3B AUM band in the brief."
+    ]
+  },
+  {
+    "company_name": "Chilton Capital Management LLC",
+    "reason": "Houston RIA with $3.23B regulatory AUM - just above the $200M-$3B band; held back rather than stretched.",
+    "source": "https://adviserinfo.sec.gov/firm/summary/104592",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston RIA with $3.23B regulatory AUM - just above the $200M-$3B band; held back rather than stretched."
+    ]
+  },
+  {
+    "company_name": "RIA Advisors",
+    "reason": "Houston RIA, $1.84B AUM and 17 employees (good fit on size), but no verifiable 2025-2026 trigger event was found; the only recent Form ADV change is an affiliate filing.",
+    "source": "https://adviserinfo.sec.gov/firm/summary/150661",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston RIA, $1.84B AUM and 17 employees (good fit on size), but no verifiable 2025-2026 trigger event was found; the only recent Form ADV change is an affiliate filing."
+    ]
+  },
+  {
+    "company_name": "Horizon Wealth Advisors",
+    "reason": "Houston RIA, $451M AUM and 4 employees, but no verifiable 2025-2026 trigger event was found.",
+    "source": "https://adviserinfo.sec.gov/firm/summary/114102",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston RIA, $451M AUM and 4 employees, but no verifiable 2025-2026 trigger event was found."
+    ]
+  },
+  {
+    "company_name": "Golden Section",
+    "reason": "Houston vertical-SaaS VC/lending firm with a clear co-founder decision-maker, but no dated 2025-2026 trigger event (fund close, hire, office) could be sourced.",
+    "source": "https://goldensection.com/team",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston vertical-SaaS VC/lending firm with a clear co-founder decision-maker, but no dated 2025-2026 trigger event (fund close, hire, office) could be sourced."
+    ]
+  },
+  {
+    "company_name": "Citation Capital",
+    "reason": "Closed a $1.2B inaugural fund in 2026 but is Dallas-headquartered, not Houston metro.",
+    "source": "https://www.bizjournals.com/dallas/news/2026/07/13/citation-capital-record-1-billion-inaugural-fund.html",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Closed a $1.2B inaugural fund in 2026 but is Dallas-headquartered, not Houston metro."
+    ]
+  },
+  {
+    "company_name": "Canopy Real Estate Partners",
+    "reason": "Closed a $75M inaugural fund in 2026 but is Denver-headquartered.",
+    "source": "https://canopyrepartners.com/contact/",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Closed a $75M inaugural fund in 2026 but is Denver-headquartered."
+    ]
+  },
+  {
+    "company_name": "Arvore Partners LP",
+    "reason": "Targeting the Texas lower middle market in 2026 but is an affiliate of Calgary-based Omnigence Asset Management, not a Houston-headquartered firm.",
+    "source": "https://cbherald.net/article/arvore-us-lp-sets-initial-focus-on-the-texas-lower-mid-market/",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Targeting the Texas lower middle market in 2026 but is an affiliate of Calgary-based Omnigence Asset Management, not a Houston-headquartered firm."
+    ]
+  },
+  {
+    "company_name": "Cresset Capital (Houston office)",
+    "reason": "Branch office of a national multi-family office platform rather than a Houston-headquartered 3-60 person firm.",
+    "source": "https://cressetcapital.com/locations/houston/",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Branch office of a national multi-family office platform rather than a Houston-headquartered 3-60 person firm."
+    ]
+  },
+  {
+    "company_name": "Mariner Wealth Advisors (Houston)",
+    "reason": "Branch of a national RIA aggregator; decision-making is not local and firm size is far above the band.",
+    "source": "https://www.marinerwealthadvisors.com/our-team/michael-contant/",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Branch of a national RIA aggregator; decision-making is not local and firm size is far above the band."
+    ]
+  },
+  {
+    "company_name": "Stoutbridge Capital",
+    "reason": "Houston VC/PE firm identified via LinkedIn, but no reachable firm website was found to source address, phone or team page - could not meet the two-source rule.",
+    "source": "https://www.linkedin.com/in/david-hanse-56737a21",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston VC/PE firm identified via LinkedIn, but no reachable firm website was found to source address, phone or team page - could not meet the two-source rule."
+    ]
+  },
+  {
+    "company_name": "Del Monte Capital",
+    "reason": "Houston PE firm founded 2023 per LinkedIn, but no reachable firm website was found to source contact details or confirm the team.",
+    "source": "https://www.linkedin.com/in/davidhartland",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston PE firm founded 2023 per LinkedIn, but no reachable firm website was found to source contact details or confirm the team."
+    ]
+  },
+  {
+    "company_name": "Hilltop Residential",
+    "reason": "Houston multifamily investor that closed a $288M fund in 2026, but it is a vertically integrated owner/operator with on-site property staff, likely well above the 3-60 employee band.",
+    "source": "https://www.bizjournals.com/houston/news/2026/04/22/hilltop-residential-closes-largest-ever-fund.html",
+    "_segment": "private_capital_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston multifamily investor that closed a $288M fund in 2026, but it is a vertically integrated owner/operator with on-site property staff, likely well above the 3-60 employee band."
+    ]
+  },
+  {
+    "company_name": "Calvetti Ferguson, P.C.",
+    "reason": "Houston CPA firm acquired by Cherry Bekaert (FY24 net revenue $658M) effective June 2026 and now operates under the Cherry Bekaert brand - managing partner no longer an independent decision maker.",
+    "source": "https://www.prnewswire.com/news-releases/cherry-bekaert-acquires-calvetti-ferguson-expanding-texas-and-nashville-presence-302787192.html",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston CPA firm acquired by Cherry Bekaert (FY24 net revenue $658M) effective June 2026 and now operates under the Cherry Bekaert brand - managing partner no longer an independent decision maker."
+    ]
+  },
+  {
+    "company_name": "Pannell Kerr Forster of Texas (PKF Texas)",
+    "reason": "20 partners and ~160 staff joined top-25 firm Withum in June 2025; no longer an independent Houston firm.",
+    "source": "https://www.cpapracticeadvisor.com/2025/06/03/withum-strikes-a-deal-with-pkf-texas/162178/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: 20 partners and ~160 staff joined top-25 firm Withum in June 2025; no longer an independent Houston firm."
+    ]
+  },
+  {
+    "company_name": "Doeren Mayhew (Houston office)",
+    "reason": "Houston managing principal Chris Masters is a strong profile, but the firm is a top-50 national platform with Audax private-equity backing and well over 500 employees - outside the task's 'not top-25/independent' framing and the ICP size band.",
+    "source": "https://www.cpapracticeadvisor.com/2025/12/15/doeren-mayhew-acquires-tbk-cpa-in-houston/174974/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston managing principal Chris Masters is a strong profile, but the firm is a top-50 national platform with Audax private-equity backing and well over 500 employees - outside the task's 'not top-25/independent' framing and the ICP size band."
+    ]
+  },
+  {
+    "company_name": "Reimer McGuinness Hess CPAs & Advisors",
+    "reason": "All 38 employees absorbed into Doeren Mayhew effective July 1, 2025; firm no longer exists independently.",
+    "source": "https://insidepublicaccounting.com/2025/07/17/doeren-mayhew-grows-houston-office-with-reimer-mcguinness-hess-acquisition/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: All 38 employees absorbed into Doeren Mayhew effective July 1, 2025; firm no longer exists independently."
+    ]
+  },
+  {
+    "company_name": "TBK CPA, PLLC",
+    "reason": "Acquired by Doeren Mayhew effective Nov. 17, 2025; partners became Doeren Mayhew tax principals.",
+    "source": "https://insidepublicaccounting.com/2025/12/15/doeren-mayhew-acquires-tbk-cpa-pllc-expands-houston-presence/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Acquired by Doeren Mayhew effective Nov. 17, 2025; partners became Doeren Mayhew tax principals."
+    ]
+  },
+  {
+    "company_name": "Whitley Penn",
+    "reason": "Top-25 national accounting firm; explicitly excluded by the segment brief.",
+    "source": "https://www.whitleypenn.com/press/whitley-penn-named-to-largest-houston-area-accounting-firms-list/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Top-25 national accounting firm; explicitly excluded by the segment brief."
+    ]
+  },
+  {
+    "company_name": "R.G. Miller Engineers",
+    "reason": "Now operating under DCCM, which reports 369 Houston employees and 1,200 nationwide with $257M revenue - above the ICP size band and no longer independently led.",
+    "source": "https://www.hampsonproperties.com/blog/dccm-finds-a-sparkling-new-home-in-zadoks-uptown-development/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Now operating under DCCM, which reports 369 Houston employees and 1,200 nationwide with $257M revenue - above the ICP size band and no longer independently led."
+    ]
+  },
+  {
+    "company_name": "Costello, Inc.",
+    "reason": "Houston civil/survey firm (195 employees) took investment from Pape-Dawson in 2023 and operates inside that platform; president/CEO no longer the independent owner-decision maker.",
+    "source": "https://www.pape-dawson.com/news/pape-dawson-announces-partnership-with-costello/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston civil/survey firm (195 employees) took investment from Pape-Dawson in 2023 and operates inside that platform; president/CEO no longer the independent owner-decision maker."
+    ]
+  },
+  {
+    "company_name": "Gauge Engineering",
+    "reason": "Acquired by national firm HR Green (800+ employees) in 2025; leadership now runs HR Green's Houston operations.",
+    "source": "https://www.hrgreen.com/local-experience-national-strength-meet-our-expanding-houston-team/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Acquired by national firm HR Green (800+ employees) in 2025; leadership now runs HR Green's Houston operations."
+    ]
+  },
+  {
+    "company_name": "ATR Engineering",
+    "reason": "Houston site/civil firm acquired by Langan in February 2025; founder became a Langan senior associate.",
+    "source": "https://www.langan.com/news-and-insights/news-awards/langan-acquires-atr-engineering-houston",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston site/civil firm acquired by Langan in February 2025; founder became a Langan senior associate."
+    ]
+  },
+  {
+    "company_name": "Quiddity Engineering",
+    "reason": "650+ team members across Texas and new Florida offices - well above the 5-150 employee band.",
+    "source": "https://www.prnewswire.com/news-releases/quiddity-engineering-announces-regional-expansion-into-florida-302358923.html",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: 650+ team members across Texas and new Florida offices - well above the 5-150 employee band."
+    ]
+  },
+  {
+    "company_name": "LJA Engineering, Inc.",
+    "reason": "ENR-ranked Houston firm with ~497 licensed engineers and $508M regional revenue - far above the ICP size band.",
+    "source": "https://www.enr.com/Texas-Southeast/toplists/2025-top-design-firms-preview",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: ENR-ranked Houston firm with ~497 licensed engineers and $508M regional revenue - far above the ICP size band."
+    ]
+  },
+  {
+    "company_name": "HVJ Associates, Inc.",
+    "reason": "Founder/president fits the profile, but the president has had a dedicated executive assistant since 2005, so the core pain the offer solves is already covered.",
+    "source": "https://www.linkedin.com/in/pam-campbell-9b823518",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Founder/president fits the profile, but the president has had a dedicated executive assistant since 2005, so the core pain the offer solves is already covered."
+    ]
+  },
+  {
+    "company_name": "Kirksey Architecture",
+    "reason": "Large Houston architecture firm (multiple 2025 AIA Houston awards) with staff well above the ICP band and an established admin bench.",
+    "source": "https://architecturehouston.org/committees/design-awards/2025-aia-houston-design-awards-winners/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Large Houston architecture firm (multiple 2025 AIA Houston awards) with staff well above the ICP band and an established admin bench."
+    ]
+  },
+  {
+    "company_name": "clovisbaronian",
+    "reason": "Two-principal Houston studio (Georgina Baronian and Sam Clovis, both academics) - effectively a solo/duo practice below the 5-employee floor.",
+    "source": "https://arch.rice.edu/latest/news/georgina-baronian-and-sam-clovis-clovisbaronian-win-aia-houston-award-boards-category",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Two-principal Houston studio (Georgina Baronian and Sam Clovis, both academics) - effectively a solo/duo practice below the 5-employee floor."
+    ]
+  },
+  {
+    "company_name": "Inflection Architecture",
+    "reason": "Award-winning but principal-plus-two practice led by a UH faculty member; below the ICP size floor.",
+    "source": "https://www.uh.edu/architecture/newsroom/stories/2025/hines-college-shines-at-aia-houston-design-awards.php",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Award-winning but principal-plus-two practice led by a UH faculty member; below the ICP size floor."
+    ]
+  },
+  {
+    "company_name": "ImproVision Consulting",
+    "reason": "Houston leadership-development firm that is effectively a solo practitioner (founder-coach model) - anti-ICP 'solopreneur'.",
+    "source": "https://councils.forbes.com/profile/Shannan-Scarselletta-Founder-CEO-ImproVision-Consulting/f17b7435-c438-4131-b231-cd4da20eb3d6",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston leadership-development firm that is effectively a solo practitioner (founder-coach model) - anti-ICP 'solopreneur'."
+    ]
+  },
+  {
+    "company_name": "Artis Brown Consulting",
+    "reason": "Strategic advisory firm launched 2026 by a former ExxonMobil EVP, but appears to be a one-person practice with no published staff.",
+    "source": "https://www.linkedin.com/posts/artisbrown_artis-brown-consulting-activity-7429877990441857024-x7il",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Strategic advisory firm launched 2026 by a former ExxonMobil EVP, but appears to be a one-person practice with no published staff."
+    ]
+  },
+  {
+    "company_name": "Highpoint Insurance Group",
+    "reason": "44-employee Friendswood agency acquired by Alliant in November 2025 and now operates as Alliant.",
+    "source": "https://www.insurancejournal.com/news/southcentral/2025/11/12/847155.htm",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: 44-employee Friendswood agency acquired by Alliant in November 2025 and now operates as Alliant."
+    ]
+  },
+  {
+    "company_name": "TGS Insurance Agency",
+    "reason": "Houston agency acquired by Confie in December 2025 and folded into the InsureOne brand.",
+    "source": "https://www.prnewswire.com/news-releases/confie-acquires-tgs-insurance-agency-accelerating-insureones-national-expansion-302644326.html",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston agency acquired by Confie in December 2025 and folded into the InsureOne brand."
+    ]
+  },
+  {
+    "company_name": "Uno Insurance Services",
+    "reason": "Houston agency acquired by COVU in May 2025; principal retained only as a strategic consultant.",
+    "source": "https://www.insurancejournal.com/news/southcentral/2025/05/23/824917.htm",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston agency acquired by COVU in May 2025; principal retained only as a strategic consultant."
+    ]
+  },
+  {
+    "company_name": "GMC Advisors, LLC",
+    "reason": "Houston energy-focused insurance specialist acquired by Risk Strategies (national platform) in April 2025.",
+    "source": "https://www.globenewswire.com/news-release/2025/04/27/3068822/0/en/Risk-Strategies-acquires-GMC-Advisors-LLC.html",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston energy-focused insurance specialist acquired by Risk Strategies (national platform) in April 2025."
+    ]
+  },
+  {
+    "company_name": "NorthPeak Commercial Advisors Texas",
+    "reason": "Houston division of a Denver-based brokerage; decision-making principals are Colorado-based rather than a Houston founding principal.",
+    "source": "https://northpeakcre.com/news/northpeak-commercial-advisors-expands-to-texas-launching-new-houston-division-to-serve-commercial-real-estate-investors/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Houston division of a Denver-based brokerage; decision-making principals are Colorado-based rather than a Houston founding principal."
+    ]
+  },
+  {
+    "company_name": "Martini & Co. Real Estate Advisors",
+    "reason": "July 2025 Houston launch, but the practice is residential brokerage (Martha Turner Sotheby's lineage) rather than commercial professional services, and is partly owned by a developer parent.",
+    "source": "https://therealdeal.com/texas/2025/07/07/ashton-martini-yoni-sade-launch-houston-brokerage/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: July 2025 Houston launch, but the practice is residential brokerage (Martha Turner Sotheby's lineage) rather than commercial professional services, and is partly owned by a developer parent."
+    ]
+  },
+  {
+    "company_name": "Bridgepoint Consulting (Houston)",
+    "reason": "Management consultancy but a subsidiary of Addison Group; Houston office directors are employees, not owner-principals.",
+    "source": "https://bridgepointconsulting.com/insights/press/bridgepoint-consulting-announces-bobbie-burkeen-as-director-of-houston-office/",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Management consultancy but a subsidiary of Addison Group; Houston office directors are employees, not owner-principals."
+    ]
+  },
+  {
+    "company_name": "Roland Berger (Houston)",
+    "reason": "Global management consultancy opening a Houston team - large multinational, not an owner-led boutique.",
+    "source": "https://www.businesswire.com/news/home/20250509819549/en/Roland-Berger-Is-Pleased-to-Announce-the-Expansion-of-Its-U.S.-Presence-to-Include-a-Full-Team-Now-Based-in-Houston-Texas",
+    "_segment": "profservices_houston",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Global management consultancy opening a Houston team - large multinational, not an owner-led boutique."
+    ]
+  },
+  {
+    "company_name": "Plutus Health Inc.",
+    "reason": "Strong hiring_ea trigger (Built In posting for Executive Assistant to the CEO, Dallas) but the company states over 1,600 specialists/employees globally, exceeding the 150-employee ceiling.",
+    "source": "https://www.plutushealthinc.com/press-release/plutus-health-makes-it-to-the-inc-5000-list-for-the-third-consecutive-time",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Strong hiring_ea trigger (Built In posting for Executive Assistant to the CEO, Dallas) but the company states over 1,600 specialists/employees globally, exceeding the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Kairoi Residential",
+    "reason": "Hiring an Executive Administrative Assistant to the CEO in San Antonio, but headcount is roughly 425, above the 150-employee ceiling.",
+    "source": "https://www.tealhq.com/job/executive-administrative-assistant-to-the-ceo_7ea1a43ef05913c77e80ae26069ee270be8f7",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Hiring an Executive Administrative Assistant to the CEO in San Antonio, but headcount is roughly 425, above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Zone 5 Technologies",
+    "reason": "EA posting lists Fort Worth, TX but the company is headquartered in San Luis Obispo, California, so it fails the DFW/Austin/San Antonio metro requirement.",
+    "source": "https://job-boards.greenhouse.io/zone5technologies/jobs/5370111008",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: EA posting lists Fort Worth, TX but the company is headquartered in San Luis Obispo, California, so it fails the DFW/Austin/San Antonio metro requirement."
+    ]
+  },
+  {
+    "company_name": "Gruns (Gr\u00fcns)",
+    "reason": "Greenhouse posting for Executive Assistant to CEO says 'based near Austin, Texas' and the founder is Austin-based, but the company's published headquarters is Beaverton, Oregon; metro requirement not met.",
+    "source": "https://linkedin.com/company/gruns",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Greenhouse posting for Executive Assistant to CEO says 'based near Austin, Texas' and the founder is Austin-based, but the company's published headquarters is Beaverton, Oregon; metro requirement not met."
+    ]
+  },
+  {
+    "company_name": "Red Oak Compliance Solutions",
+    "reason": "Austin EA-to-CEO posting is a strong trigger and the main phone is published, but the CEO changed in July 2026 and only one source (LinkedIn) names the successor - cannot meet the two-source rule for decision-maker name/title.",
+    "source": "https://jobs.ashbyhq.com/red-oak/6db723b8-6ae2-4aa0-b6d5-d2f69bcbde77",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Austin EA-to-CEO posting is a strong trigger and the main phone is published, but the CEO changed in July 2026 and only one source (LinkedIn) names the successor - cannot meet the two-source rule for decision-maker name/title."
+    ]
+  },
+  {
+    "company_name": "Noda AI",
+    "reason": "Ashby posting for an Austin, TX Executive Assistant with ITAR requirements, but the only 'Noda' entity I could resolve publishes a Washington, DC headquarters - HQ metro could not be confirmed as Austin.",
+    "source": "https://jobs.ashbyhq.com/noda-ai/4462d6e9-77c0-4afc-8e62-900a2c12bbbf",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Ashby posting for an Austin, TX Executive Assistant with ITAR requirements, but the only 'Noda' entity I could resolve publishes a Washington, DC headquarters - HQ metro could not be confirmed as Austin."
+    ]
+  },
+  {
+    "company_name": "Saronic Technologies",
+    "reason": "Austin EA posting, but the defense company has grown well past 150 employees and multiple large funding rounds.",
+    "source": "https://jobs.ashbyhq.com/saronic/f5224c9c-bd7b-4805-9c14-a0c41492cf56",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Austin EA posting, but the defense company has grown well past 150 employees and multiple large funding rounds."
+    ]
+  },
+  {
+    "company_name": "SRS Real Estate Partners",
+    "reason": "Dallas Executive Assistant to the CEO posting, but the firm is a national brokerage with several hundred employees, above the size band.",
+    "source": "https://www.jobtarget.com/jobs/jt-mc5zey6szr/executive-assistant-to-the-ceo-dallas-texas",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dallas Executive Assistant to the CEO posting, but the firm is a national brokerage with several hundred employees, above the size band."
+    ]
+  },
+  {
+    "company_name": "Loenbro, LLC",
+    "reason": "Executive Assistant to the CEO role in Dallas/Irving, TX, but Loenbro is headquartered in Montana and employs well over 1,000 people.",
+    "source": "https://job-boards.greenhouse.io/loenbro/jobs/4330605009",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Executive Assistant to the CEO role in Dallas/Irving, TX, but Loenbro is headquartered in Montana and employs well over 1,000 people."
+    ]
+  },
+  {
+    "company_name": "Homebound",
+    "reason": "Dallas EA posting but the company is headquartered in San Francisco and is above the size band.",
+    "source": "https://jobs.ashbyhq.com/homebound/ab438366-fcf4-4066-be71-b5de578a8ba9",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dallas EA posting but the company is headquartered in San Francisco and is above the size band."
+    ]
+  },
+  {
+    "company_name": "Megaport",
+    "reason": "Dallas/Fort Worth EA to CEO & Leadership Team posting, but Megaport is an ASX-listed Australian company, not a 5-150 employee Texas business.",
+    "source": "https://jobs.lever.co/megaport/a39c8ba1-a331-48ab-91dc-c3605a6514ca",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dallas/Fort Worth EA to CEO & Leadership Team posting, but Megaport is an ASX-listed Australian company, not a 5-150 employee Texas business."
+    ]
+  },
+  {
+    "company_name": "Embark",
+    "reason": "Dallas Executive Assistant to the CEO posting was removed on 2026-04-15 (stale trigger) and the consulting firm is above the size band.",
+    "source": "https://builtin.com/job/executive-assistant-ceo/7742760",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dallas Executive Assistant to the CEO posting was removed on 2026-04-15 (stale trigger) and the consulting firm is above the size band."
+    ]
+  },
+  {
+    "company_name": "Maverick Power",
+    "reason": "Excellent growth trigger (No. 16 on the 2025 Inc. 5000, No. 212 in 2026) and published phone/email, but headcount is approximately 191, above the 150-employee ceiling.",
+    "source": "https://www.linkedin.com/company/maverick-power",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Excellent growth trigger (No. 16 on the 2025 Inc. 5000, No. 212 in 2026) and published phone/email, but headcount is approximately 191, above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Sendero Consulting",
+    "reason": "Dallas Inc. 5000 consulting firm but headcount is approximately 339, above the 150-employee ceiling.",
+    "source": "https://linkedin.com/company/sendero",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dallas Inc. 5000 consulting firm but headcount is approximately 339, above the 150-employee ceiling."
+    ]
+  },
+  {
+    "company_name": "Catalyst Physician Group",
+    "reason": "Physician-owned North Texas primary-care group with a new Richardson clinic (April 2026) and a published general email, but the organization reports 120+ providers and about 500 employees, above the size band.",
+    "source": "https://www.catalystphysiciangroup.com/",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Physician-owned North Texas primary-care group with a new Richardson clinic (April 2026) and a published general email, but the organization reports 120+ providers and about 500 employees, above the size band."
+    ]
+  },
+  {
+    "company_name": "Premier Neurology & Wellness Center",
+    "reason": "Surfaced as a Prosper, TX expansion, but the practice's published phone numbers are Florida (772) area code and the entity is not a Texas-headquartered practice.",
+    "source": "https://premierneurologycenter.com/contact/",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Surfaced as a Prosper, TX expansion, but the practice's published phone numbers are Florida (772) area code and the entity is not a Texas-headquartered practice."
+    ]
+  },
+  {
+    "company_name": "ATX Defense",
+    "reason": "Austin Inc. 5000 first-time honoree (No. 1,779, 2025) with a founder/managing partner, but atxdefense.com publishes no main phone and no general email, so no contact channel could be sourced.",
+    "source": "https://www.linkedin.com/posts/zacharyvwalker_cmmc-dib-inc5000-activity-7366097594151804928-UAEs",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Austin Inc. 5000 first-time honoree (No. 1,779, 2025) with a founder/managing partner, but atxdefense.com publishes no main phone and no general email, so no contact channel could be sourced."
+    ]
+  },
+  {
+    "company_name": "Momentum Private Wealth Management LLC",
+    "reason": "Cedar Park RIA with phone and general email confirmed on Form ADV, but the firm is a single-owner 1-10 person practice, which trips the solopreneur anti-ICP rule.",
+    "source": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1036246",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Cedar Park RIA with phone and general email confirmed on Form ADV, but the firm is a single-owner 1-10 person practice, which trips the solopreneur anti-ICP rule."
+    ]
+  },
+  {
+    "company_name": "Craftsman Capital Partners, LLC",
+    "reason": "Dallas lower-middle-market PE firm with published partner emails and direct lines, but roughly 1-3 employees and no 2025-2026 trigger event could be found.",
+    "source": "https://www.craftsmancapitalpartners.com/",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dallas lower-middle-market PE firm with published partner emails and direct lines, but roughly 1-3 employees and no 2025-2026 trigger event could be found."
+    ]
+  },
+  {
+    "company_name": "Wildcat Management LLC",
+    "reason": "Dallas family office advertising an Executive Assistant to the CEO, but wildcatmgmt.com is effectively a single-line placeholder with no published phone, email, team or address.",
+    "source": "https://www.wildcatmgmt.com/",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Dallas family office advertising an Executive Assistant to the CEO, but wildcatmgmt.com is effectively a single-line placeholder with no published phone, email, team or address."
+    ]
+  },
+  {
+    "company_name": "Palm Primary Care",
+    "reason": "Fort Worth clinic group expanding via acquisition, but it is PE-backed (MBF Healthcare Partners) and led by a non-physician CEO, so it does not meet the physician-owned criterion for this bucket.",
+    "source": "https://palmprimarycare.com/about-us/",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Fort Worth clinic group expanding via acquisition, but it is PE-backed (MBF Healthcare Partners) and led by a non-physician CEO, so it does not meet the physician-owned criterion for this bucket."
+    ]
+  },
+  {
+    "company_name": "Piping Technology & Products / Global Compression Services / Vitalus Health / DeliverIt Group",
+    "reason": "All four posted Executive Assistant to CEO roles in 2026 but are Houston-area employers, which belongs to the Houston segment rather than this Texas-expansion overflow segment.",
+    "source": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4391190",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: All four posted Executive Assistant to CEO roles in 2026 but are Houston-area employers, which belongs to the Houston segment rather than this Texas-expansion overflow segment."
+    ]
+  },
+  {
+    "company_name": "Deacon Recruiting / High Profile Inc. / C-Suite Assistants / Delta Dallas / Imprimis Group / Frontline Source Group",
+    "reason": "All are staffing or executive-search agencies posting confidential EA searches without naming the client, and staffing firms are explicitly excluded by the anti-ICP rule.",
+    "source": "https://talents.vaia.com/companies/deacon-recruiting/san-antonio/strategic-executive-assistant-to-ceo-projects-events-89564829/",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: All are staffing or executive-search agencies posting confidential EA searches without naming the client, and staffing firms are explicitly excluded by the anti-ICP rule."
+    ]
+  },
+  {
+    "company_name": "Zirtual",
+    "reason": "Virtual-assistant company - direct competitor, excluded per anti-ICP rule.",
+    "source": "https://apply.workable.com/zirtual-llc/",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: Virtual-assistant company - direct competitor, excluded per anti-ICP rule."
+    ]
+  },
+  {
+    "company_name": "Loutzenhiser Holdings Inc.",
+    "reason": "San Antonio holding company hiring an Executive Assistant to the CEO at $80-120K, but no live company website could be located, so website/contact/decision-maker could not be sourced.",
+    "source": "https://app.qureos.com/jobs/executive-assistant-to-the-ceo-1782435373566",
+    "_segment": "texas_expansion",
+    "status": "Rejected",
+    "reasons": [
+      "researcher: San Antonio holding company hiring an Executive Assistant to the CEO at $80-120K, but no live company website could be located, so website/contact/decision-maker could not be sourced."
+    ]
+  },
+  {
+    "company_name": "Molecule Software",
+    "website": "https://molecule.io",
+    "vertical": "tech",
+    "sub_vertical": "ETRM/CTRM trade risk management SaaS",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": null,
+    "address_source": null,
+    "employee_count_estimate": "20-30",
+    "employee_count_source": "https://www.linkedin.com/in/ssoleja",
+    "revenue_estimate": "$1M-$10M range",
+    "revenue_source": "https://www.linkedin.com/in/ssoleja",
+    "decision_maker_name": "Sameer Soleja",
+    "decision_maker_title": "Founder & CEO",
+    "title_sources": [
+      "https://www.linkedin.com/in/ssoleja",
+      "https://energycapitalhtx.com/molecule-acquires-trilogy-energy"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/ssoleja",
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": "info@molecule.io",
+    "company_email_source": "https://molecule.io",
+    "phone": "(832) 464-4037",
+    "phone_source": "https://molecule.io",
+    "trigger_signal": "acquisition",
+    "trigger_detail": "Molecule acquired Trilogy Energy Solutions, following an undisclosed-amount Series B round closed in July 2025.",
+    "trigger_source": "https://energycapitalhtx.com/molecule-acquires-trilogy-energy",
+    "trigger_date": "2026-07-31",
+    "icp_fit_rationale": "Founder-CEO who has led the company since 2012, now running a 20-30 person team distributed across five countries while integrating an acquisition and a Series B \u2014 high coordination load, no admin bench.",
+    "suggested_tier": "Executive",
+    "notes": "Software vendor selling into energy and commodity traders \u2014 a SaaS company, not an energy operator, but flag for possible overlap with the energy-segment researcher. Series B announced 2025-07-16 per the company's news page.",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "duplicate of Molecule (segment growth_funded_houston)"
+    ]
+  },
+  {
+    "company_name": "NanoTech Materials",
+    "website": "https://nanotechmaterials.com",
+    "vertical": "other",
+    "sub_vertical": "Advanced materials manufacturing \u2014 insulative and fire-protection coatings",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": null,
+    "address_source": null,
+    "employee_count_estimate": "30-40",
+    "employee_count_source": "https://www.linkedin.com/in/mike-francis-67747768",
+    "revenue_estimate": null,
+    "revenue_source": null,
+    "decision_maker_name": "Mike Francis",
+    "decision_maker_title": "CEO and Co-Founder",
+    "title_sources": [
+      "https://nanotechmaterials.com/about-us",
+      "https://www.linkedin.com/in/mike-francis-67747768"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/mike-francis-67747768",
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": "info@nanotechmaterials.com",
+    "company_email_source": "https://nanotechmaterials.com/contact-us",
+    "phone": "(888) 296-6266",
+    "phone_source": "https://nanotechmaterials.com/contact-us",
+    "trigger_signal": "funding",
+    "trigger_detail": "Closed a $29.4 million Series A led by Austin-based HPI Real Estate & Investments, with Houston-based Goose Capital and Milliken & Company participating.",
+    "trigger_source": "https://houston.innovationmap.com/2026-houston-startup-funding-q1-q2-2677282158.html",
+    "trigger_date": "2026-04",
+    "icp_fit_rationale": "Co-founder CEO of a 30-40 person Houston manufacturer that just raised $29.4M and is scaling production across three product lines \u2014 new capital plus a full C-suite build means board and investor management on top of operations.",
+    "suggested_tier": "Chief of Staff",
+    "notes": "Four-time founder; company has a Houston HQ and a Katy office.",
+    "_segment": "growth_funded_houston",
+    "status": "Rejected",
+    "reasons": [
+      "duplicate of NanoTech Materials (segment growth_funded_houston)"
+    ]
+  },
+  {
+    "company_name": "Veriten",
+    "website": "https://veriten.com/",
+    "vertical": "private_capital",
+    "sub_vertical": "energy research and investment firm",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": "2925 Richmond Ave., Suite 400, Houston, TX 77098",
+    "address_source": "https://veriten.com/contact/",
+    "employee_count_estimate": "20-30",
+    "employee_count_source": "https://veriten.com/team/",
+    "revenue_estimate": "$105M second energy fund",
+    "revenue_source": "https://www.bizjournals.com/houston/news/2026/05/19/maynard-holt-veriten-energy-investment-second-fund.html",
+    "decision_maker_name": "Maynard Holt",
+    "decision_maker_title": "Founder & Chief Executive Officer",
+    "title_sources": [
+      "https://veriten.com/team/maynard-holt/",
+      "https://www.bizjournals.com/houston/news/2026/05/19/maynard-holt-veriten-energy-investment-second-fund.html"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/maynard-holt-186807b0",
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": "team@veriten.com",
+    "company_email_source": "https://veriten.com/privacy-policy",
+    "phone": "(832) 982-0009",
+    "phone_source": "https://veriten.com/contact/",
+    "trigger_signal": "funding",
+    "trigger_detail": "Veriten closed its second energy-investment fund at $105 million, focused on energy innovation.",
+    "trigger_source": "https://www.bizjournals.com/houston/news/2026/05/19/maynard-holt-veriten-energy-investment-second-fund.html",
+    "trigger_date": "2026-05-19",
+    "icp_fit_rationale": "Founder-CEO of a ~20-person Houston energy research and investment firm with a public-facing media cadence plus a new fund - one of the most travel- and calendar-heavy principal roles in the segment.",
+    "suggested_tier": "Chief of Staff",
+    "notes": "Team page lists roughly 20 named professionals; no EA role published. No email address published on the contact page. | enricher: General inbox published in Veriten's own privacy policy ('contact us at team@veriten.com'); no email on the contact page, which is form-only.",
+    "_segment": "private_capital_houston",
+    "patched_fields": [
+      "company_email<-contacts.json",
+      "company_email_source<-contacts.json"
+    ],
+    "status": "Rejected",
+    "reasons": [
+      "duplicate of Veriten (segment private_capital_houston)"
+    ]
+  },
+  {
+    "company_name": "Gold H2",
+    "website": "https://www.goldh2.com",
+    "vertical": "energy",
+    "sub_vertical": "subsurface bio-stimulated hydrogen production",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": null,
+    "address_source": null,
+    "employee_count_estimate": "11-50",
+    "employee_count_source": "https://www.linkedin.com/company/gold-h2/",
+    "revenue_estimate": null,
+    "revenue_source": null,
+    "decision_maker_name": "Prabhdeep Singh Sekhon",
+    "decision_maker_title": "Chief Executive Officer",
+    "title_sources": [
+      "https://energycapitalhtx.com/gold-h2-field-trial",
+      "https://www.linkedin.com/company/gold-h2/"
+    ],
+    "linkedin_url": null,
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": null,
+    "company_email_source": null,
+    "phone": null,
+    "phone_source": null,
+    "trigger_signal": "other",
+    "trigger_detail": "Completed its first commercial-scale field trial of bio-stimulated hydrogen production in a depleted California oilfield, reaching 40% hydrogen in the produced gas stream.",
+    "trigger_source": "https://energycapitalhtx.com/gold-h2-field-trial",
+    "trigger_date": "2025-07-01",
+    "icp_fit_rationale": "Houston Cemvita spinout in the 11-50 band; the CEO is the single decision-maker and is moving the company from field trial to commercial deployment.",
+    "suggested_tier": "Foundation",
+    "notes": "Thinnest row in this set: goldh2.com returned HTTP 502 on repeated fetches, so no address, phone or general email could be sourced, and the second title source is the company's own LinkedIn page rather than a leadership page. Verify before outreach.",
+    "_segment": "energy_houston",
+    "verification": {
+      "company_name": "Gold H2",
+      "gates": {
+        "G1_website_live": false,
+        "G2_name_on_official": true,
+        "G3_two_title_sources": true,
+        "G4_phone_verified": false,
+        "G5_email_verified": false,
+        "G6_trigger_sourced": true,
+        "G7_metro_in_scope": true,
+        "G8_icp_size_band": true
+      },
+      "reasons": [
+        "G1 website not reachable (HTTP 502, None)",
+        "G4 no 10-digit phone published",
+        "G5 no published email"
+      ],
+      "evidence": {
+        "website_status": 502,
+        "website_final_url": "https://www.goldh2.com/",
+        "discovered_emails": [],
+        "discovered_phones": [],
+        "name_found_on": [
+          "https://energycapitalhtx.com/gold-h2-field-trial"
+        ],
+        "title_sources_usable": 2,
+        "email_kind": null,
+        "trigger_status": 200
+      },
+      "status": "Rejected",
+      "confidence_score": 50,
+      "verified_at": "2026-09-07"
+    },
+    "status": "Rejected",
+    "confidence_score": 50,
+    "reasons": [
+      "G1 website not reachable (HTTP 502, None)",
+      "G4 no 10-digit phone published",
+      "G5 no published email"
+    ]
+  },
+  {
+    "company_name": "Data Gumbo",
+    "website": "https://datagumbo.com",
+    "vertical": "energy",
+    "sub_vertical": "smart-contract network for energy and industrial transactions",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": "600 Travis Street, Suite 5050, Houston, TX 77002",
+    "address_source": "https://datagumbo.com/contact-us",
+    "employee_count_estimate": "11-50",
+    "employee_count_source": "https://www.linkedin.com/company/data-gumbo/",
+    "revenue_estimate": null,
+    "revenue_source": null,
+    "decision_maker_name": "Andrew Bruce",
+    "decision_maker_title": "Founder & Chief Executive Officer",
+    "title_sources": [
+      "https://councils.forbes.com/profile/Andrew-Bruce-CEO-Founder-Data-Gumbo/368b00f6-0dcc-45e4-8a82-6da7b40109b7",
+      "https://www.linkedin.com/company/data-gumbo/"
+    ],
+    "linkedin_url": null,
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": "info@datagumbo.com",
+    "company_email_source": "https://datagumbo.com/contact-us",
+    "phone": null,
+    "phone_source": null,
+    "trigger_signal": "other",
+    "trigger_detail": "No dated 2025-2026 trigger event located; included as an 11-50 employee downtown Houston energy-software company with offices in the UK, Norway and Saudi Arabia.",
+    "trigger_source": "https://datagumbo.com/contact-us",
+    "trigger_date": null,
+    "icp_fit_rationale": "Founder-CEO of a small Houston energy-tech company running four international offices - travel-heavy with no EA pool.",
+    "suggested_tier": "Foundation",
+    "notes": "Honest 'other' trigger. No leadership page found on the company site, so title sources are a Forbes Councils profile and the company LinkedIn page. No main phone published.",
+    "_segment": "energy_houston",
+    "verification": {
+      "company_name": "Data Gumbo",
+      "gates": {
+        "G1_website_live": false,
+        "G2_name_on_official": true,
+        "G3_two_title_sources": true,
+        "G4_phone_verified": false,
+        "G5_email_verified": true,
+        "G6_trigger_sourced": true,
+        "G7_metro_in_scope": true,
+        "G8_icp_size_band": true
+      },
+      "reasons": [
+        "G1 website not reachable (HTTP 404, None)",
+        "G4 no 10-digit phone published"
+      ],
+      "evidence": {
+        "website_status": 404,
+        "website_final_url": "https://www.datagumbo.com",
+        "discovered_emails": [
+          "info@datagumbo.com",
+          "recruit@datagumbo.com",
+          "careers@datagumbo.com",
+          "media@datagumbo.com",
+          "investors@datagumbo.com"
+        ],
+        "discovered_phones": [],
+        "name_found_on": [
+          "https://councils.forbes.com/profile/Andrew-Bruce-CEO-Founder-Data-Gumbo/368b00f6-0dcc-45e4-8a82-6da7b40109b7"
+        ],
+        "title_sources_usable": 2,
+        "email_kind": "company_general",
+        "email_found_on": [
+          "https://datagumbo.com",
+          "https://www.datagumbo.com/about-us/careers",
+          "https://www.datagumbo.com/about-us"
+        ],
+        "email_mx": true,
+        "email_domain_matches_site": true,
+        "trigger_status": 200
+      },
+      "status": "Rejected",
+      "confidence_score": 67,
+      "verified_at": "2026-09-07"
+    },
+    "status": "Rejected",
+    "confidence_score": 67,
+    "reasons": [
+      "G1 website not reachable (HTTP 404, None)",
+      "G4 no 10-digit phone published"
+    ]
+  },
+  {
+    "company_name": "NESA Energy",
+    "website": "https://nesaenergy.com",
+    "vertical": "energy",
+    "sub_vertical": "wellbore integrity and deployment oilfield services",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": null,
+    "address_source": null,
+    "employee_count_estimate": "11-50",
+    "employee_count_source": "https://www.linkedin.com/company/nesa-energy/",
+    "revenue_estimate": null,
+    "revenue_source": null,
+    "decision_maker_name": "Martin Perez",
+    "decision_maker_title": "Chief Executive Officer",
+    "title_sources": [
+      "https://www.linkedin.com/posts/nesa-energy_nesa-energy-announces-appointment-of-martin-activity-7424897048388206593-FggQ",
+      "https://www.linkedin.com/company/nesa-energy/"
+    ],
+    "linkedin_url": null,
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": null,
+    "company_email_source": null,
+    "phone": null,
+    "phone_source": null,
+    "trigger_signal": "leadership_expansion",
+    "trigger_detail": "Announced the appointment of Martin Perez as Chief Executive Officer to scale its core technology and expand its U.S. footprint from Houston.",
+    "trigger_source": "https://www.linkedin.com/posts/nesa-energy_nesa-energy-announces-appointment-of-martin-activity-7424897048388206593-FggQ",
+    "trigger_date": "2026-02-04",
+    "icp_fit_rationale": "Newly appointed CEO of an 11-50 person Houston oilfield-services company building out U.S. and international growth - a support-light seat at exactly the right size.",
+    "suggested_tier": "Executive",
+    "notes": "nesaenergy.com returned HTTP 502/500 on repeated fetches, so no address, phone or general email could be sourced and both title sources are LinkedIn-published. Verify contact details before outreach.",
+    "_segment": "energy_houston",
+    "verification": {
+      "company_name": "NESA Energy",
+      "gates": {
+        "G1_website_live": false,
+        "G2_name_on_official": false,
+        "G3_two_title_sources": false,
+        "G4_phone_verified": false,
+        "G5_email_verified": false,
+        "G6_trigger_sourced": true,
+        "G7_metro_in_scope": true,
+        "G8_icp_size_band": true
+      },
+      "reasons": [
+        "G1 website not reachable (HTTP 502, None)",
+        "G2 decision-maker surname not found on any fetched official page",
+        "G3 title sources insufficient (1 domains, 2 usable)",
+        "G4 no 10-digit phone published",
+        "G5 no published email"
+      ],
+      "evidence": {
+        "website_status": 502,
+        "website_final_url": "https://nesaenergy.com/",
+        "discovered_emails": [],
+        "discovered_phones": [],
+        "name_found_on": [],
+        "title_sources_usable": 2,
+        "email_kind": null,
+        "trigger_status": 200
+      },
+      "status": "Rejected",
+      "confidence_score": 17,
+      "verified_at": "2026-09-07"
+    },
+    "status": "Rejected",
+    "confidence_score": 17,
+    "reasons": [
+      "G1 website not reachable (HTTP 502, None)",
+      "G2 decision-maker surname not found on any fetched official page",
+      "G3 title sources insufficient (1 domains, 2 usable)",
+      "G4 no 10-digit phone published",
+      "G5 no published email"
+    ]
+  },
+  {
+    "company_name": "Heim, Payne & Chorush, L.L.P.",
+    "website": "https://www.heimpayne.com",
+    "vertical": "legal",
+    "sub_vertical": "intellectual property litigation boutique",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": "609 Main St, Ste 3200, Houston, TX 77002",
+    "address_source": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=171469",
+    "employee_count_estimate": null,
+    "employee_count_source": null,
+    "revenue_estimate": null,
+    "revenue_source": null,
+    "decision_maker_name": "Michael F. Heim",
+    "decision_maker_title": "Firm Founder",
+    "title_sources": [
+      "https://www.prnewswire.com/news-releases/houston-intellectual-property-boutique-heim-payne--chorush-adds-elizabeth-king-to-lead-trademark-litigation-and-appeals-practice-302735023.html",
+      "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=171469"
+    ],
+    "linkedin_url": null,
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": null,
+    "company_email_source": null,
+    "phone": "(713) 221-2000",
+    "phone_source": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=171469",
+    "trigger_signal": "leadership_expansion",
+    "trigger_detail": "The firm announced it added Elizabeth King to lead its trademark litigation and appeals practice in April 2026, with founder Michael Heim quoted in the release.",
+    "trigger_source": "https://www.prnewswire.com/news-releases/houston-intellectual-property-boutique-heim-payne--chorush-adds-elizabeth-king-to-lead-trademark-litigation-and-appeals-practice-302735023.html",
+    "trigger_date": "2026-04-06",
+    "icp_fit_rationale": "Downtown Houston IP litigation boutique in the size band, expanding into a new practice area in 2026, with the firm founder as decision-maker.",
+    "suggested_tier": "Executive",
+    "notes": "IMPORTANT: heimpayne.com returned HTTP 502 on every attempt during this pull, so no attorney bio page could be read and contact_email/company_email are null. Title 'firm founder' comes from the PRNewswire release quote; the bar record independently confirms name, firm and address. Verifier should retry the website for a direct email.",
+    "_segment": "legal_houston",
+    "verification": {
+      "company_name": "Heim, Payne & Chorush, L.L.P.",
+      "gates": {
+        "G1_website_live": false,
+        "G2_name_on_official": true,
+        "G3_two_title_sources": true,
+        "G4_phone_verified": true,
+        "G5_email_verified": false,
+        "G6_trigger_sourced": true,
+        "G7_metro_in_scope": true,
+        "G8_icp_size_band": "null"
+      },
+      "reasons": [
+        "G1 website not reachable (HTTP 502, None)",
+        "G5 no published email",
+        "note: employee count not sourced (null kept, not estimated)"
+      ],
+      "evidence": {
+        "website_status": 502,
+        "website_final_url": "https://www.heimpayne.com/",
+        "discovered_emails": [],
+        "discovered_phones": [],
+        "name_found_on": [
+          "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=171469",
+          "https://www.prnewswire.com/news-releases/houston-intellectual-property-boutique-heim-payne--chorush-adds-elizabeth-king-to-lead-trademark-litigation-and-appeals-practice-302735023.html"
+        ],
+        "title_sources_usable": 2,
+        "phone_found_on": [
+          "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=171469"
+        ],
+        "email_kind": null,
+        "trigger_status": 200
+      },
+      "status": "Rejected",
+      "confidence_score": 67,
+      "verified_at": "2026-09-07"
+    },
+    "status": "Rejected",
+    "confidence_score": 67,
+    "reasons": [
+      "G1 website not reachable (HTTP 502, None)",
+      "G5 no published email",
+      "note: employee count not sourced (null kept, not estimated)"
+    ]
+  },
+  {
+    "company_name": "Public Content",
+    "website": "https://publiccontent.co",
+    "vertical": "professional_services",
+    "sub_vertical": "pr_marketing_agency",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": "3131 Eastside St., Houston, TX (River Oaks Green, Upper Kirby)",
+    "address_source": "https://communityimpact.com/heights-river-oaks-montrose/business/one-of-houstons-largest-marketing-agencies-to-double-physical-footprint-with-new-hq/",
+    "employee_count_estimate": null,
+    "employee_count_source": null,
+    "revenue_estimate": null,
+    "revenue_source": null,
+    "decision_maker_name": "Stuart Rosenberg",
+    "decision_maker_title": "Co-Owner / Co-Founder",
+    "title_sources": [
+      "https://communityimpact.com/heights-river-oaks-montrose/business/one-of-houstons-largest-marketing-agencies-to-double-physical-footprint-with-new-hq/",
+      "https://publiccontent.co/"
+    ],
+    "linkedin_url": null,
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": null,
+    "company_email_source": null,
+    "phone": null,
+    "phone_source": null,
+    "trigger_signal": "new_launch",
+    "trigger_detail": "Public Content announced it is doubling its office footprint with a ~6,300-sf headquarters at River Oaks Green in Upper Kirby in October, alongside three senior hires and expanded arts/culture and events capabilities.",
+    "trigger_source": "https://communityimpact.com/heights-river-oaks-montrose/business/one-of-houstons-largest-marketing-agencies-to-double-physical-footprint-with-new-hq/",
+    "trigger_date": "2026-09-03",
+    "icp_fit_rationale": "Co-founder of an independent Houston agency (Bludorn, Howard Hughes, Four Seasons) doubling space and adding senior staff - a founder-CEO absorbing growth-stage operations work.",
+    "suggested_tier": "Executive",
+    "notes": "Firm founded 2018 by co-owners Stuart Rosenberg and Amy Johnston. Official site did not render for scraping; address is from the trade-press report of the Aug. 24 release.",
+    "_segment": "profservices_houston",
+    "verification": {
+      "company_name": "Public Content",
+      "gates": {
+        "G1_website_live": false,
+        "G2_name_on_official": true,
+        "G3_two_title_sources": false,
+        "G4_phone_verified": false,
+        "G5_email_verified": false,
+        "G6_trigger_sourced": true,
+        "G7_metro_in_scope": true,
+        "G8_icp_size_band": "null"
+      },
+      "reasons": [
+        "G1 website not reachable (HTTP 502, None)",
+        "G3 title sources insufficient (2 domains, 1 usable)",
+        "G4 no 10-digit phone published",
+        "G5 no published email",
+        "note: employee count not sourced (null kept, not estimated)"
+      ],
+      "evidence": {
+        "website_status": 502,
+        "website_final_url": "https://publiccontent.co/",
+        "discovered_emails": [],
+        "discovered_phones": [],
+        "name_found_on": [
+          "https://communityimpact.com/heights-river-oaks-montrose/business/one-of-houstons-largest-marketing-agencies-to-double-physical-footprint-with-new-hq/"
+        ],
+        "title_sources_usable": 1,
+        "email_kind": null,
+        "trigger_status": 200
+      },
+      "status": "Rejected",
+      "confidence_score": 33,
+      "verified_at": "2026-09-07"
+    },
+    "status": "Rejected",
+    "confidence_score": 33,
+    "reasons": [
+      "G1 website not reachable (HTTP 502, None)",
+      "G3 title sources insufficient (2 domains, 1 usable)",
+      "G4 no 10-digit phone published",
+      "G5 no published email",
+      "note: employee count not sourced (null kept, not estimated)"
+    ]
+  },
+  {
+    "company_name": "L'Renee & Associates (LRA)",
+    "website": "https://www.lreneeassociates.com",
+    "vertical": "professional_services",
+    "sub_vertical": "management_consulting",
+    "headquarters_city": "Houston",
+    "metro": "Houston",
+    "address": null,
+    "address_source": null,
+    "employee_count_estimate": null,
+    "employee_count_source": null,
+    "revenue_estimate": "multimillion-dollar (Inc. 5000 honoree)",
+    "revenue_source": "https://www.inc.com/inc-custom-studio/how-one-founder-went-from-laid-off-to-project-management-pack-leader/91269303",
+    "decision_maker_name": "LaToshia Norwood",
+    "decision_maker_title": "Founder",
+    "title_sources": [
+      "https://www.inc.com/inc-custom-studio/how-one-founder-went-from-laid-off-to-project-management-pack-leader/91269303",
+      "https://www.lreneeassociates.com"
+    ],
+    "linkedin_url": null,
+    "contact_email": null,
+    "contact_email_source": null,
+    "company_email": null,
+    "company_email_source": null,
+    "phone": null,
+    "phone_source": null,
+    "trigger_signal": "growth_list",
+    "trigger_detail": "Inc. reported LRA earned a place on the Inc. 5000 list of the fastest-growing private companies and is one of only three PMI authorized training partners in Houston.",
+    "trigger_source": "https://www.inc.com/inc-custom-studio/how-one-founder-went-from-laid-off-to-project-management-pack-leader/91269303",
+    "trigger_date": "2025-12-09",
+    "icp_fit_rationale": "Founder of a fast-growth Houston project-management consultancy serving Fortune 500s, agencies and cities - founder-CEO on a growth list, the ICP's named trigger.",
+    "suggested_tier": "Executive",
+    "notes": "Inc. piece is custom/sponsored studio content; treat revenue and list placement as self-reported. No official contact details could be scraped (site did not render). Firm also runs a philanthropic arm, the She Said Foundation.",
+    "_segment": "profservices_houston",
+    "verification": {
+      "company_name": "L'Renee & Associates (LRA)",
+      "gates": {
+        "G1_website_live": false,
+        "G2_name_on_official": true,
+        "G3_two_title_sources": false,
+        "G4_phone_verified": false,
+        "G5_email_verified": false,
+        "G6_trigger_sourced": true,
+        "G7_metro_in_scope": true,
+        "G8_icp_size_band": "null"
+      },
+      "reasons": [
+        "G1 website not reachable (HTTP 502, None)",
+        "G3 title sources insufficient (2 domains, 1 usable)",
+        "G4 no 10-digit phone published",
+        "G5 no published email",
+        "note: employee count not sourced (null kept, not estimated)"
+      ],
+      "evidence": {
+        "website_status": 502,
+        "website_final_url": "https://www.lreneeassociates.com/",
+        "discovered_emails": [],
+        "discovered_phones": [],
+        "name_found_on": [
+          "https://www.inc.com/inc-custom-studio/how-one-founder-went-from-laid-off-to-project-management-pack-leader/91269303"
+        ],
+        "title_sources_usable": 1,
+        "email_kind": null,
+        "trigger_status": 200
+      },
+      "status": "Rejected",
+      "confidence_score": 33,
+      "verified_at": "2026-09-07"
+    },
+    "status": "Rejected",
+    "confidence_score": 33,
+    "reasons": [
+      "G1 website not reachable (HTTP 502, None)",
+      "G3 title sources insufficient (2 domains, 1 usable)",
+      "G4 no 10-digit phone published",
+      "G5 no published email",
+      "note: employee count not sourced (null kept, not estimated)"
+    ]
+  }
+]
