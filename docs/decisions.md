@@ -41,3 +41,18 @@ Append-only. Each decision gets an ID, date, the decision, the reasoning, and wh
 **Decision:** This private repository (`mattspirek-ai/ea-consulting-houston`) is the durable archive. Every working session ends with a `docs/worklog.md` entry and a commit of changed files. Hyperagent documents remain the editable masters; exports here are re-generated when they change.
 **Why:** Owner wants everything built archived as markdown/source in a private GitHub repo in addition to living in the platform.
 **Note:** The connected GitHub integration cannot create repositories (403); repo creation is a manual owner step. Pushes and updates work through the integration.
+
+## D-009 · 2026-09-07 · Website: three concept formats before committing to a build
+**Decision:** Build three complete single-file prototypes with different structure and register — A editorial boutique (multi-section home), B single-page conversion landing (calculator-first), C pricing-first transparency site — from the same `build-brief.md`, then choose or combine. Intended combination: A as the site shell, B's calculator-first pattern on the Houston hub/ad landing, C's comparison table and changelog as `/pricing`.
+**Why:** Owner asked for multiple website formats; the research shows two distinct buyer entry points (local trust vs price-comparison intent) that a single page serves poorly.
+**Revisit if:** early traffic shows one entry point dominates.
+
+## D-010 · 2026-09-07 · LinkedIn is the primary launch channel and gets a content system
+**Decision:** Founder-led LinkedIn posting 3–5×/week is the #1 GTM channel for the first 90 days (per strategy.md). A repeatable content system lives in `docs/linkedin/` (playbook, 60-post bank as JSON + markdown, 30-day calendar) with zero-dependency Node scripts in `scripts/linkedin/`, and is mirrored as a Hyperagent skill so future sessions can generate posts consistently.
+**Content rules:** no invented client stories or metrics — composites must be labeled composites; competitor claims only with sourced facts (source in comments); pricing mentions match the published tiers exactly; chief-of-staff voice, no influencer filler.
+**Why:** The Houston fractional-EA conversation currently lives on LinkedIn among solo operators; national brands are absent locally; the founder's credibility is the product's proof until real client metrics exist.
+**Revisit if:** 60 days of consistent posting yields no fit calls — then shift weight to referral partners.
+
+## D-011 · 2026-09-07 · Subagent model
+**Decision:** All delegated work (research, builds, writing) runs on the owner's default subagent model, Fable. Session 2's first three website concept builds were dispatched on Sonnet by mistake; they were discarded and rebuilt on Fable at the owner's instruction.
+**Why:** Owner's explicit preference; judgment quality on design and copy is the point of these builds.

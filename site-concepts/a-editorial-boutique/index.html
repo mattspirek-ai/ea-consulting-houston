@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- ============================================================
+     CONCEPT A — "Editorial boutique" · Home page
+     Houston fractional executive assistant firm
+     Single-file concept. Register: boutique law / private wealth.
+     BRAND PLACEHOLDER: replace BRANDNAME everywhere; keep it in one JS const
+     TODO-BEFORE-LAUNCH: testimonials ×3 · EA bios ×3 · photos ×2 ·
+     brand name · address · phone · scheduler embed · legal review of terms
+     ============================================================ -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fractional Executive Assistant Firm in Houston | BRANDNAME</title>
+<meta name="description" content="Senior, US-based fractional executive assistants, rooted in Houston. Published pricing from $1,200/month, month-to-month terms, no buyout fees, matched in five business days.">
+<script>document.documentElement.className += ' js';</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.example.com/#organization",
+      "name": "BRANDNAME",
+      "url": "https://www.example.com/",
+      "description": "Houston-based fractional executive assistant firm. Senior, US-based executive assistants for energy, healthcare, legal, and private-capital leaders, on published month-to-month terms."
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://www.example.com/#localbusiness",
+      "name": "BRANDNAME",
+      "url": "https://www.example.com/",
+      "parentOrganization": { "@id": "https://www.example.com/#organization" },
+      "priceRange": "$1,200–$3,300 per month",
+      "telephone": "[PHONE PLACEHOLDER]",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "[ADDRESS PLACEHOLDER]",
+        "addressLocality": "Houston",
+        "addressRegion": "TX",
+        "postalCode": "[ZIP PLACEHOLDER]",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        "Houston", "The Woodlands", "Sugar Land", "Katy",
+        "Energy Corridor", "Galleria–Uptown", "Downtown Houston"
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "name": "Foundation — 20 hours/month",
+          "price": "1200",
+          "priceCurrency": "USD",
+          "description": "20 hours per month of senior executive assistant support. $60.00 effective hourly rate. Month-to-month."
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive — 40 hours/month",
+          "price": "2300",
+          "priceCurrency": "USD",
+          "description": "40 hours per month of senior executive assistant support. $57.50 effective hourly rate. Month-to-month."
+        },
+        {
+          "@type": "Offer",
+          "name": "Chief of Staff — 60 hours/month",
+          "price": "3300",
+          "priceCurrency": "USD",
+          "description": "60 hours per month of senior executive assistant support. $55.00 effective hourly rate. Month-to-month. Onboarding fee waived."
+        }
+      ]
+    }
+  ]
+}
+</script>
+<style>
+  /* ============ Tokens ============ */
+  :root{
+    --navy: #0b2545;
+    --navy-panel: #102f57;
+    --navy-deep: #071a33;
+    --paper: #f4efe4;
+    --ivory: #faf7f0;
+    --ink: #22282f;
+    --ink-soft: #59616c;
+    --brass: #b08d57;
+    --brass-soft: #c4a878;
+    --brass-deep: #8a6c3c;
+    --line-dark: rgba(196,168,120,.28);
+    --line-light: rgba(34,40,47,.16);
+    --on-dark: #e9e2d2;
+    --on-dark-soft: #b8c2d2;
+    --max: 1160px;
+  }
+
+  /* ============ Reset / base ============ */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-padding-top: 92px; }
+  @media (prefers-reduced-motion: no-preference){
+    html { scroll-behavior: smooth; }
+  }
+  body{
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    font-size: 1rem;
+    line-height: 1.65;
+    color: var(--ink);
+    background: var(--navy);
+    -webkit-font-smoothing: antialiased;
+  }
+  img { max-width: 100%; display: block; }
+  a { color: inherit; }
+  h1,h2,h3,.serif{
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 500;
+    line-height: 1.12;
+    letter-spacing: -0.01em;
+  }
+  .wrap{ max-width: var(--max); margin: 0 auto; padding: 0 clamp(1.25rem, 4vw, 2.5rem); }
+  section{ padding: clamp(4.25rem, 9vw, 7.25rem) 0; }
+  .skip{
+    position: absolute; left: -999px; top: 0; z-index: 100;
+    background: var(--brass); color: var(--navy-deep); padding: .6rem 1rem; font-weight: 600;
+  }
+  .skip:focus{ left: .5rem; top: .5rem; }
+  :focus-visible{ outline: 2px solid var(--brass); outline-offset: 3px; }
+
+  .eyebrow{
+    font-size: .78rem; font-weight: 600; letter-spacing: .22em;
+    text-transform: uppercase; color: var(--brass-deep);
+    display: flex; align-items: center; gap: .85rem; margin-bottom: 1.15rem;
+  }
+  .eyebrow::before{ content: ""; width: 2.25rem; height: 1px; background: var(--brass); }
+  .on-dark .eyebrow{ color: var(--brass-soft); }
+  h2{ font-size: clamp(1.9rem, 3.6vw, 2.85rem); max-width: 21ch; }
+  .lede{ margin-top: 1.1rem; max-width: 62ch; color: var(--ink-soft); font-size: 1.06rem; }
+  .on-dark .lede{ color: var(--on-dark-soft); }
+  .sec-head{ margin-bottom: clamp(2.25rem, 5vw, 3.5rem); }
+
+  /* ============ Buttons ============ */
+  .btn{
+    display: inline-block; text-decoration: none; font-weight: 600; font-size: .95rem;
+    padding: .85rem 1.6rem; border-radius: 3px; letter-spacing: .01em;
+    border: 1px solid transparent;
+  }
+  @media (prefers-reduced-motion: no-preference){
+    .btn{ transition: background-color .18s ease, color .18s ease, border-color .18s ease; }
+  }
+  .btn-primary{ background: var(--brass); color: var(--navy-deep); border-color: var(--brass); }
+  .btn-primary:hover{ background: var(--brass-soft); border-color: var(--brass-soft); }
+  .btn-ghost-dark{ color: var(--on-dark); border-color: var(--line-dark); }
+  .btn-ghost-dark:hover{ border-color: var(--brass-soft); color: var(--brass-soft); }
+  .btn-ghost-light{ color: var(--navy); border-color: rgba(11,37,69,.35); }
+  .btn-ghost-light:hover{ border-color: var(--brass-deep); color: var(--brass-deep); }
+  .cta-row{ display: flex; flex-wrap: wrap; gap: .9rem; margin-top: 2.1rem; }
+
+  /* ============ Header ============ */
+  header.site{
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(7,26,51,.92);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line-dark);
+  }
+  .nav-bar{
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 1.5rem; height: 74px;
+  }
+  .wordmark{
+    font-family: "Fraunces", Georgia, serif; font-weight: 600; font-size: 1.28rem;
+    color: var(--on-dark); text-decoration: none; letter-spacing: .04em;
+    display: flex; align-items: baseline; gap: .5rem;
+  }
+  .wordmark small{
+    font-family: "Inter", sans-serif; font-weight: 500; font-size: .62rem;
+    letter-spacing: .3em; text-transform: uppercase; color: var(--brass-soft);
+  }
+  nav.primary{ display: flex; align-items: center; gap: 1.9rem; }
+  nav.primary a{
+    color: var(--on-dark-soft); text-decoration: none; font-size: .9rem; font-weight: 500;
+  }
+  nav.primary a:hover{ color: var(--brass-soft); }
+  nav.primary .btn{ padding: .6rem 1.15rem; }
+  .menu-btn{
+    display: none; background: none; border: 1px solid var(--line-dark); border-radius: 3px;
+    color: var(--on-dark); font: inherit; font-size: .85rem; font-weight: 600;
+    padding: .5rem .9rem; cursor: pointer;
+  }
+  @media (max-width: 880px){
+    .menu-btn{ display: block; }
+    nav.primary{
+      display: none; position: absolute; top: 74px; left: 0; right: 0;
+      flex-direction: column; align-items: flex-start; gap: 0;
+      background: var(--navy-deep); border-bottom: 1px solid var(--line-dark);
+      padding: .75rem clamp(1.25rem,4vw,2.5rem) 1.5rem;
+    }
+    nav.primary.open{ display: flex; }
+    nav.primary a{ padding: .8rem 0; width: 100%; border-bottom: 1px solid rgba(196,168,120,.12); }
+    nav.primary a.btn{ border: 1px solid var(--brass); margin-top: 1rem; text-align: center; }
+  }
+
+  /* ============ Hero ============ */
+  .hero{ background: var(--navy); color: var(--on-dark); padding-top: clamp(4rem, 8vw, 6.5rem); }
+  .hero-grid{
+    display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    gap: clamp(2.5rem, 6vw, 5rem); align-items: center;
+  }
+  .hero h1{
+    font-size: clamp(2.55rem, 5.6vw, 4.35rem);
+    color: #f6f1e4; max-width: 15ch;
+  }
+  .hero h1 em{ font-style: italic; color: var(--brass-soft); }
+  .hero .sub{
+    margin-top: 1.5rem; font-size: 1.13rem; line-height: 1.7;
+    color: var(--on-dark-soft); max-width: 54ch;
+  }
+  .kicker{
+    font-size: .78rem; font-weight: 600; letter-spacing: .24em; text-transform: uppercase;
+    color: var(--brass-soft); margin-bottom: 1.4rem;
+    display: flex; align-items: center; gap: .85rem;
+  }
+  .kicker::before{ content: ""; width: 2.25rem; height: 1px; background: var(--brass); }
+  .trust-strip{
+    margin-top: clamp(3rem, 6vw, 4.5rem); padding: 1.15rem 0;
+    border-top: 1px solid var(--line-dark); border-bottom: 1px solid var(--line-dark);
+    display: flex; flex-wrap: wrap; gap: .5rem 2.5rem;
+    font-size: .86rem; font-weight: 500; color: var(--on-dark-soft); letter-spacing: .02em;
+  }
+  .trust-strip span::before{ content: "◆"; font-size: .5rem; color: var(--brass); margin-right: .7rem; vertical-align: 2px; }
+
+  /* Placeholder photo blocks */
+  .ph-frame{ position: relative; }
+  .ph-frame::after{
+    content: ""; position: absolute; inset: 1.1rem -1.1rem -1.1rem 1.1rem;
+    border: 1px solid var(--line-dark); z-index: 0; pointer-events: none;
+  }
+  .ph-block{
+    position: relative; z-index: 1; display: flex; align-items: center; justify-content: center;
+    aspect-ratio: 4 / 5; padding: 1.5rem; text-align: center;
+    background:
+      repeating-linear-gradient(45deg, rgba(196,168,120,.07) 0 1px, transparent 1px 9px),
+      linear-gradient(180deg, #0e2c52 0%, #081d3a 100%);
+    border: 1px solid var(--line-dark);
+  }
+  .ph-block p{
+    font-size: .72rem; font-weight: 600; letter-spacing: .22em; text-transform: uppercase;
+    color: var(--brass-soft); max-width: 22ch; line-height: 1.9;
+  }
+  .ph-block.light{
+    background:
+      repeating-linear-gradient(45deg, rgba(138,108,60,.09) 0 1px, transparent 1px 9px),
+      linear-gradient(180deg, #ece5d4 0%, #e2d9c4 100%);
+    border-color: rgba(138,108,60,.35);
+  }
+  .ph-block.light p{ color: var(--brass-deep); }
+  @media (max-width: 880px){
+    .hero-grid{ grid-template-columns: 1fr; }
+    .ph-frame{ max-width: 420px; }
+  }
+
+  /* ============ Light sections ============ */
+  .paper{ background: var(--paper); color: var(--ink); }
+  .ivory{ background: var(--ivory); color: var(--ink); }
+  .on-dark{ background: var(--navy); color: var(--on-dark); }
+  .on-dark h2{ color: #f6f1e4; }
+
+  /* ============ Who we serve ============ */
+  .sector-grid{
+    display: grid; grid-template-columns: repeat(5, 1fr); gap: 1px;
+    background: var(--line-light); border: 1px solid var(--line-light);
+  }
+  .sector-card{
+    background: var(--ivory); padding: 1.75rem 1.4rem 1.6rem;
+    display: flex; flex-direction: column; gap: .85rem;
+  }
+  .sector-card .num{
+    font-family: "Fraunces", Georgia, serif; font-size: .95rem; color: var(--brass-deep);
+  }
+  .sector-card h3{ font-size: 1.32rem; }
+  .sector-card ul{ list-style: none; display: grid; gap: .55rem; margin-top: .1rem; }
+  .sector-card li{
+    font-size: .875rem; color: var(--ink-soft); line-height: 1.5;
+    padding-left: 1rem; position: relative;
+  }
+  .sector-card li::before{
+    content: "◆"; position: absolute; left: 0; top: .32em;
+    font-size: .42rem; color: var(--brass);
+  }
+  .sector-card a{
+    margin-top: auto; padding-top: .9rem; font-size: .82rem; font-weight: 600;
+    letter-spacing: .08em; text-transform: uppercase; text-decoration: none; color: var(--brass-deep);
+  }
+  .sector-card a:hover{ color: var(--navy); }
+  @media (max-width: 1020px){ .sector-grid{ grid-template-columns: repeat(3, 1fr);} }
+  @media (max-width: 640px){ .sector-grid{ grid-template-columns: 1fr; } }
+
+  /* ============ How it works ============ */
+  .steps{
+    display: grid; grid-template-columns: repeat(4, 1fr);
+    gap: clamp(1.5rem, 3vw, 2.5rem); counter-reset: step;
+  }
+  .step{ border-top: 2px solid var(--brass); padding-top: 1.4rem; }
+  .step .n{
+    font-family: "Fraunces", Georgia, serif; font-size: 2.35rem; color: var(--brass-deep);
+    line-height: 1; margin-bottom: .9rem;
+  }
+  .step h3{ font-size: 1.18rem; margin-bottom: .6rem; }
+  .step p{ font-size: .92rem; color: var(--ink-soft); }
+  @media (max-width: 880px){ .steps{ grid-template-columns: repeat(2, 1fr);} }
+  @media (max-width: 560px){ .steps{ grid-template-columns: 1fr; } }
+
+  /* ============ Pricing ============ */
+  .tier-grid{
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem;
+    align-items: stretch;
+  }
+  .tier{
+    background: var(--navy-panel); border: 1px solid var(--line-dark);
+    padding: 2.1rem 1.8rem 1.9rem; display: flex; flex-direction: column;
+  }
+  .tier.feature{ border-color: var(--brass); }
+  .tier h3{ font-size: 1.5rem; color: #f6f1e4; }
+  .tier .for{ font-size: .88rem; color: var(--on-dark-soft); margin-top: .45rem; min-height: 2.6em; }
+  .tier .price{
+    margin: 1.4rem 0 .2rem; font-family: "Fraunces", Georgia, serif;
+    font-size: 2.6rem; color: var(--brass-soft); line-height: 1;
+  }
+  .tier .price small{ font-family: "Inter", sans-serif; font-size: .85rem; color: var(--on-dark-soft); font-weight: 500; }
+  .tier .meta{ font-size: .86rem; color: var(--on-dark-soft); }
+  .tier ul{
+    list-style: none; margin: 1.4rem 0 1.6rem; display: grid; gap: .55rem;
+    border-top: 1px solid var(--line-dark); padding-top: 1.3rem;
+  }
+  .tier li{ font-size: .88rem; color: var(--on-dark-soft); padding-left: 1.05rem; position: relative; }
+  .tier li::before{ content: "◆"; position: absolute; left: 0; top: .34em; font-size: .42rem; color: var(--brass); }
+  .tier .btn{ margin-top: auto; text-align: center; }
+  @media (max-width: 880px){ .tier-grid{ grid-template-columns: 1fr; max-width: 460px; } }
+
+  .addons{
+    margin-top: 2.4rem; display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px;
+    background: var(--line-dark); border: 1px solid var(--line-dark);
+  }
+  .addon{ background: var(--navy); padding: 1.25rem 1.3rem; }
+  .addon b{ display: block; color: #f6f1e4; font-weight: 600; font-size: .92rem; }
+  .addon span{ font-size: .84rem; color: var(--on-dark-soft); }
+  @media (max-width: 880px){ .addons{ grid-template-columns: repeat(2, 1fr);} }
+  @media (max-width: 560px){ .addons{ grid-template-columns: 1fr; } }
+
+  .terms-block{
+    margin-top: 2.4rem; border: 1px solid var(--line-dark); padding: 1.5rem 1.7rem;
+    display: flex; flex-wrap: wrap; gap: .7rem 2.2rem;
+  }
+  .terms-block h3{
+    flex-basis: 100%; font-family: "Inter", sans-serif; font-size: .78rem; font-weight: 600;
+    letter-spacing: .22em; text-transform: uppercase; color: var(--brass-soft); margin-bottom: .3rem;
+  }
+  .terms-block span{ font-size: .88rem; color: var(--on-dark-soft); }
+  .terms-block span::before{ content: "◆"; font-size: .45rem; color: var(--brass); margin-right: .6rem; vertical-align: 2px; }
+
+  /* ============ Calculator ============ */
+  .calc{
+    margin-top: clamp(3rem, 6vw, 4.5rem); background: var(--paper); color: var(--ink);
+    border: 1px solid var(--brass); padding: clamp(1.75rem, 4vw, 2.75rem);
+  }
+  .calc h3{ font-size: 1.65rem; }
+  .calc .hint{ color: var(--ink-soft); font-size: .95rem; margin-top: .5rem; max-width: 58ch; }
+  .calc-grid{
+    display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: clamp(1.75rem, 4vw, 3rem); margin-top: 1.9rem;
+  }
+  .calc-inputs label{
+    display: block; font-size: .8rem; font-weight: 600; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--brass-deep); margin-bottom: .8rem;
+  }
+  .calc-inputs .field-row{ display: flex; align-items: center; gap: 1rem; }
+  input[type="range"]{ flex: 1; accent-color: var(--brass-deep); min-width: 0; }
+  input[type="number"]{
+    width: 5.2rem; padding: .55rem .6rem; font: inherit; font-weight: 600;
+    border: 1px solid var(--line-light); border-radius: 3px; background: var(--ivory); color: var(--ink);
+  }
+  .calc-inputs .scale{
+    display: flex; justify-content: space-between; font-size: .74rem; color: var(--ink-soft); margin-top: .45rem;
+  }
+  .calc-readout{
+    margin-top: 1.6rem; border-top: 1px solid var(--line-light); padding-top: 1.3rem;
+    display: grid; gap: .4rem; font-size: .92rem; color: var(--ink-soft);
+  }
+  .calc-readout b{ color: var(--ink); }
+  .calc-results{ display: grid; gap: 1.1rem; align-content: start; }
+  .calc-plan{
+    border: 1px solid var(--line-light); background: var(--ivory); padding: 1.3rem 1.5rem;
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem;
+  }
+  .calc-plan .plan-name{ font-family: "Fraunces", Georgia, serif; font-size: 1.5rem; color: var(--navy); }
+  .calc-plan .plan-cost{ font-family: "Fraunces", Georgia, serif; font-size: 1.5rem; color: var(--brass-deep); }
+  .calc-plan .plan-sub{ flex-basis: 100%; font-size: .87rem; color: var(--ink-soft); }
+  .bars{ display: grid; gap: .9rem; }
+  .bar-row .bar-label{
+    display: flex; justify-content: space-between; font-size: .82rem; font-weight: 600;
+    color: var(--ink); margin-bottom: .35rem;
+  }
+  .bar-track{ background: rgba(34,40,47,.08); height: 14px; border-radius: 2px; overflow: hidden; }
+  .bar-fill{ height: 100%; border-radius: 2px; }
+  @media (prefers-reduced-motion: no-preference){ .bar-fill{ transition: width .35s ease; } }
+  .bar-fill.ours{ background: var(--brass); }
+  .bar-fill.inhouse{ background: var(--navy); }
+  .calc-note{ font-size: .9rem; color: var(--ink); }
+  .derivation{
+    margin-top: 1.6rem; border-top: 1px solid var(--line-light); padding-top: 1.2rem;
+    font-size: .8rem; color: var(--ink-soft); line-height: 1.7; max-width: 74ch;
+  }
+  .derivation a{ color: var(--brass-deep); }
+  @media (max-width: 820px){ .calc-grid{ grid-template-columns: 1fr; } }
+
+  /* ============ Houston ============ */
+  .houston-grid{
+    display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: clamp(2.5rem, 6vw, 5rem); align-items: center;
+  }
+  .houston-points{ display: grid; gap: 1.75rem; margin-top: 2.2rem; }
+  .houston-points h3{ font-size: 1.2rem; margin-bottom: .4rem; }
+  .houston-points p{ font-size: .95rem; color: var(--ink-soft); max-width: 56ch; }
+  .houston-points > div{ padding-left: 1.4rem; border-left: 2px solid var(--brass); }
+  @media (max-width: 880px){
+    .houston-grid{ grid-template-columns: 1fr; }
+    .houston-grid .ph-frame{ max-width: 420px; order: 2; }
+  }
+
+  /* ============ Compare ============ */
+  .table-scroll{ overflow-x: auto; border: 1px solid var(--line-light); background: var(--ivory); }
+  table.compare{ border-collapse: collapse; width: 100%; min-width: 960px; font-size: .88rem; }
+  .compare caption{
+    caption-side: bottom; text-align: left; padding: .9rem 1.1rem; font-size: .78rem; color: var(--ink-soft);
+  }
+  .compare th, .compare td{
+    padding: .95rem 1.1rem; text-align: left; vertical-align: top;
+    border-bottom: 1px solid var(--line-light);
+  }
+  .compare thead th{
+    font-size: .72rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--brass-deep); border-bottom: 1px solid var(--brass);
+    background: var(--paper); white-space: nowrap;
+  }
+  .compare tbody th{ font-weight: 600; color: var(--navy); white-space: nowrap; }
+  .compare td{ color: var(--ink-soft); }
+  .compare tr.ours{ background: rgba(176,141,87,.10); }
+  .compare tr.ours th{ border-left: 3px solid var(--brass); }
+  .compare a{ color: var(--brass-deep); }
+  .verified{ margin-top: 1rem; font-size: .8rem; color: var(--ink-soft); }
+
+  /* ============ Testimonials ============ */
+  .quote-grid{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem; }
+  .quote-card{
+    background: var(--navy-panel); border: 1px solid var(--line-dark); padding: 1.9rem 1.7rem;
+    display: flex; flex-direction: column; gap: 1.2rem;
+  }
+  .quote-card .mark{ font-family: "Fraunces", Georgia, serif; font-size: 2.6rem; color: var(--brass); line-height: .5; }
+  .quote-card .ph-label{
+    border: 1px dashed var(--line-dark); padding: 1.1rem 1rem; text-align: center;
+    font-size: .74rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--brass-soft); line-height: 1.8;
+  }
+  .quote-card .attr{ margin-top: auto; font-size: .84rem; color: var(--on-dark-soft); }
+  .quote-card .attr b{ display: block; color: var(--on-dark); font-weight: 600; }
+  @media (max-width: 880px){ .quote-grid{ grid-template-columns: 1fr; max-width: 460px; } }
+
+  /* ============ Bench ============ */
+  .bench-grid{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem; }
+  .bench-card{
+    background: var(--ivory); border: 1px solid var(--line-light); padding: 1.8rem 1.6rem;
+  }
+  .bench-card .portrait{
+    aspect-ratio: 1 / 1; width: 92px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center; text-align: center;
+    background: repeating-linear-gradient(45deg, rgba(138,108,60,.12) 0 1px, transparent 1px 7px), #e6ddc9;
+    border: 1px solid rgba(138,108,60,.35);
+    font-size: .58rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--brass-deep); margin-bottom: 1.3rem; padding: .5rem; line-height: 1.5;
+  }
+  .bench-card h3{ font-size: 1.25rem; }
+  .bench-card .ph-tag{ font-size: .76rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--brass-deep); margin-top: .3rem; }
+  .bench-card dl{ margin-top: 1.1rem; display: grid; gap: .5rem; font-size: .86rem; }
+  .bench-card dt{ font-weight: 600; color: var(--navy); }
+  .bench-card dd{ color: var(--ink-soft); margin-bottom: .3rem; }
+  .vetting{ margin-top: 2.2rem; font-size: .88rem; color: var(--ink-soft); max-width: 72ch; }
+  @media (max-width: 880px){ .bench-grid{ grid-template-columns: 1fr; max-width: 460px; } }
+
+  /* ============ FAQ ============ */
+  .faq-list{ max-width: 800px; }
+  .faq-list details{ border-bottom: 1px solid var(--line-light); }
+  .faq-list summary{
+    cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 1.5rem;
+    align-items: baseline; padding: 1.35rem 0;
+    font-family: "Fraunces", Georgia, serif; font-size: 1.18rem; color: var(--navy);
+  }
+  .faq-list summary::-webkit-details-marker{ display: none; }
+  .faq-list summary::after{
+    content: "+"; font-family: "Inter", sans-serif; font-weight: 500; color: var(--brass-deep);
+    font-size: 1.3rem; line-height: 1; flex-shrink: 0;
+  }
+  .faq-list details[open] summary::after{ content: "–"; }
+  .faq-list .answer{ padding: 0 0 1.5rem; font-size: .95rem; color: var(--ink-soft); max-width: 64ch; }
+
+  /* ============ Final CTA ============ */
+  .final-cta{ text-align: left; }
+  .final-cta h2{ max-width: 18ch; }
+  .scheduler-ph{
+    margin-top: 2.4rem; border: 1px dashed var(--line-dark); padding: 2.4rem 1.5rem; text-align: center;
+    font-size: .74rem; font-weight: 600; letter-spacing: .18em; text-transform: uppercase;
+    color: var(--brass-soft); line-height: 2; max-width: 620px;
+  }
+
+  /* ============ Footer ============ */
+  footer.site{
+    background: var(--navy-deep); color: var(--on-dark-soft);
+    padding: clamp(3.5rem, 7vw, 5.5rem) 0 2.5rem; font-size: .88rem;
+    border-top: 1px solid var(--line-dark);
+  }
+  .foot-grid{
+    display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 3fr) minmax(0, 4fr);
+    gap: clamp(2rem, 5vw, 4rem);
+  }
+  footer.site .wordmark{ margin-bottom: 1.1rem; }
+  footer.site h3{
+    font-family: "Inter", sans-serif; font-size: .74rem; font-weight: 600;
+    letter-spacing: .2em; text-transform: uppercase; color: var(--brass-soft); margin-bottom: 1rem;
+  }
+  footer.site ul{ list-style: none; display: grid; gap: .55rem; }
+  footer.site a{ color: var(--on-dark-soft); text-decoration: none; }
+  footer.site a:hover{ color: var(--brass-soft); }
+  .foot-bottom{
+    margin-top: clamp(2.5rem, 5vw, 4rem); padding-top: 1.5rem;
+    border-top: 1px solid rgba(196,168,120,.15);
+    display: flex; flex-wrap: wrap; gap: .5rem 2rem; justify-content: space-between;
+    font-size: .78rem;
+  }
+  @media (max-width: 820px){ .foot-grid{ grid-template-columns: 1fr; } }
+
+  /* ============ Reveal on scroll (reduced-motion safe) ============ */
+  @media (prefers-reduced-motion: no-preference){
+    html.js .reveal{ opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
+    html.js .reveal.in{ opacity: 1; transform: none; }
+  }
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site">
+  <div class="wrap nav-bar">
+    <a class="wordmark" href="#top"><span data-brand>BRANDNAME</span><small>Houston</small></a>
+    <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="primaryNav">Menu</button>
+    <nav class="primary" id="primaryNav" aria-label="Primary">
+      <a href="#pricing">Pricing</a>
+      <a href="#how">How it works</a>
+      <a href="#industries">Industries</a>
+      <a href="#houston">Houston</a>
+      <a href="#bench">Our assistants</a>
+      <a href="#about">About</a>
+      <a class="btn btn-primary" href="#book">Book a fit call</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="top">
+    <div class="wrap">
+      <div class="hero-grid">
+        <div>
+          <p class="kicker">Fractional executive assistants · Houston, Texas</p>
+          <h1>Houston&rsquo;s fractional executive assistant firm.</h1>
+          <p class="sub">Senior, US-based assistants who already speak energy, healthcare, legal, and private capital &mdash; rooted here in Houston, on published month-to-month terms with no buyout fee, and a 30-Day Delegation Playbook so you are never left to figure out delegation on your own.</p>
+          <div class="cta-row">
+            <a class="btn btn-primary" href="#book">Book a 20-minute fit call</a>
+            <a class="btn btn-ghost-dark" href="#pricing">See pricing</a>
+          </div>
+        </div>
+        <div class="ph-frame reveal">
+          <div class="ph-block"><p>Photo &mdash; Houston skyline at dusk<br>[replace before launch]</p></div>
+        </div>
+      </div>
+      <div class="trust-strip reveal">
+        <span>Senior US-based EAs</span>
+        <span>Published pricing</span>
+        <span>Month-to-month</span>
+        <span>Matched in 5 business days</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ WHO WE SERVE ============ -->
+  <section class="paper" id="industries">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <p class="eyebrow">Who we serve</p>
+        <h2>Support that already knows your industry.</h2>
+        <p class="lede">Our assistants have run desks in Houston&rsquo;s core sectors. They arrive knowing the vocabulary, the calendars, and the discretion each one demands &mdash; not learning it on your time.</p>
+      </div>
+      <div class="sector-grid">
+        <article class="sector-card reveal">
+          <span class="num">I.</span>
+          <h3>Energy</h3>
+          <ul>
+            <li>AFE routing and JV board meeting prep</li>
+            <li>OTC and NAPE logistics, rig-schedule-aware calendaring</li>
+          </ul>
+          <a href="/industries/energy">Energy leaders</a>
+        </article>
+        <article class="sector-card reveal">
+          <span class="num">II.</span>
+          <h3>Healthcare</h3>
+          <ul>
+            <li>Credentialing paperwork and CME travel</li>
+            <li>Clinic and OR schedule coordination, TMC campus logistics</li>
+          </ul>
+          <a href="/industries/healthcare">Physician executives</a>
+        </article>
+        <article class="sector-card reveal">
+          <span class="num">III.</span>
+          <h3>Legal</h3>
+          <ul>
+            <li>Docket-aware calendaring and CLE tracking</li>
+            <li>Client intake, conflicts forms, billing-cycle support</li>
+          </ul>
+          <a href="/industries/legal">Managing partners</a>
+        </article>
+        <article class="sector-card reveal">
+          <span class="num">IV.</span>
+          <h3>Private capital</h3>
+          <ul>
+            <li>LP communications and deal-room logistics</li>
+            <li>Family calendar, philanthropy boards, discreet travel</li>
+          </ul>
+          <a href="/industries/private-capital">Principals &amp; family offices</a>
+        </article>
+        <article class="sector-card reveal">
+          <span class="num">V.</span>
+          <h3>Founders</h3>
+          <ul>
+            <li>Investor updates and board decks</li>
+            <li>Inbox triage and hiring logistics</li>
+          </ul>
+          <a href="/industries/founders">Founders &amp; CEOs</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HOW IT WORKS ============ -->
+  <section class="ivory" id="how">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <p class="eyebrow">How it works</p>
+        <h2>From first call to a running desk, without the drift.</h2>
+        <p class="lede">A short, honest process. If the match is not right, we replace within five business days &mdash; or refund under the two-week guarantee.</p>
+      </div>
+      <div class="steps">
+        <div class="step reveal">
+          <div class="n">01</div>
+          <h3>A 20-minute fit call</h3>
+          <p>Three questions: your role, the hours you need, and whether you want Houston in-person days or fully virtual. No pitch, no pressure.</p>
+        </div>
+        <div class="step reveal">
+          <div class="n">02</div>
+          <h3>Meet two assistants</h3>
+          <p>Within five business days you receive a shortlist of two senior EAs with full bios, then a chemistry call with each. You choose.</p>
+        </div>
+        <div class="step reveal">
+          <div class="n">03</div>
+          <h3>The 30-Day Delegation Playbook</h3>
+          <p>A week-by-week plan for handing off calendar, inbox, travel, and meeting prep &mdash; so you never have to figure out what to delegate alone.</p>
+        </div>
+        <div class="step reveal">
+          <div class="n">04</div>
+          <h3>The two-week checkpoint</h3>
+          <p>A satisfaction checkpoint at two weeks, then monthly reviews. Backup coverage is standard, and re-matching is free.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PRICING ============ -->
+  <section class="on-dark" id="pricing">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <p class="eyebrow">Pricing</p>
+        <h2>Published prices. Month to month. No buyout fee.</h2>
+        <p class="lede">Most firms in this category make you call to learn the price, then hold you to a twelve-month contract. We publish ours and let the terms speak for themselves.</p>
+      </div>
+
+      <div class="tier-grid">
+        <article class="tier reveal">
+          <h3>Foundation</h3>
+          <p class="for">For a partner-level individual, or a first-time delegator.</p>
+          <p class="price">$1,200<small> /month</small></p>
+          <p class="meta">20 hours/month &middot; $60.00 effective hourly</p>
+          <ul>
+            <li>Dedicated senior EA, US-based</li>
+            <li>Backup coverage included</li>
+            <li>Unused hours roll over one month</li>
+            <li>Confidentiality agreement standard</li>
+          </ul>
+          <a class="btn btn-ghost-dark" href="#book">Start with Foundation</a>
+        </article>
+        <article class="tier feature reveal">
+          <h3>Executive</h3>
+          <p class="for">For a CEO or founder: calendar, travel, inbox, board prep.</p>
+          <p class="price">$2,300<small> /month</small></p>
+          <p class="meta">40 hours/month &middot; $57.50 effective hourly</p>
+          <ul>
+            <li>Everything in Foundation</li>
+            <li>Board and investor meeting logistics</li>
+            <li>Travel planning and expense handling</li>
+            <li>Monthly delegation review</li>
+          </ul>
+          <a class="btn btn-primary" href="#book">Start with Executive</a>
+        </article>
+        <article class="tier reveal">
+          <h3>Chief of Staff</h3>
+          <p class="for">For a leader running a team, events, and an investor cadence.</p>
+          <p class="price">$3,300<small> /month</small></p>
+          <p class="meta">60 hours/month &middot; $55.00 effective hourly</p>
+          <ul>
+            <li>Everything in Executive</li>
+            <li>Team cadence and event coordination</li>
+            <li>Vendor management support</li>
+            <li>Onboarding fee waived</li>
+          </ul>
+          <a class="btn btn-ghost-dark" href="#book">Start with Chief of Staff</a>
+        </article>
+      </div>
+
+      <div class="addons reveal">
+        <div class="addon"><b>Houston in-person day</b><span>$450 per day</span></div>
+        <div class="addon"><b>Extra hours</b><span>$65 per hour</span></div>
+        <div class="addon"><b>Specialist work</b><span>Deck design, project management &mdash; $79 per hour</span></div>
+        <div class="addon"><b>Onboarding</b><span>$299 one-time &middot; waived on Chief of Staff</span></div>
+      </div>
+
+      <div class="terms-block reveal">
+        <h3>The terms, in plain language</h3>
+        <span>Month-to-month</span>
+        <span>2-week satisfaction guarantee</span>
+        <span>Unused hours roll over one month</span>
+        <span>No buyout fee</span>
+        <span>Replacement within 5 business days</span>
+        <span>Confidentiality agreement standard</span>
+      </div>
+
+      <!-- ============ CALCULATOR ============ -->
+      <div class="calc reveal" id="calculator">
+        <h3 class="serif">What would your hours cost?</h3>
+        <p class="hint">Move the slider to the support you think you need each week. We convert to monthly hours, recommend a tier, and set it against the estimated cost of a full-time in-house hire in Houston.</p>
+        <div class="calc-grid">
+          <div class="calc-inputs">
+            <label for="calcNum">Hours of support per week</label>
+            <div class="field-row">
+              <input type="range" id="calcRange" min="2" max="40" step="1" value="8" aria-label="Hours of support per week (slider)">
+              <input type="number" id="calcNum" min="2" max="40" step="1" value="8" aria-label="Hours of support per week">
+            </div>
+            <div class="scale"><span>2 hrs</span><span>40 hrs</span></div>
+            <div class="calc-readout">
+              <span>Monthly hours needed: <b id="outHours">&mdash;</b> <small>(&times; 4.33 weeks/month)</small></span>
+              <span id="outBreakdown"></span>
+            </div>
+          </div>
+          <div class="calc-results" aria-live="polite">
+            <div class="calc-plan">
+              <span class="plan-name" id="outPlan">&mdash;</span>
+              <span class="plan-cost" id="outCost">&mdash;</span>
+              <span class="plan-sub" id="outRate">&mdash;</span>
+            </div>
+            <div class="bars">
+              <div class="bar-row">
+                <div class="bar-label"><span data-brand>BRANDNAME</span><span id="barOursLabel">&mdash;</span></div>
+                <div class="bar-track"><div class="bar-fill ours" id="barOurs" style="width:0%"></div></div>
+              </div>
+              <div class="bar-row">
+                <div class="bar-label"><span>In-house hire, fully loaded (estimate)</span><span id="barInhouseLabel">$8,250/mo</span></div>
+                <div class="bar-track"><div class="bar-fill inhouse" id="barInhouse" style="width:100%"></div></div>
+              </div>
+            </div>
+            <p class="calc-note" id="outNote">&mdash;</p>
+          </div>
+        </div>
+        <p class="derivation"><strong>How the in-house figure is derived (estimate, not a quote):</strong> median Houston executive assistant salary of roughly $67&ndash;68K per BLS and Indeed data, with Robert Half publishing a range of $64.7&ndash;96.3K. Adding approximately 30% for benefits and payroll taxes and approximately 15% for overhead and tools yields a fully loaded cost of about $99K per year, or roughly <strong>$8,250 per month</strong> &mdash; before recruiting fees, PTO coverage, or management time. Verify current figures before relying on them.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ WHY HOUSTON ============ -->
+  <section class="paper" id="houston">
+    <div class="wrap">
+      <div class="houston-grid">
+        <div class="ph-frame reveal">
+          <div class="ph-block light"><p>Photo &mdash; Downtown Houston from Buffalo Bayou<br>[replace before launch]</p></div>
+        </div>
+        <div>
+          <div class="sec-head reveal" style="margin-bottom:0">
+            <p class="eyebrow">Why a Houston firm</p>
+            <h2>National agencies serve Houston. We are of it.</h2>
+          </div>
+          <div class="houston-points">
+            <div class="reveal">
+              <h3>In-person days, when they matter</h3>
+              <p>Board weeks, closings, offsites, a filing that has to be walked in &mdash; your EA can be in the room. In-person days are available across greater Houston, from the Energy Corridor to the Texas Medical Center, The Woodlands to Sugar Land.</p>
+            </div>
+            <div class="reveal">
+              <h3>Your morning is our morning</h3>
+              <p>Central Time, every assistant. Your 7 a.m. inbox review happens at 7 a.m., not on a queue in another hemisphere, and nothing waits overnight for an answer.</p>
+            </div>
+            <div class="reveal">
+              <h3>Local fluency you cannot train remotely</h3>
+              <p>We know what OTC week does to a calendar, how far Katy is from a 2 p.m. downtown closing, and which weeks the Rodeo makes lunch reservations a project. Small things &mdash; until they are not.</p>
+            </div>
+          </div>
+          <div class="cta-row">
+            <a class="btn btn-ghost-light" href="/houston">More on our Houston practice</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ COMPARE ============ -->
+  <section class="ivory" id="compare">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <p class="eyebrow">How we compare</p>
+        <h2>The honest table nobody else publishes.</h2>
+        <p class="lede">Every figure below is sourced and dated. Where a competitor does not publish pricing, we say so and cite the third-party estimate.</p>
+      </div>
+      <div class="table-scroll reveal">
+        <table class="compare">
+          <caption>Third-party estimates are noted as such. In-house cost is a derived estimate; see the calculator above for the derivation.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Provider</th>
+              <th scope="col">Pricing</th>
+              <th scope="col">Talent</th>
+              <th scope="col">Contract</th>
+              <th scope="col">Buyout fee</th>
+              <th scope="col">Houston presence</th>
+              <th scope="col">Source</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="ours">
+              <th scope="row"><span data-brand>BRANDNAME</span></th>
+              <td>$1,200&ndash;$3,300/mo published (20&ndash;60 hrs; $55&ndash;$60/hr effective)</td>
+              <td>Senior, US-based, Houston-rooted</td>
+              <td>Month-to-month; 2-week guarantee</td>
+              <td>None</td>
+              <td>Yes &mdash; in-person days available</td>
+              <td>This page</td>
+            </tr>
+            <tr>
+              <th scope="row">Boldly</th>
+              <td>$2,600/mo (40 hrs) to $6,500/mo (100 hrs); $65/hr flat</td>
+              <td>US-based, W-2 employees</td>
+              <td>Cancel anytime</td>
+              <td>None advertised</td>
+              <td>No &mdash; national, remote only</td>
+              <td><a href="https://boldly.com/pricing-plans/" target="_blank" rel="noopener noreferrer">boldly.com</a></td>
+            </tr>
+            <tr>
+              <th scope="row">Delegate Solutions</th>
+              <td>$2,299&ndash;$3,959/mo for 25&ndash;45 hrs ($88&ndash;$92/hr); $499 onboarding</td>
+              <td>US-based</td>
+              <td>Not published</td>
+              <td>Not published</td>
+              <td>No &mdash; national, remote only</td>
+              <td><a href="https://www.delegatesolutions.com/fractional-executive-assistant-pricing" target="_blank" rel="noopener noreferrer">delegatesolutions.com</a></td>
+            </tr>
+            <tr>
+              <th scope="row">BELAY</th>
+              <td>Not published; third-party estimates $42&ndash;$50/hr</td>
+              <td>US-based</td>
+              <td>12-month contract (reported)</td>
+              <td>$10&ndash;$20K reported</td>
+              <td>No &mdash; national, remote only</td>
+              <td><a href="https://www.usecarly.com/blog/belay-virtual-assistant-review/" target="_blank" rel="noopener noreferrer">usecarly.com review</a></td>
+            </tr>
+            <tr>
+              <th scope="row">Offshore managed (e.g. Wing, full-time)</th>
+              <td>~$1,099/mo (~$7/hr)</td>
+              <td>Offshore</td>
+              <td>Varies</td>
+              <td>&mdash;</td>
+              <td>No</td>
+              <td><a href="https://www.usecarly.com/blog/belay-virtual-assistant-review/" target="_blank" rel="noopener noreferrer">usecarly.com review</a></td>
+            </tr>
+            <tr>
+              <th scope="row">In-house Houston EA</th>
+              <td>&asymp;$8,250/mo fully loaded (derived estimate)</td>
+              <td>Local employee</td>
+              <td>Employment</td>
+              <td>&mdash;</td>
+              <td>Yes</td>
+              <td>Derived from BLS/Indeed and Robert Half figures &mdash; derivation above</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="verified reveal">Competitor prices and terms last verified <strong>2026-09-07</strong>. Figures change; check the linked sources for current numbers.</p>
+    </div>
+  </section>
+
+  <!-- ============ TESTIMONIALS (PLACEHOLDERS) ============ -->
+  <section class="on-dark" id="testimonials">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <p class="eyebrow">In their words</p>
+        <h2>What clients say.</h2>
+        <p class="lede">We are a new firm and will not invent praise. These slots will hold real, attributed client words &mdash; and stay empty until we have them.</p>
+      </div>
+      <div class="quote-grid">
+        <figure class="quote-card reveal">
+          <span class="mark" aria-hidden="true">&ldquo;</span>
+          <div class="ph-label">[Testimonial placeholder &mdash; replace before launch]</div>
+          <figcaption class="attr"><b>&mdash;</b>Name, title, company</figcaption>
+        </figure>
+        <figure class="quote-card reveal">
+          <span class="mark" aria-hidden="true">&ldquo;</span>
+          <div class="ph-label">[Testimonial placeholder &mdash; replace before launch]</div>
+          <figcaption class="attr"><b>&mdash;</b>Name, title, company</figcaption>
+        </figure>
+        <figure class="quote-card reveal">
+          <span class="mark" aria-hidden="true">&ldquo;</span>
+          <div class="ph-label">[Testimonial placeholder &mdash; replace before launch]</div>
+          <figcaption class="attr"><b>&mdash;</b>Name, title, company</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ MEET THE BENCH (PLACEHOLDERS) ============ -->
+  <section class="paper" id="bench">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <p class="eyebrow">Meet the bench</p>
+        <h2>Careers, not gig profiles.</h2>
+        <p class="lede">Every assistant on our bench brings eight to fifteen-plus years supporting senior executives. Full bios &mdash; sectors, tools, certifications, and how they run a week &mdash; will appear here.</p>
+      </div>
+      <div class="bench-grid">
+        <article class="bench-card reveal">
+          <div class="portrait">Portrait<br>placeholder</div>
+          <h3>[EA bio placeholder]</h3>
+          <p class="ph-tag">Replace before launch</p>
+          <dl>
+            <dt>Years supporting executives</dt><dd>&mdash;</dd>
+            <dt>Sectors</dt><dd>&mdash;</dd>
+            <dt>Tools</dt><dd>&mdash;</dd>
+            <dt>Certifications</dt><dd>&mdash;</dd>
+            <dt>How I run a week</dt><dd>&mdash;</dd>
+          </dl>
+        </article>
+        <article class="bench-card reveal">
+          <div class="portrait">Portrait<br>placeholder</div>
+          <h3>[EA bio placeholder]</h3>
+          <p class="ph-tag">Replace before launch</p>
+          <dl>
+            <dt>Years supporting executives</dt><dd>&mdash;</dd>
+            <dt>Sectors</dt><dd>&mdash;</dd>
+            <dt>Tools</dt><dd>&mdash;</dd>
+            <dt>Certifications</dt><dd>&mdash;</dd>
+            <dt>How I run a week</dt><dd>&mdash;</dd>
+          </dl>
+        </article>
+        <article class="bench-card reveal">
+          <div class="portrait">Portrait<br>placeholder</div>
+          <h3>[EA bio placeholder]</h3>
+          <p class="ph-tag">Replace before launch</p>
+          <dl>
+            <dt>Years supporting executives</dt><dd>&mdash;</dd>
+            <dt>Sectors</dt><dd>&mdash;</dd>
+            <dt>Tools</dt><dd>&mdash;</dd>
+            <dt>Certifications</dt><dd>&mdash;</dd>
+            <dt>How I run a week</dt><dd>&mdash;</dd>
+          </dl>
+        </article>
+      </div>
+      <p class="vetting reveal">Every assistant is background-checked, reference-checked, and skills-assessed before joining the bench, and works fluently with the modern toolchain &mdash; including current AI tools &mdash; under our device and password policies.</p>
+    </div>
+  </section>
+
+  <!-- ============ FAQ ============ -->
+  <section class="ivory" id="faq">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <p class="eyebrow">Questions, answered plainly</p>
+        <h2>The six things everyone asks.</h2>
+      </div>
+      <div class="faq-list reveal">
+        <details>
+          <summary>What is the contract length?</summary>
+          <p class="answer">Month to month. There is no annual commitment, no minimum term beyond the current month, and no buyout fee if you later hire your assistant or wind down. You can cancel anytime. Some national firms require twelve-month contracts with five-figure buyout fees; we built our terms specifically so you never face that.</p>
+        </details>
+        <details>
+          <summary>How do you keep quality consistent?</summary>
+          <p class="answer">Three ways. First, we only place senior assistants &mdash; eight to fifteen-plus years supporting executives &mdash; who pass a background check, reference checks, and a skills assessment. Second, backup coverage is standard, so vacations and sick days do not stall your desk. Third, if a match is not working, we re-match within five business days at no charge, and a two-week satisfaction checkpoint plus monthly reviews catch problems early.</p>
+        </details>
+        <details>
+          <summary>How is confidentiality handled?</summary>
+          <p class="answer">A confidentiality agreement is standard on every engagement, before any work begins. Assistants are background-checked and work under our device and password policies. Many of our clients operate in sectors where discretion is the job &mdash; deal flow, patient schedules, client matters &mdash; and our practices are built for that. Details are on our Security &amp; Confidentiality page.</p>
+        </details>
+        <details>
+          <summary>Are there hidden fees?</summary>
+          <p class="answer">No. The prices on this page are the prices. Beyond your monthly tier, the only possible charges are ones you choose: extra hours at $65/hr, specialist work at $79/hr, Houston in-person days at $450/day, and a one-time $299 onboarding fee, which is waived on Chief of Staff. Unused hours roll over one month, so a light month is not money lost.</p>
+        </details>
+        <details>
+          <summary>What about time zones?</summary>
+          <p class="answer">We are a Houston firm on Central Time. Your assistant works your business hours &mdash; morning inbox triage happens in your morning, and a 4:45 p.m. schedule change gets handled that afternoon. If you want an assistant physically present for board weeks or events, in-person days are available across greater Houston.</p>
+        </details>
+        <details>
+          <summary>I have never had an EA. How do I know what to delegate?</summary>
+          <p class="answer">You do not have to know &mdash; that is the point of the 30-Day Delegation Playbook, which every engagement starts with. Week by week, we move work over in a deliberate order: calendar and inbox first, then travel and meeting prep, then the recurring operational work specific to your role. By day thirty you have a running system, not a to-do list you have to manage.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FINAL CTA ============ -->
+  <section class="on-dark final-cta" id="book">
+    <div class="wrap">
+      <div class="reveal">
+        <p class="eyebrow">Next step</p>
+        <h2>Twenty minutes. Three questions. Then you meet two assistants.</h2>
+        <p class="lede">Your role, the hours you need, Houston or virtual. If we are not the right fit, we will say so on the call.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="/book">Book a 20-minute fit call</a>
+          <a class="btn btn-ghost-dark" href="#pricing">See pricing</a>
+        </div>
+        <div class="scheduler-ph">[Scheduler embed placeholder &mdash; Cal.com or Calendly, 20-minute slot,<br>3 qualifying questions: role &middot; hours needed &middot; Houston or virtual]</div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer class="site" id="about">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <a class="wordmark" href="#top"><span data-brand>BRANDNAME</span><small>Houston</small></a>
+        <p><span data-brand>BRANDNAME</span> is a Houston-based fractional executive assistant firm. We place senior, US-based assistants with the city&rsquo;s founders, partners, physicians, and principals &mdash; on published, month-to-month terms, with delegation done alongside you.</p>
+        <p style="margin-top:1rem">[ADDRESS PLACEHOLDER &mdash; Houston, TX]<br>[PHONE PLACEHOLDER]</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="#pricing">Pricing</a></li>
+          <li><a href="#how">How it works</a></li>
+          <li><a href="#industries">Industries</a></li>
+          <li><a href="#houston">Houston</a></li>
+          <li><a href="#bench">Our assistants</a></li>
+          <li><a href="/about">About the firm</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>The fine print</h3>
+        <ul>
+          <li><a href="/security-and-confidentiality">Security &amp; Confidentiality</a></li>
+          <li><a href="/privacy">Privacy policy</a></li>
+          <li><a href="/terms">Terms of service</a></li>
+          <li><a href="#book">Book a 20-minute fit call</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <span>&copy; 2026 <span data-brand>BRANDNAME</span>. All rights reserved.</span>
+      <span>Competitor prices last verified 2026-09-07.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  "use strict";
+
+  /* ============================================================
+     BRAND PLACEHOLDER: replace BRANDNAME everywhere; keep it in one JS const
+     ============================================================ */
+  const BRAND = "BRANDNAME";
+  document.querySelectorAll("[data-brand]").forEach(function (el) {
+    el.textContent = BRAND;
+  });
+  document.title = document.title.replace(/BRANDNAME/g, BRAND);
+
+  /* ============ Mobile menu ============ */
+  (function () {
+    const btn = document.getElementById("menuBtn");
+    const nav = document.getElementById("primaryNav");
+    if (!btn || !nav) return;
+    btn.addEventListener("click", function () {
+      const open = nav.classList.toggle("open");
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+      btn.textContent = open ? "Close" : "Menu";
+    });
+    nav.addEventListener("click", function (e) {
+      if (e.target.tagName === "A") {
+        nav.classList.remove("open");
+        btn.setAttribute("aria-expanded", "false");
+        btn.textContent = "Menu";
+      }
+    });
+  })();
+
+  /* ============ Reveal on scroll (gated behind prefers-reduced-motion) ============ */
+  (function () {
+    const els = document.querySelectorAll(".reveal");
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduce || !("IntersectionObserver" in window)) {
+      els.forEach(function (el) { el.classList.add("in"); });
+      return;
+    }
+    const io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("in");
+          io.unobserve(entry.target);
+        }
+      });
+    }, { rootMargin: "0px 0px -8% 0px", threshold: 0.08 });
+    els.forEach(function (el) { io.observe(el); });
+  })();
+
+  /* ============ Pricing calculator ============ */
+  (function () {
+    const TIERS = [
+      { name: "Foundation",     hours: 20, monthly: 1200 },
+      { name: "Executive",      hours: 40, monthly: 2300 },
+      { name: "Chief of Staff", hours: 60, monthly: 3300 }
+    ];
+    const OVERFLOW_RATE = 65;      // $/hr beyond Chief of Staff hours
+    const WEEKS_PER_MONTH = 4.33;  // hours/week × 4.33 = hours/month
+    const INHOUSE_MONTHLY = 8250;  // derived estimate — see derivation note in markup
+
+    const range = document.getElementById("calcRange");
+    const num = document.getElementById("calcNum");
+    const outHours = document.getElementById("outHours");
+    const outPlan = document.getElementById("outPlan");
+    const outCost = document.getElementById("outCost");
+    const outRate = document.getElementById("outRate");
+    const outNote = document.getElementById("outNote");
+    const outBreakdown = document.getElementById("outBreakdown");
+    const barOurs = document.getElementById("barOurs");
+    const barInhouse = document.getElementById("barInhouse");
+    const barOursLabel = document.getElementById("barOursLabel");
+    const barInhouseLabel = document.getElementById("barInhouseLabel");
+    if (!range || !num) return;
+
+    function fmtMoney(n) {
+      return "$" + Math.round(n).toLocaleString("en-US");
+    }
+
+    function recommend(hoursPerWeek) {
+      const need = hoursPerWeek * WEEKS_PER_MONTH;
+      const fit = TIERS.find(function (t) { return need <= t.hours; });
+      if (fit) {
+        return { tier: fit, need: need, extraHours: 0, total: fit.monthly, coveredHours: fit.hours };
+      }
+      const top = TIERS[TIERS.length - 1];
+      const extraHours = Math.ceil(need - top.hours);
+      return {
+        tier: top,
+        need: need,
+        extraHours: extraHours,
+        total: top.monthly + extraHours * OVERFLOW_RATE,
+        coveredHours: top.hours + extraHours
+      };
+    }
+
+    function render() {
+      const hw = Math.min(40, Math.max(2, parseInt(num.value, 10) || 2));
+      num.value = hw;
+      range.value = hw;
+
+      const r = recommend(hw);
+      const needRounded = Math.round(r.need);
+
+      outHours.textContent = "about " + needRounded + " hrs";
+      outPlan.textContent = r.tier.name;
+      outCost.textContent = fmtMoney(r.total) + "/mo";
+      outRate.textContent =
+        "Covers " + r.coveredHours + " hours/month at an effective " +
+        "$" + (r.total / r.coveredHours).toFixed(2) + "/hr. Unused hours roll over one month.";
+
+      if (r.extraHours > 0) {
+        outBreakdown.textContent =
+          "Breakdown: Chief of Staff " + fmtMoney(r.tier.monthly) + " + " +
+          r.extraHours + " overflow hrs × $" + OVERFLOW_RATE + " = " + fmtMoney(r.total);
+      } else {
+        outBreakdown.textContent = "";
+      }
+
+      // Comparison bars vs derived in-house estimate
+      const maxVal = Math.max(r.total, INHOUSE_MONTHLY);
+      barOurs.style.width = ((r.total / maxVal) * 100).toFixed(1) + "%";
+      barInhouse.style.width = ((INHOUSE_MONTHLY / maxVal) * 100).toFixed(1) + "%";
+      barOursLabel.textContent = fmtMoney(r.total) + "/mo";
+      barInhouseLabel.textContent = fmtMoney(INHOUSE_MONTHLY) + "/mo";
+
+      if (r.total < INHOUSE_MONTHLY) {
+        outNote.textContent =
+          "Roughly " + fmtMoney(INHOUSE_MONTHLY - r.total) +
+          " less per month than the derived in-house estimate of " +
+          fmtMoney(INHOUSE_MONTHLY) + "/mo — an estimate, not a quote. Derivation below.";
+      } else {
+        outNote.textContent =
+          "At this volume, a full-time in-house hire (≈" + fmtMoney(INHOUSE_MONTHLY) +
+          "/mo, derived estimate) may be worth comparing. We will tell you that plainly on the fit call.";
+      }
+    }
+
+    range.addEventListener("input", function () { num.value = range.value; render(); });
+    num.addEventListener("input", render);
+    num.addEventListener("change", render);
+    render();
+  })();
+</script>
+</body>
+</html>

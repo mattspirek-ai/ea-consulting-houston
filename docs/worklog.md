@@ -58,3 +58,39 @@ Format:
 - Decide brand name; replace `[BrandName]` placeholder across docs.
 - Build the website from `docs/build-brief.md` (Home, Pricing with calculator, Houston hub first).
 - Optional: set up a live-mode agent to re-check competitor pricing pages and Houston SERPs periodically and append dated changes here.
+
+---
+
+## 2026-09-07 — Session 2 — Website concept formats (×3) + LinkedIn content system
+
+**Requested:**
+1. "Build multiple types of website formats" — several genuinely different website concepts for the same business so the owner can choose a direction.
+2. Owner correction: the first three concept builds ran on Sonnet; redo them on Fable (owner's default subagent model). Done — Sonnet builds discarded, all three rebuilt on Fable.
+3. "Include LinkedIn posting content skills for EA — they will be looking to post a lot of content on LinkedIn." A repeatable content system, not a one-off list.
+
+**Done:**
+- Three complete single-file website prototypes built on Fable from `docs/build-brief.md`, each with a working pricing calculator (hours/week × 4.33 → smallest covering tier, else Chief of Staff + $65/hr overflow), sourced competitor comparison with "last verified 2026-09-07", JSON-LD, labeled placeholders only (no fabricated proof), single `BRANDNAME` const:
+  - A `site-concepts/a-editorial-boutique/index.html` (1,225 lines) — navy/paper/brass, Fraunces + Inter, full multi-section home page per brief §4. Published; render check passed.
+  - B `site-concepts/b-conversion-landing/index.html` (1,052 lines) — single long scroll, calculator directly under hero, teal accent, Manrope + Inter, sticky mobile CTA, GA4 event hooks. Published; render check passed. Builder note: with the brief's exact formula, 5 hrs/wk = 21.65 hrs/mo so the slider never recommends Foundation; consider starting the slider at 4.
+  - C `site-concepts/c-pricing-first/index.html` (1,089 lines) — the home page IS the pricing page: 12-column sourced comparison table, ECharts effective-$/hr chart with CDN-failure fallback, cost model with breakeven (~136 hrs/mo → hire in-house), pricing changelog. Published; render check passed. Builder flagged the Worxbee $2,760/40h figure — it is sourced in `research/national_competitors.json` (price_low_usd 2760, 40-hr plan), so it stands; re-verify on worxbee.com before launch.
+  - `site-concepts/README.md` compares the three and recommends the combination: A as site shell, B pattern for Houston hub / ad landing, C table + changelog as `/pricing`.
+- LinkedIn content system (Fable subagent; short sourced research pass on 2025–2026 LinkedIn format/algorithm evidence):
+  - `docs/linkedin/playbook.md` (355 lines): KPIs, audience, voice + banned patterns, six pillars mapped to positioning pillars and buyer pain points, eight formats with templates, 40-hook library, sourced algorithm notes, cadence/weekly rhythm, daily 20-minute engagement routine, profile/page optimization, weekly scorecard, hard rules, source appendix.
+  - `docs/linkedin/post-bank.json` + `post-bank.md`: 60 posts (10/pillar; 20 Houston-specific; 13 sector-specific), every dirty-laundry post carries source URLs and "(source in comments)"; anecdotes are `[INSERT: … do not invent]` placeholders or labeled composites; pricing strings match the brief exactly (validated programmatically).
+  - `docs/linkedin/calendar-first-30-days.md`: day-by-day Sep 7 → Oct 6 with engagement tasks and weekly reviews.
+  - `scripts/linkedin/post_scaffold.mjs` (--list / --pillar / --format / --sector / --seed) and `scripts/linkedin/build_calendar.mjs` (--start / --weeks / --posts-per-week / --exclude / --json), Node ≥18, zero deps, tested. Patched to resolve the post bank via env `POST_BANK`, a sibling copy, or the repo path — so the same files run inside the Hyperagent skill.
+  - Mirrored as Hyperagent skill "EA LinkedIn Content" (playbook as documentation; scripts + post bank attached).
+- Decisions appended: D-009 (three concept formats), D-010 (LinkedIn primary channel + content rules), D-011 (Fable for all subagent work).
+
+**Produced:** files listed above; published artifacts for concepts A, B, C on Hyperagent (see thread).
+
+**Data quality notes:**
+- LinkedIn algorithm/format claims are from third-party studies and practitioner posts (2025–2026), cited with dates in the playbook appendix; anecdotal items are flagged as such. Posting-time guidance is explicitly labeled a weak-evidence lever.
+- No engagement benchmarks were invented; "working" at 30/60/90 days is defined against the founder's own baseline.
+- Worxbee $2,760/40h: sourced in national_competitors.json; re-verify on worxbee.com before it appears on a live page.
+
+**Open items / next steps:**
+- Owner picks a concept (or the recommended combination) → build the full multi-page site from `docs/build-brief.md`.
+- Replace `BRANDNAME` and all `[PLACEHOLDER]`s; decide slider floor (4 vs 5 hrs/wk) for concept B.
+- Still open from Session 1: Google Keyword Planner volumes; BLS OEWS Houston verification; brand name.
+- Start the LinkedIn calendar (Week 1 setup tasks are dated Sep 7; shift dates with `build_calendar.mjs --start` if launch slips).

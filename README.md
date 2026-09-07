@@ -19,6 +19,11 @@ Private archive for everything produced while planning and building a Houston-ba
 | `research/houston_competitors.json` | 17 Houston-metro competitors (agencies, solos, staffing firms), SERP snapshot, market observations, demand stats | Same |
 | `research/demand_keywords_pricing.json` | 61 keywords, labor stats, 13 pricing benchmarks, pricing recommendations, buyer pain points/praise/objections/guarantees | Same |
 | `data/EA_Houston_Virtual_Market_Research.xlsx.b64` | The 10-sheet Excel workbook, base64-encoded (the GitHub integration used to push cannot commit binary files). Decode: `base64 -d data/EA_Houston_Virtual_Market_Research.xlsx.b64 > data/EA_Houston_Virtual_Market_Research.xlsx`. Sheets: Competitors, Keywords, Pricing, Pricing Recommendation, Buyer Signals, Houston Demand, SERP Snapshot, Gaps & Positioning, Sources, README. | `cd scripts && python3 build_workbook.py` |
+| `site-concepts/{a-editorial-boutique,b-conversion-landing,c-pricing-first}/index.html` | Three complete single-file website prototypes (different structure and register) built from `docs/build-brief.md`; see `site-concepts/README.md` for the comparison and recommended combination | Hand-built; edit here |
+| `docs/linkedin/playbook.md` | LinkedIn operating manual: pillars, formats, hooks, cadence, engagement routine, profile optimization, scorecard, hard rules, sourced algorithm notes | Hand-authored; edit here |
+| `docs/linkedin/post-bank.json` + `post-bank.md` | 60 validated, tagged posts (JSON is source of truth; MD is the rendering) | Edit JSON; re-render MD |
+| `docs/linkedin/calendar-first-30-days.md` | Day-by-day first-30-days plan | `node scripts/linkedin/build_calendar.mjs --start YYYY-MM-DD --weeks N` |
+| `scripts/linkedin/post_scaffold.mjs`, `build_calendar.mjs` | Zero-dependency Node tools to scaffold posts and build calendars from the bank | — |
 | `report/index.html` | Self-contained interactive market analysis page (charts via ECharts CDN) | `cd scripts && python3 build_report.py` |
 | `scripts/build_workbook.py` | Builds the workbook from `research/*.json` (needs `openpyxl`) | — |
 | `scripts/build_report.py` | Builds `report/index.html` from `research/*.json` | — |
@@ -52,6 +57,8 @@ Both scripts read only from `../research/*.json`. If you correct a fact, correct
 6. **Spreadsheets are delivered as `.xlsx`**, never CSV.
 
 ## Live artifacts on Hyperagent (masters)
+
+- Skill: "EA LinkedIn Content" (mirrors docs/linkedin + scripts/linkedin)
 
 - Strategy document: `cmtrqfnvz0uiz07adjtaatncl`
 - Website Blueprint document: `cmtrqhbjh0syh06ad7l8t4v4v`
