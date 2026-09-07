@@ -1,0 +1,1192 @@
+{
+  "pulled_at": "2026-09-07T00:00:00Z",
+  "keywords": [
+    {
+      "term": "virtual executive assistant",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High competition; dominated by national brands (Belay, Boldly, Time Etc)",
+      "who_ranks_now": ["belaysolutions.com", "boldly.com", "timeetc.com", "prialto.com", "theeaindex.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Primary commercial intent keyword; highest value for homepage/core service page"
+    },
+    {
+      "term": "fractional executive assistant",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate-high; growing term, fewer pure-play competitors own it yet vs 'virtual EA'",
+      "who_ranks_now": ["delegatesolutions.com", "boldly.com", "theeaindex.com", "belaysolutions.com", "prialto.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Differentiated framing; buyers using this term are high-intent and slightly less price-sensitive"
+    },
+    {
+      "term": "executive assistant services",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High competition; major staffing firms also rank",
+      "who_ranks_now": ["boldly.com", "belaysolutions.com", "prialto.com", "zirtual.com", "roberthalf.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Broad commercial term; important for site authority but harder to rank quickly"
+    },
+    {
+      "term": "remote executive assistant",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; slightly less competitive than 'virtual executive assistant'",
+      "who_ranks_now": ["boldly.com", "belaysolutions.com", "timeetc.com", "zirtual.com", "outsourcedscale.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Close synonym; cluster with core page or create thin variant"
+    },
+    {
+      "term": "part time executive assistant",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; also surfaces in-house job listings competing for SERP space",
+      "who_ranks_now": ["boldly.com", "belaysolutions.com", "delegatesolutions.com", "theeaindex.com", "prialto.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Signals budget-conscious or low-volume buyer; good fit for entry-tier pricing page"
+    },
+    {
+      "term": "outsourced executive assistant",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; less common framing; opportunity for new entrant to own it",
+      "who_ranks_now": ["prialto.com", "boldly.com", "belaysolutions.com", "outsourcedscale.com", "delegatesolutions.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Lower volume but less competitive; can be addressed via FAQ or blog"
+    },
+    {
+      "term": "executive virtual assistant",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate-high; synonym for virtual executive assistant; both orderings searched",
+      "who_ranks_now": ["boldly.com", "belaysolutions.com", "timeetc.com", "prialto.com", "zirtual.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Should be naturally included in core page copy; do not create separate page"
+    },
+    {
+      "term": "hire executive assistant",
+      "cluster": "hiring_intent",
+      "intent": "transactional",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High; major brands bid heavily; strong transactional signal",
+      "who_ranks_now": ["boldly.com", "belaysolutions.com", "prialto.com", "timeetc.com", "theeaindex.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Bottom-funnel transactional keyword; conversion-optimized service page essential"
+    },
+    {
+      "term": "executive assistant agency",
+      "cluster": "hiring_intent",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate-high; staffing agency results compete alongside VA firms",
+      "who_ranks_now": ["boldly.com", "prialto.com", "belaysolutions.com", "zirtual.com", "roberthalf.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Signals outsourcing intent; good secondary target for core service page"
+    },
+    {
+      "term": "executive assistant staffing",
+      "cluster": "hiring_intent",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; staffing firms (Robert Half, Kforce) compete alongside VA companies",
+      "who_ranks_now": ["roberthalf.com", "prialto.com", "boldly.com", "belaysolutions.com", "randstad.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Useful secondary keyword; staffing/placement competition is heavy"
+    },
+    {
+      "term": "how much does an executive assistant cost",
+      "cluster": "hiring_intent",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; strong opportunity for pricing/FAQ page; long-tail with clear commercial intent",
+      "who_ranks_now": ["belaysolutions.com", "boldly.com", "outsourcedscale.com", "theeaindex.com", "delegatesolutions.com"],
+      "content_type_needed": "pricing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "High-intent research query directly before purchase decision; pricing page or pillar article needed"
+    },
+    {
+      "term": "executive assistant hourly rate",
+      "cluster": "hiring_intent",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; mixes job-seeker and buyer intent; buyer content can rank",
+      "who_ranks_now": ["theeaindex.com", "outsourcedscale.com", "belaysolutions.com", "salarymetro.com", "payscale.com"],
+      "content_type_needed": "pricing_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Pre-purchase research; answer transparently to build trust; target pricing page"
+    },
+    {
+      "term": "virtual assistant cost",
+      "cluster": "hiring_intent",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High; broad; major VA review sites and top brands dominate",
+      "who_ranks_now": ["timeetc.com", "boldly.com", "belaysolutions.com", "wingassistant.com", "outsourcedscale.com"],
+      "content_type_needed": "pricing_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Broad; better to target more specific pricing queries; include in pricing page naturally"
+    },
+    {
+      "term": "Belay vs Boldly",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; comparison pages and review sites dominate; opportunity for new entrant to insert positioning",
+      "who_ranks_now": ["theeaindex.com", "usecarly.com", "solveline.pro", "cleverly.co", "outsourcedscale.com"],
+      "content_type_needed": "comparison_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Buyer is actively comparing; insert your service as an alternative; high conversion potential"
+    },
+    {
+      "term": "Boldly vs Prialto",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low competition; low volume but highly qualified buyer",
+      "who_ranks_now": ["theeaindex.com", "cleverly.co", "assistvirtualpartners.com", "outsourcedscale.com", "virtuhireusa.com"],
+      "content_type_needed": "comparison_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Niche; write one 'X vs Y' page covering multiple competitors to capture several comparison queries"
+    },
+    {
+      "term": "best virtual executive assistant companies",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High; list/roundup pages from review aggregators rank strongly",
+      "who_ranks_now": ["theeaindex.com", "outsourcedscale.com", "usecarly.com", "cleverly.co", "techradar.com"],
+      "content_type_needed": "comparison_page",
+      "priority_1to5": 4,
+      "priority_rationale": "High intent; build a fair comparison page that positions your service; generate backlinks"
+    },
+    {
+      "term": "Zirtual alternatives",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; buyers actively looking to switch or compare",
+      "who_ranks_now": ["theeaindex.com", "usecarly.com", "cleverly.co", "assistvirtualpartners.com", "outsourcedscale.com"],
+      "content_type_needed": "comparison_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Dissatisfied Zirtual customers are ready buyers; capture with alternatives page"
+    },
+    {
+      "term": "Belay alternatives",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; Belay's opaque pricing drives active search for alternatives",
+      "who_ranks_now": ["theeaindex.com", "solveline.pro", "usecarly.com", "cleverly.co", "outsourcedscale.com"],
+      "content_type_needed": "comparison_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Belay's pricing complaints drive this query; strong conversion opportunity for a transparent-pricing competitor"
+    },
+    {
+      "term": "executive assistant Houston",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate for local; mostly job boards and staffing agencies currently; pure-play fractional EA service may rank easily",
+      "who_ranks_now": ["indeed.com", "linkedin.com", "roberthalf.com", "staffmark.com", "ziprecruiter.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Primary local keyword; own this with a Houston-specific landing page; low competition from national VA brands"
+    },
+    {
+      "term": "virtual assistant Houston",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; general VA agencies and freelancers rank; executive-specialized service can differentiate",
+      "who_ranks_now": ["linkedin.com", "indeed.com", "thumbtack.com", "upwork.com", "taskus.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Broad local intent; essential local page; easier to rank than national terms"
+    },
+    {
+      "term": "executive assistant services Houston TX",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; highly specific; almost no dedicated pages currently",
+      "who_ranks_now": ["indeed.com", "linkedin.com", "staffmark.com", "roberthalf.com", "ziprecruiter.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Exact-match local commercial term; high likelihood of ranking quickly with a well-optimized page"
+    },
+    {
+      "term": "administrative assistant Houston",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; competes with job boards and staffing agencies heavily",
+      "who_ranks_now": ["indeed.com", "linkedin.com", "glassdoor.com", "ziprecruiter.com", "roberthalf.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Broader term; useful for local SEO signals but not core buyer intent for fractional EA"
+    },
+    {
+      "term": "personal assistant Houston",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; mix of household/personal and business intent",
+      "who_ranks_now": ["thumbtack.com", "indeed.com", "linkedin.com", "taskrabbit.com", "upwork.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Some cross-over with business buyers; secondary local page or FAQ answer"
+    },
+    {
+      "term": "virtual assistant Houston TX",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; very specific local modifier; easy to rank",
+      "who_ranks_now": ["linkedin.com", "thumbtack.com", "upwork.com", "indeed.com", "bark.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Exact local match; build into Houston page; quick win"
+    },
+    {
+      "term": "virtual executive assistant Houston",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low competition; almost no existing pages targeting this exact phrase",
+      "who_ranks_now": [],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Exact-match combination of primary service + primary market; highest SEO opportunity for new entrant"
+    },
+    {
+      "term": "fractional executive assistant Houston",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low competition; almost no existing pages",
+      "who_ranks_now": [],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Extremely low competition; high commercial intent; own it immediately with a landing page"
+    },
+    {
+      "term": "executive assistant The Woodlands TX",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low; suburb targeting",
+      "who_ranks_now": ["indeed.com", "linkedin.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Suburb page or breadcrumb; The Woodlands has high concentration of corporate HQs"
+    },
+    {
+      "term": "executive assistant Sugar Land TX",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low",
+      "who_ranks_now": ["indeed.com", "linkedin.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 2,
+      "priority_rationale": "Secondary suburb; add to service area list"
+    },
+    {
+      "term": "executive assistant Katy TX",
+      "cluster": "local",
+      "intent": "local",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low",
+      "who_ranks_now": ["indeed.com", "linkedin.com"],
+      "content_type_needed": "local_landing_page",
+      "priority_1to5": 2,
+      "priority_rationale": "Suburb; growing business corridor; secondary page"
+    },
+    {
+      "term": "executive assistant for real estate agents",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; strong real estate VA niche content exists but few executive-level specific pages",
+      "who_ranks_now": ["boldly.com", "delegatesolutions.com", "virtuhireusa.com", "realestateva.com", "theeaindex.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Houston is a massive real estate market; high-value niche with motivated buyers (brokers, team leads)"
+    },
+    {
+      "term": "executive assistant for doctors",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; few dedicated pages; HIPAA-compliance angle differentiates",
+      "who_ranks_now": ["prialto.com", "boldly.com", "theeaindex.com", "meditab.com", "outsourcedscale.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Houston is a major medical center city; physician practices are growing buyers of admin support"
+    },
+    {
+      "term": "executive assistant for physicians",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; synonym for above; cluster together",
+      "who_ranks_now": ["prialto.com", "boldly.com", "theeaindex.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Cluster with doctors page; Houston Medical Center context"
+    },
+    {
+      "term": "executive assistant for attorneys",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; legal VA is an established niche; executive-level framing less common",
+      "who_ranks_now": ["boldly.com", "prialto.com", "timeetc.com", "lawfirmva.com", "theeaindex.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Houston has major law firms; attorneys are high-value clients with recurring predictable needs"
+    },
+    {
+      "term": "executive assistant for lawyers",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; cluster with attorneys page",
+      "who_ranks_now": ["boldly.com", "prialto.com", "timeetc.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Synonym; fold into attorney page"
+    },
+    {
+      "term": "executive assistant for founders",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; startup/founder audience is highly active online",
+      "who_ranks_now": ["delegatesolutions.com", "boldly.com", "athenagoeshere.com", "prialto.com", "outsourcedscale.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Startup ecosystem is growing in Houston (Houston Exponential); high-value recurring clients"
+    },
+    {
+      "term": "executive assistant for startups",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; some founder-oriented content exists",
+      "who_ranks_now": ["delegatesolutions.com", "boldly.com", "prialto.com", "outsourcedscale.com", "theeaindex.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Complement to founders page; slightly different buyer (operations-minded CTO/VP)"
+    },
+    {
+      "term": "family office assistant",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; specialized; high-wealth client segment",
+      "who_ranks_now": ["boldly.com", "prialto.com", "athenagoeshere.com", "delegatesolutions.com", "theeaindex.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Houston has significant family office activity (oil/gas wealth); premium client segment"
+    },
+    {
+      "term": "executive assistant for financial advisors",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; underserved niche",
+      "who_ranks_now": ["prialto.com", "boldly.com", "timeetc.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "RIA and wealth management segment growing; compliance-aware EA is valuable"
+    },
+    {
+      "term": "executive assistant oil gas industry",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low; Houston-specific; almost no dedicated content",
+      "who_ranks_now": [],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Houston is global energy capital; oil and gas executives are prime buyers; highly differentiated content opportunity"
+    },
+    {
+      "term": "what does an executive assistant do",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High; editorial content from major publishers and job boards dominates",
+      "who_ranks_now": ["indeed.com", "linkedin.com", "harvard.edu", "coursera.org", "boldly.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Top-of-funnel; builds authority and internal links; not a quick-win but worth publishing"
+    },
+    {
+      "term": "executive assistant vs virtual assistant",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; good opportunity for VA company blog content",
+      "who_ranks_now": ["boldly.com", "timeetc.com", "belaysolutions.com", "prialto.com", "outsourcedscale.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Educates buyers at research stage; drives qualified traffic; links naturally to service page"
+    },
+    {
+      "term": "when to hire an executive assistant",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; high-intent informational query just before conversion",
+      "who_ranks_now": ["boldly.com", "delegatesolutions.com", "prialto.com", "belaysolutions.com", "outsourcedscale.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Late-stage research; readers have intent to hire; high conversion if CTA is strong"
+    },
+    {
+      "term": "executive assistant job description",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High; job boards and HR sites dominate",
+      "who_ranks_now": ["indeed.com", "linkedin.com", "shrm.org", "workable.com", "lever.co"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 2,
+      "priority_rationale": "Mostly job-seeker intent; not core buyer traffic; low priority"
+    },
+    {
+      "term": "benefits of hiring a virtual executive assistant",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; good content gap opportunity",
+      "who_ranks_now": ["boldly.com", "timeetc.com", "belaysolutions.com", "outsourcedscale.com", "delegatesolutions.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Top-of-funnel awareness; useful for trust building; build into homepage or blog"
+    },
+    {
+      "term": "how to delegate to an executive assistant",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; underserved content gap; positions brand as expert",
+      "who_ranks_now": ["boldly.com", "prialto.com", "delegatesolutions.com", "outsourcedscale.com", "athenagoeshere.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Great for retention/trust signals; attracts clients who are ready to delegate but don't know how"
+    },
+    {
+      "term": "fractional vs full time executive assistant",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; clear content opportunity; few dedicated pages",
+      "who_ranks_now": ["delegatesolutions.com", "boldly.com", "theeaindex.com", "outsourcedscale.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Buyer's core decision; write this page and link to pricing; high conversion assist"
+    },
+    {
+      "term": "cost of executive assistant",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; pricing content ranks well; transparent pricing is a competitive differentiator",
+      "who_ranks_now": ["theeaindex.com", "outsourcedscale.com", "belaysolutions.com", "delegatesolutions.com", "boldly.com"],
+      "content_type_needed": "pricing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Direct pricing query; a pricing page with published rates is a major differentiator vs opaque competitors"
+    },
+    {
+      "term": "executive assistant for small business",
+      "cluster": "informational",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; broad SMB audience; cluster with founders/startup pages",
+      "who_ranks_now": ["boldly.com", "timeetc.com", "belaysolutions.com", "prialto.com", "delegatesolutions.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Large addressable market; position as the boutique alternative to national commoditized services"
+    },
+    {
+      "term": "executive assistant pricing",
+      "cluster": "pricing",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; fewer dedicated pricing pages; publishing transparent pricing is differentiating",
+      "who_ranks_now": ["delegatesolutions.com", "theeaindex.com", "outsourcedscale.com", "boldly.com", "belaysolutions.com"],
+      "content_type_needed": "pricing_page",
+      "priority_1to5": 5,
+      "priority_rationale": "Publish pricing openly; most competitors hide it; this is a trust-building differentiator"
+    },
+    {
+      "term": "virtual assistant monthly retainer",
+      "cluster": "pricing",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; good content gap for pricing page or FAQ",
+      "who_ranks_now": ["outsourcedscale.com", "timeetc.com", "boldly.com", "delegatesolutions.com", "theeaindex.com"],
+      "content_type_needed": "pricing_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Addresses pricing model preference; include in pricing page FAQ"
+    },
+    {
+      "term": "fractional EA cost",
+      "cluster": "pricing",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low; emerging term; almost no competition",
+      "who_ranks_now": ["delegatesolutions.com", "theeaindex.com", "outsourcedscale.com"],
+      "content_type_needed": "pricing_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Targets the specific buyer vocabulary of fractional EA; low competition; high intent"
+    },
+    {
+      "term": "best virtual assistant for executives",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; review aggregators dominate",
+      "who_ranks_now": ["theeaindex.com", "outsourcedscale.com", "usecarly.com", "cleverly.co", "techradar.com"],
+      "content_type_needed": "comparison_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Get listed on these pages; secondarily build your own comparison content"
+    },
+    {
+      "term": "top executive assistant companies",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "High; aggregator and review sites dominate",
+      "who_ranks_now": ["theeaindex.com", "outsourcedscale.com", "usecarly.com", "cleverly.co", "g2.com"],
+      "content_type_needed": "comparison_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Focus on getting listed in third-party roundups; build your own with a local/boutique angle"
+    },
+    {
+      "term": "executive assistant outsourcing",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; outsourcing framing attracts larger company buyers",
+      "who_ranks_now": ["prialto.com", "boldly.com", "belaysolutions.com", "outsourcedscale.com", "delegatesolutions.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Secondary service page or included in core page; good for enterprise-adjacent buyers"
+    },
+    {
+      "term": "EA support for CEOs",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; CEO-specific framing; high-value buyer",
+      "who_ranks_now": ["boldly.com", "athenagoeshere.com", "delegatesolutions.com", "prialto.com", "timeetc.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "CEO buyer has high LTV and referral network; premium positioning opportunity"
+    },
+    {
+      "term": "US-based virtual assistant",
+      "cluster": "comparison",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; important differentiator vs offshore; many buyers filter explicitly for US-based",
+      "who_ranks_now": ["boldly.com", "belaysolutions.com", "timeetc.com", "delegatesolutions.com", "prialto.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 4,
+      "priority_rationale": "Trust signal for buyers burned by offshore quality; include prominently in all service pages"
+    },
+    {
+      "term": "managed virtual assistant service",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low-moderate; distinguishes from DIY freelancer hiring",
+      "who_ranks_now": ["boldly.com", "belaysolutions.com", "prialto.com", "solveline.pro", "outsourcedscale.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Secondary keyword; good for differentiating managed vs unmanaged options"
+    },
+    {
+      "term": "dedicated virtual executive assistant",
+      "cluster": "core_service",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; clear intent; distinguishes from shared/pool models",
+      "who_ranks_now": ["delegatesolutions.com", "boldly.com", "prialto.com", "belaysolutions.com"],
+      "content_type_needed": "service_page",
+      "priority_1to5": 3,
+      "priority_rationale": "Buyers who want dedicated (not pooled) support; address in service page and FAQ"
+    },
+    {
+      "term": "executive assistant for healthcare executives",
+      "cluster": "industry_niche",
+      "intent": "commercial",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Very low; Houston Medical Center is the world's largest; strong local opportunity",
+      "who_ranks_now": ["prialto.com", "boldly.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 4,
+      "priority_rationale": "Houston Medical Center employs thousands of executives; HIPAA-aware EA service is niche with no local competition"
+    },
+    {
+      "term": "do I need an executive assistant",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Low; strong top-of-funnel conversion content opportunity",
+      "who_ranks_now": ["boldly.com", "delegatesolutions.com", "prialto.com", "outsourcedscale.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Self-qualification content; buyers at awareness stage; lead magnet or quiz opportunity"
+    },
+    {
+      "term": "executive assistant tasks list",
+      "cluster": "informational",
+      "intent": "informational",
+      "est_monthly_volume_us": null,
+      "volume_source": null,
+      "difficulty_note": "Moderate; frequently searched; HR and editorial content competes",
+      "who_ranks_now": ["boldly.com", "timeetc.com", "belaysolutions.com", "indeed.com", "prialto.com"],
+      "content_type_needed": "pillar_article",
+      "priority_1to5": 3,
+      "priority_rationale": "Builds topical authority; include task list in service page and blog"
+    }
+  ],
+  "trends_and_demand": {
+    "google_trends_note": "Google Trends data attempted via browser but not retrieved due to tool constraints. No volume numbers cited to avoid fabrication.",
+    "google_trends_source_attempted": "https://trends.google.com",
+    "market_size": {
+      "stat": "Global Virtual Assistant Services Market valued at USD 19,506.2 million in 2025, projected to reach USD 55,406.3 million by 2035 at CAGR of 11.0%. Dedicated monthly VA segment holds 53.5% market share. SMBs lead client segment with 44.4% share.",
+      "source": "https://www.futuremarketinsights.com/reports/virtual-assistant-services-market",
+      "publisher": "Future Market Insights",
+      "year_published": 2025
+    },
+    "segment_note": "The market size figure encompasses AI-powered VA tools plus human VA services; the human fractional/virtual EA services sub-segment is a portion of this total. No isolated human-only EA outsourcing market figure was sourced without subscription access."
+  },
+  "labor_stats": {
+    "national_bls_oes_43_6011": {
+      "occupation": "Executive Secretaries and Executive Administrative Assistants",
+      "soc_code": "43-6011",
+      "survey_date": "May 2023",
+      "employment_national": 483570,
+      "mean_hourly_wage": 35.42,
+      "mean_annual_wage": 73680,
+      "median_annual_wage_p50": 70310,
+      "median_hourly_wage_p50": 33.80,
+      "p10_annual": 45910,
+      "p25_annual": 56960,
+      "p75_annual": 84860,
+      "p90_annual": 104000,
+      "source": "https://www.bls.gov/oes/current/oes436011.htm",
+      "note": "Most recent OES data available from bls.gov as of pull date; May 2024 data not yet shown on the 43-6011 page at time of pull"
+    },
+    "houston_msa_ea_salary": {
+      "msa": "Houston-The Woodlands-Sugar Land, TX",
+      "soc_code_used": "43-6014",
+      "data_year": 2024,
+      "employment_in_msa": 547,
+      "median_annual_wage": 67099,
+      "median_hourly_wage": 32.26,
+      "mean_annual_wage": 72296,
+      "mean_hourly_wage": 34.76,
+      "p10_annual": 44128,
+      "p25_annual": 56342,
+      "p75_annual": 81263,
+      "p90_annual": 94609,
+      "source": "https://salarymetro.com/salary/executive-assistant/houston-tx/",
+      "source_note": "SalaryMetro citing BLS OEWS 2024 data for Houston MSA; primary BLS URL for Houston May 2024 OES: https://www.bls.gov/regions/southwest/news-release/2025/occupationalemploymentandwages_houston_20250617.htm"
+    },
+    "houston_ea_salary_indeed": {
+      "source": "https://www.indeed.com/career/executive-assistant/salaries/Houston--TX",
+      "survey_date_updated": "2026-05-07",
+      "average_base_salary": 68020,
+      "low": 43593,
+      "high": 106133,
+      "n_salaries": 173,
+      "note": "Based on job postings on Indeed in past 36 months; 6% below national average per Indeed"
+    },
+    "houston_ea_salary_robert_half": {
+      "source": "https://www.roberthalf.com/us/en/job-details/executive-assistant/houston-tx",
+      "range_low": 64658,
+      "range_mid": 77978,
+      "range_high": 96293,
+      "note": "Robert Half 2026 data; reflects low/mid/high based on experience"
+    },
+    "fully_loaded_cost_in_house_houston": {
+      "note": "Estimated derived from sourced data; labeled as recommendation/derivation",
+      "base_salary_median": 68000,
+      "benefits_burden_pct": 30,
+      "overhead_pct": 15,
+      "estimated_fully_loaded_annual": 99000,
+      "estimated_fully_loaded_monthly": 8250,
+      "derivation_basis": "Median Indeed/BLS salary ~$68k; benefits (health, retirement, PTO, taxes) typically add 25-35%; office overhead 10-20%"
+    }
+  },
+  "pricing_benchmarks": [
+    {
+      "provider_or_source": "Boldly",
+      "model": "Monthly subscription - 40 hrs/mo",
+      "price": 2600,
+      "price_unit": "per_month",
+      "hours_included": 40,
+      "per_hour_effective": 65.0,
+      "talent_location": "US-based W-2 employees or Europe",
+      "url": "https://boldly.com/pricing-plans/",
+      "date_seen": "2026-09-07",
+      "notes": "No startup fee; 10-15 years experience; meet before subscribing; cancel anytime; specialist tasks (PM, web, design) billed at $79/hr separately; 100% lifetime satisfaction guarantee"
+    },
+    {
+      "provider_or_source": "Boldly",
+      "model": "Monthly subscription - 60 hrs/mo",
+      "price": 3900,
+      "price_unit": "per_month",
+      "hours_included": 60,
+      "per_hour_effective": 65.0,
+      "talent_location": "US-based W-2 employees or Europe",
+      "url": "https://boldly.com/pricing-plans/",
+      "date_seen": "2026-09-07",
+      "notes": "Same terms as 40hr plan; confirmed stable Q3 2025 through Aug 2026 per pricingsaas.com"
+    },
+    {
+      "provider_or_source": "Boldly",
+      "model": "Monthly subscription - 80 hrs/mo",
+      "price": 5200,
+      "price_unit": "per_month",
+      "hours_included": 80,
+      "per_hour_effective": 65.0,
+      "talent_location": "US-based W-2 employees or Europe",
+      "url": "https://boldly.com/pricing-plans/",
+      "date_seen": "2026-09-07",
+      "notes": null
+    },
+    {
+      "provider_or_source": "Boldly",
+      "model": "Monthly subscription - 100 hrs/mo",
+      "price": 6500,
+      "price_unit": "per_month",
+      "hours_included": 100,
+      "per_hour_effective": 65.0,
+      "talent_location": "US-based W-2 employees or Europe",
+      "url": "https://boldly.com/pricing-plans/",
+      "date_seen": "2026-09-07",
+      "notes": "160+ hrs plans available on request; specialist tasks $79/hr"
+    },
+    {
+      "provider_or_source": "BELAY",
+      "model": "Fractional EA monthly retainer (estimated)",
+      "price_range": "$2,070-$3,910/mo",
+      "price": null,
+      "price_unit": "per_month",
+      "hours_included_range": "45-85 hrs/mo",
+      "per_hour_effective_range": "$46-$49/hr",
+      "talent_location": "US-based independent contractors",
+      "url": "https://theeaindex.com/services/belay",
+      "date_seen": "2026-09-07",
+      "notes": "BELAY does not publish prices; estimates derived from theeaindex.com and usecarly.com review article ($42-$50/hr range per usecarly.com); startup fee applies; 12-month contract reported; replacement guarantee; 93% first-match success (self-reported)"
+    },
+    {
+      "provider_or_source": "Delegate Solutions",
+      "model": "Fractional EA monthly retainer",
+      "price_range": "$2,299-$3,959/mo",
+      "price": null,
+      "price_unit": "per_month",
+      "hours_included_range": "25-45 hrs/mo",
+      "per_hour_effective_range": "$88-$92/hr",
+      "talent_location": "US-based employees (team model)",
+      "url": "https://www.delegatesolutions.com/fractional-executive-assistant-pricing",
+      "date_seen": "2026-09-07",
+      "notes": "Three-person team model (not a single assistant); one-time $499 onboarding fee; publishes pricing transparently; founded 2007; 4.9 Google rating"
+    },
+    {
+      "provider_or_source": "Time Etc",
+      "model": "Hourly US-based VA",
+      "price_range": "$36-$39/hr",
+      "price": null,
+      "price_unit": "per_hour",
+      "hours_included": null,
+      "per_hour_effective_range": "$36-$39",
+      "talent_location": "US-based",
+      "url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+      "date_seen": "2026-02-23",
+      "notes": "No startup fee; no contract; 12+ years avg VA experience per review article; cited in comparison table"
+    },
+    {
+      "provider_or_source": "Zirtual",
+      "model": "Monthly plan",
+      "price_range": "$34-$46/hr effective",
+      "price": null,
+      "price_unit": "per_month",
+      "hours_included": null,
+      "per_hour_effective_range": "$34-$46",
+      "talent_location": "US-based, college-educated",
+      "url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+      "date_seen": "2026-02-23",
+      "notes": "Team plans allow multiple users to share a VA; cited in comparison table from review article"
+    },
+    {
+      "provider_or_source": "Wing Assistant",
+      "model": "Full-time managed offshore VA",
+      "price": 1099,
+      "price_unit": "per_month",
+      "hours_included": 160,
+      "per_hour_effective": 6.87,
+      "talent_location": "Global / offshore",
+      "url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+      "date_seen": "2026-02-23",
+      "notes": "Approximately $7-$9/hr range cited; management layer and QA included; month-to-month"
+    },
+    {
+      "provider_or_source": "Offshore EA (Philippines market, Upwork/PayScale data)",
+      "model": "Hourly offshore EA",
+      "price_range": "$7-$15/hr",
+      "price": null,
+      "price_unit": "per_hour",
+      "hours_included": null,
+      "per_hour_effective_range": "$7-$15",
+      "talent_location": "Philippines",
+      "url": "https://www.outsourcedscale.com/blog/virtual-ea-pricing-hourly-vs-monthly-retainer/",
+      "date_seen": "2026-03-11",
+      "notes": "Source cites PayScale and Upwork market data for experienced EA-level offshore talent"
+    },
+    {
+      "provider_or_source": "VirtuHire (South Africa EOR model)",
+      "model": "Full-time offshore EA",
+      "price_range": "$1,200-$2,800/mo",
+      "price": null,
+      "price_unit": "per_month",
+      "hours_included": 173,
+      "per_hour_effective_range": "$7-$16",
+      "talent_location": "South Africa",
+      "url": "https://virtuhireusa.com/virtuhire-vs-boldly/",
+      "date_seen": "2026-05-19",
+      "notes": "EOR model; month-to-month after 1-month deposit; 30-day replacement guarantee; 5-10+ years experience"
+    },
+    {
+      "provider_or_source": "BELAY FAQ (own site)",
+      "model": "US-based VA general range",
+      "price_range": "$1,200-$3,000/mo",
+      "price": null,
+      "price_unit": "per_month",
+      "hours_included": null,
+      "per_hour_effective_range": "$30-$75/hr",
+      "talent_location": "US-based",
+      "url": "https://resources.belaysolutions.com/belay-faq-how-much-does-it-cost-to-hire-a-virtual-assistant-in-the-us",
+      "date_seen": "2026-09-07",
+      "notes": "Published as industry range framing on BELAY's own FAQ; not BELAY's specific pricing"
+    },
+    {
+      "provider_or_source": "Outsourced Scale (blog synthesis)",
+      "model": "Annual cost summary",
+      "price_range": "$15K-$24K/yr offshore; $55K-$75K/yr US-based full-time",
+      "price": null,
+      "price_unit": "per_year",
+      "hours_included": null,
+      "per_hour_effective_range": null,
+      "talent_location": "Various",
+      "url": "https://www.outsourcedscale.com/blog/virtual-ea-pricing-hourly-vs-monthly-retainer/",
+      "date_seen": "2026-03-11",
+      "notes": "Synthesis article; US-based full-time EA annual cost $55K-$75K before benefits/overhead aligns with BLS data"
+    }
+  ],
+  "pricing_recommendations": {
+    "label": "RECOMMENDATIONS — derived from sourced data above; not independently sourced figures",
+    "competitor_pricing_summary": {
+      "offshore_managed": "$7-$16/hr effective ($1,100-$2,800/mo full-time)",
+      "us_based_hourly_low": "$36-$42/hr (Time Etc, Zirtual range)",
+      "us_based_fractional_mid": "$46-$65/hr effective (BELAY, Boldly 40-hr plan)",
+      "us_based_fractional_premium": "$65-$92/hr effective (Boldly, Delegate Solutions)",
+      "in_house_fully_loaded_houston": "~$8,250/mo equivalent (derived from salary + benefits + overhead)"
+    },
+    "option_a_premium_boutique": {
+      "label": "Premium boutique positioning",
+      "target_rate": "$55-$65/hr",
+      "entry_tier": {"name": "Foundation", "hours_per_month": 20, "monthly": 1200, "effective_per_hour": 60},
+      "growth_tier": {"name": "Executive", "hours_per_month": 40, "monthly": 2300, "effective_per_hour": 57.5},
+      "full_tier": {"name": "Chief of Staff", "hours_per_month": 60, "monthly": 3300, "effective_per_hour": 55},
+      "rationale": "Undercuts Boldly ($65/hr) and Delegate Solutions ($88-$92/hr) while positioning well above offshore alternatives. Transparent published pricing creates trust advantage vs BELAY (opaque). US-based, dedicated, local Houston presence is a premium signal. Onboarding fee of $299-$399 is reasonable and filters serious buyers. No long-term contract removes friction vs BELAY's reported 12-month lock-in.",
+      "competitive_gap": "There is no boutique US-based fractional EA service with a strong local Houston identity and published pricing. National players treat Houston as a zip code. A local brand can command a slight premium on relationship and responsiveness.",
+      "risks": "At $55-$65/hr you compete with Boldly on price; must win on local presence, faster match time, and transparency"
+    },
+    "option_b_mid_market": {
+      "label": "Mid-market value positioning",
+      "target_rate": "$42-$52/hr",
+      "entry_tier": {"name": "Starter", "hours_per_month": 20, "monthly": 900, "effective_per_hour": 45},
+      "growth_tier": {"name": "Growth", "hours_per_month": 40, "monthly": 1800, "effective_per_hour": 45},
+      "full_tier": {"name": "Executive", "hours_per_month": 60, "monthly": 2600, "effective_per_hour": 43.3},
+      "rationale": "Matches BELAY's effective hourly rate while offering price transparency and no long-term contract. Appeals to budget-conscious buyers who have researched Belay and been put off by opacity and reported 12-month commitments. Headroom for later price increase as brand establishes.",
+      "risks": "Less margin; harder to position as premium; may compete with lower-tier offerings; requires volume to be profitable"
+    },
+    "recommended_approach": "Start with Option A (premium boutique) with a transparent pricing page, month-to-month terms, and a 2-week satisfaction guarantee. Differentiate on Houston local expertise, industry verticals (energy, medical, legal), published pricing, and rapid matching (target under 5 business days). The biggest competitive white space is a US-based, locally-rooted, transparently priced fractional EA service for Houston executives — no major player occupies that position today."
+  },
+  "buyer_signals": {
+    "pain_points": [
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "pain_point": "Pricing is not published on their website — you have to go through a sales consultation before learning what they charge.",
+        "theme": "pricing_opacity"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "pain_point": "Quality is inconsistent — Trustpilot shows 3.4/5 with polarized distribution; multiple reviews describe experience as 'hit or miss' depending on which VA you're matched with.",
+        "theme": "quality_inconsistency"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "pain_point": "VAs missing deadlines, requiring excessive hand-holding, and lack of proactive communication cited in negative reviews.",
+        "theme": "va_performance"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "pain_point": "Buyout fee of $10,000-$20,000 if client wants to hire their VA directly; contractually enforced for period after engagement ends.",
+        "theme": "restrictive_terms"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "pain_point": "Client Success Consultant engagement decreases over time — high-touch initially but support tapers while fees continue or increase.",
+        "theme": "support_degradation"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "pain_point": "Standard contract is 12 months with 30 days' notice for cancellation — long-term lock-in is a major friction point.",
+        "theme": "contract_lock_in"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "pain_point": "No structured onboarding playbook or task delegation framework provided — client must do the heavy lifting of figuring out what to delegate even at premium rates.",
+        "theme": "poor_onboarding"
+      },
+      {
+        "source_provider": "BELAY (general industry)",
+        "source_url": "https://www.solveline.pro/blog/belay-virtual-assistant-pricing",
+        "pain_point": "Unused hours expire monthly — no rollover of unused time.",
+        "theme": "hours_policy"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.indeed.com/cmp/Belay-Solutions/reviews",
+        "pain_point": "VAs report 'waiting weeks on end for placements' and describe the process as 'not supportive' — a signal that the contractor pool may be larger than available client demand, creating inconsistent quality of available talent.",
+        "theme": "talent_pipeline_instability"
+      },
+      {
+        "source_provider": "Wing Assistant",
+        "source_url": "https://www.trustpilot.com/review/wingassistant.com",
+        "pain_point": "Some VAs underqualified or unskilled; company 'did not stand behind its promises regarding assistant qualifications and accountability.'",
+        "theme": "quality_inconsistency"
+      },
+      {
+        "source_provider": "Wing Assistant",
+        "source_url": "https://www.trustpilot.com/review/wingassistant.com",
+        "pain_point": "High VA turnover — clients need to 'interview several candidates before someone takes the job and stays.'",
+        "theme": "va_turnover"
+      },
+      {
+        "source_provider": "Wing Assistant",
+        "source_url": "https://www.trustpilot.com/review/wingassistant.com",
+        "pain_point": "Lack of proactive support from customer success managers — communication issues and accountability gaps noted.",
+        "theme": "support_quality"
+      },
+      {
+        "source_provider": "Athena",
+        "source_url": null,
+        "pain_point": "Very expensive (full-time annual commitment at $36,000/yr minimum) with variable skill levels despite rigorous screening (1-2% acceptance); high price + potential ownership lock-in with buyout implications.",
+        "theme": "pricing_and_terms"
+      },
+      {
+        "source_provider": "General industry (review response, Reddit)",
+        "source_url": "https://www.futuremarketinsights.com/reports/virtual-assistant-services-market",
+        "pain_point": "'Being charged for poor work and then feeling silenced by a contract' — a recurring Reddit/review pattern across VA services.",
+        "theme": "contract_enforcement_on_poor_work"
+      },
+      {
+        "source_provider": "General industry",
+        "source_url": "https://www.theeaindex.com/services/belay",
+        "pain_point": "Most major providers do not publish pricing on their websites — requiring sales calls is 'a common (and annoying) practice in this industry.'",
+        "theme": "pricing_opacity"
+      },
+      {
+        "source_provider": "BELAY / General",
+        "source_url": "https://www.solveline.pro/blog/belay-virtual-assistant-pricing",
+        "pain_point": "Even paying $2,000-$5,000/month, many clients still doing most of the operations themselves — value/effort ratio feels off.",
+        "theme": "insufficient_delegation"
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.solveline.pro/blog/belay-virtual-assistant-pricing",
+        "pain_point": "Overflow work requires a new contract — additional VAs are not included in base plan.",
+        "theme": "scaling_friction"
+      },
+      {
+        "source_provider": "General industry",
+        "source_url": "https://www.outsourcedscale.com/blog/virtual-ea-pricing-hourly-vs-monthly-retainer/",
+        "pain_point": "Onboarding time, software costs, and management overhead not budgeted for in addition to EA's base fee — true cost surprises buyers.",
+        "theme": "hidden_total_cost"
+      }
+    ],
+    "praise": [
+      {
+        "source_provider": "Boldly",
+        "source_url": "https://boldly.com/pricing-plans/",
+        "praise_point": "100% lifetime satisfaction guarantee — if not satisfied at any time, they refund fees for the month."
+      },
+      {
+        "source_provider": "Boldly",
+        "source_url": "https://boldly.com/pricing-plans/",
+        "praise_point": "Meet the assistant before subscribing — clients see profiles and have a call before committing."
+      },
+      {
+        "source_provider": "Boldly",
+        "source_url": "https://boldly.com/pricing-plans/",
+        "praise_point": "Staff are W-2 employees with 10-15 years of specialization experience; trained backup covers vacations/illness."
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "praise_point": "93% first-match success rate (self-reported); matching process is thorough and human-driven."
+      },
+      {
+        "source_provider": "BELAY",
+        "source_url": "https://www.usecarly.com/blog/belay-virtual-assistant-review/",
+        "praise_point": "Multi-service under one roof (admin, bookkeeping, social, web) simplifies vendor relationships."
+      },
+      {
+        "source_provider": "Wing Assistant",
+        "source_url": "https://www.trustpilot.com/review/wingassistant.com",
+        "praise_point": "Praised for professionalism, helpfulness, and being tech-forward; assistants become 'invaluable and integrated parts of their teams.'"
+      },
+      {
+        "source_provider": "Delegate Solutions",
+        "source_url": "https://www.delegatesolutions.com/fractional-executive-assistant-pricing",
+        "praise_point": "Publishes pricing transparently upfront; team model means no single point of failure; 4.9 Google rating with 50+ reviews."
+      }
+    ],
+    "objections": [
+      "Too expensive compared to hiring in-house at the fraction being offered",
+      "Quality varies by which VA you get — no guarantee of consistent experience",
+      "Long-term contracts (especially BELAY's 12-month) create fear of being locked in with a poor match",
+      "Offshore VAs have timezone and communication barriers for real-time executive support",
+      "Onboarding takes too long — executives want help immediately, not after 2-4 weeks",
+      "Hard to know what to delegate — buyers want a service that helps them figure that out, not just execution",
+      "No industry-specific knowledge — 'My VA doesn't understand oil and gas terminology'",
+      "Concern about data security and confidentiality when sharing executive-level information with remote staff",
+      "Hidden fees (setup fees, buyout fees, credit card processing) increase true cost",
+      "Previous bad experience with a VA service — gun-shy about trying again"
+    ],
+    "guarantees_seen": [
+      {
+        "provider": "Boldly",
+        "guarantee": "100% lifetime satisfaction guarantee — full month refund if not satisfied at any time; cancel, upgrade, or downgrade anytime; no startup fees",
+        "source": "https://boldly.com/pricing-plans/"
+      },
+      {
+        "provider": "BELAY",
+        "guarantee": "Replacement guarantee if VA leaves; dedicated Client Success Consultant; no money-back guarantee publicly advertised; 12-month contract with 30-day cancellation notice",
+        "source": "https://www.usecarly.com/blog/belay-virtual-assistant-review/"
+      },
+      {
+        "provider": "VirtuHire",
+        "guarantee": "30-day no-cost replacement guarantee; month-to-month after one-month deposit",
+        "source": "https://virtuhireusa.com/virtuhire-vs-boldly/"
+      },
+      {
+        "provider": "Wing Assistant",
+        "guarantee": "Month-to-month; replacement included in managed service",
+        "source": "https://www.trustpilot.com/review/wingassistant.com"
+      },
+      {
+        "provider": "Delegate Solutions",
+        "guarantee": "One-time $499 onboarding fee; team model reduces single-person dependency risk; pricing published upfront",
+        "source": "https://www.delegatesolutions.com/fractional-executive-assistant-pricing"
+      }
+    ]
+  },
+  "methodology_notes": "All data points are cited to a URL and source. Volume estimates for all keywords are listed as null because no free public keyword volume tool returned credible searchable data during this session — Google Trends was noted as requiring browser interaction that could not retrieve numeric data, and SEMrush/Ahrefs require paid accounts. 'Who ranks now' reflects domains surfaced by Exa semantic search results for each keyword-type query and comparison article tables — these are labeled 'search-index based' and reflect index presence rather than confirmed position-1 rankings. Pricing data sourced from public pricing pages (Boldly verified at boldly.com/pricing-plans/, pricingsaas.com tracking Q3 2025-Q1 2026) and independent review articles. BELAY pricing is estimated from third-party review aggregators as BELAY does not publish pricing. BLS labor data for SOC 43-6011 is from May 2023 OES (most recent on bls.gov at pull date); Houston MSA EA salary from SalaryMetro citing BLS OEWS 2024 data and BLS regional news release June 2025. Pricing recommendations are clearly labeled as derived recommendations, not sourced market data. Market size figure from Future Market Insights (2025) encompasses the full VA services market including AI tools; the human fractional EA sub-segment is smaller. All buyer pain points sourced from Trustpilot, Indeed reviews, and independent review articles with URLs cited."
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+/tmp/
+# binary workbook is regenerated or decoded from the .b64 sidecar
+data/*.xlsx
