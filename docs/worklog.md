@@ -115,3 +115,34 @@ Format:
 - Owner chooses: D as the paid landing + A as the organic site (recommended), or D alone to start.
 - Fill placeholders (brand, address/phone, testimonials, photos, logos with permission, scheduler embed, legal pages).
 - Carry-overs: Keyword Planner volumes; BLS OEWS verification; brand name; concept B slider floor; Worxbee price re-verify.
+
+---
+
+## 2026-09-07 — Session 4 — Verified ICP prospect list (100+) in `prospects/`
+
+**Requested:** "Based on the ea-consulting-houston research, find 100+ verified ICP clients with contact information that need this type of work… verified to maximum scrutiny… expand outside Houston metro if needed… save a subfolder in the repo." Clarified with the owner: contacts must be verified emails **and** phone numbers; expansion geography = DFW, Austin, San Antonio only if Houston falls short. Session closed under a budget cap at the owner's instruction ($70 remaining); wrap-up plan approved.
+
+**Done:**
+- Wrote `prospects/SCHEMA.md` (ICP from strategy.md, hard data rules, row schema) and dispatched eight parallel research segments on the owner's default subagent model: Houston EA-hiring signals, legal, healthcare/TMC, private capital, energy, growth/funded, professional services, Texas expansion. Seven wrote output (202 candidate rows, 169 researcher-rejected with reasons); the **Houston EA-hiring segment was stopped before writing** and is the top follow-up.
+- Built a deterministic verifier (`prospects/scripts/verify_prospects.py`) that re-fetches every cited page and applies eight gates (website live; surname on an official page; two independent title sources; phone found on the company's own pages incl. `tel:` links; email published on an official page + MX via DNS-over-HTTPS + not free-mail; trigger URL reachable; metro in scope; size band 5–150). Added script-side discovery of `mailto:`/`tel:` links and Cloudflare-obfuscated emails on company pages (recorded with page URL as source, tagged `verifier_scan_2026-09-07`), and a patch-merge step for enrichment that can only add sourced values.
+- First full pass: 96 Verified / 199 deduped. Ran one bounded contact-enrichment subagent (≈23 tool calls) on the 48 rows failing only the phone/email gates → 24 patches (12 phones, mostly SEC Form ADV Item 1.F and company sites; 16 emails, 4 named). Verifier refused 4 patched addresses as non-outreach channels (privacy/opt-out aliases, one third-party IR-agency inbox).
+- Final: **107 Verified · 86 Partially Verified · 178 Rejected** (incl. 169 researcher rejections and 3 duplicates). Verified mix — metro: Houston 86, Austin 9, DFW 8, San Antonio 4; vertical: legal 31, private capital 18, healthcare 17, professional services 15, energy 11, other 9, tech 6; trigger: growth_list 23, new_launch 18, leadership_expansion 15, funding 11, hiring_ea 10, acquisition 5, other 25; tier: Executive 56, Chief of Staff 26, Foundation 25; named decision-maker email published on 34 rows, general business inbox on the rest.
+- Built the workbook (`build_workbook.py`: README, Verified, Partially Verified, Rejected, Sources, Segments) and generated `verification-log.md` (append-only) and `outreach-segments.md` (Wave 1 hiring-EA → Wave 2 named email → Wave 3 general inbox + LinkedIn; by tier) with `write_reports.py`.
+- Skipped under budget (logged in `prospects/README.md` → Coverage note): browser spot-check of 8 bot-blocked sites + 6 JS-only Houston law firms; source-corroboration enrichment for rows failing G2/G3/G6; the Houston EA-hiring segment.
+- Decision D-013 appended (signal-led sourcing + eight-gate verification standard + contact-data policy).
+
+**Produced:** `prospects/README.md`, `prospects/SCHEMA.md`, `prospects/prospects.xlsx.b64` (+ `prospects.json`), `prospects/raw/*.json` (7 segments), `prospects/raw/patches/contacts.json`, `prospects/verify/{verified,partial,rejected,checks}.json`, `prospects/verification-log.md`, `prospects/outreach-segments.md`, `prospects/scripts/{verify_prospects.py,build_workbook.py,write_reports.py}`, `prospects/scripts/researcher_helpers/energy_build.py`, `docs/decisions.md` (D-013), this entry.
+
+**Data quality notes:**
+- "Verified email" = published on an official page + MX present. **No SMTP mailbox probing** (no SMTP egress from the build environment). Run a deliverability check before any campaign and append results as a dated column.
+- 39 Verified/Partial rows have `null` employee counts (not published; not estimated). 7 Verified rows carry a `size risk` note (LinkedIn band 51–200) — confirm headcount before pitching.
+- Trigger `other` (25 Verified rows) means no dated 2024–2026 event was found; fit rests on the ICP profile alone.
+- Two Verified emails are on a different domain than the website (legacy/hyphenated mail domains) — verified on-page, flagged in Verification notes.
+- 21 Texas-expansion rows in Verified are virtual-only prospects; do not offer the in-person add-on.
+- Prospect data decays fast; treat anything older than 60 days as unverified and re-run the two scripts.
+
+**Open items / next steps:**
+- Re-run the `hiring_ea_houston` segment (highest intent; only 10 hiring_ea rows made Verified, most from Texas expansion).
+- Browser spot-check the bot-blocked/JS-only sites (targets in `prospects/verify/targets_browser.json`); source-corroboration pass on `targets_sources.json`.
+- Optional: deliverability check on the 107 emails; Google Business Profile phone cross-check.
+- Carry-overs from Sessions 1–3: Keyword Planner volumes; BLS OEWS verification; brand name; concept choice and placeholder fill.

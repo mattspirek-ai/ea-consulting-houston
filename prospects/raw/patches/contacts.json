@@ -1,0 +1,226 @@
+[
+ {
+  "company_name": "Veriten",
+  "website": "https://veriten.com",
+  "patch": {
+   "company_email": "team@veriten.com",
+   "company_email_source": "https://veriten.com/privacy-policy"
+  },
+  "enricher_note": "General inbox published in Veriten's own privacy policy ('contact us at team@veriten.com'); no email on the contact page, which is form-only."
+ },
+ {
+  "company_name": "FINBOA",
+  "website": "https://www.finboa.com",
+  "patch": {
+   "company_email": "info@finboa.com",
+   "company_email_source": "https://www.finboa.com/terms-and-conditions"
+  },
+  "enricher_note": "General inbox published on FINBOA's own terms-and-conditions page; privacy policy also lists privacy@finboa.com. Contact page is form-only."
+ },
+ {
+  "company_name": "The Enrichery",
+  "website": "https://theenrichery.com",
+  "patch": {
+   "company_email": "team@theenrichery.com",
+   "company_email_source": "https://theenrichery.com/privacy-policy"
+  },
+  "enricher_note": "General inbox published in The Enrichery's own privacy policy; site contact page uses a form only."
+ },
+ {
+  "company_name": "Body by Ravi Plastic Surgery & Aesthetics (with RISE Med Spa)",
+  "website": "https://www.bodybyravi.com/",
+  "patch": {
+   "company_email": "info@bodybyravi.com",
+   "company_email_source": "https://www.bodybyravi.com/terms-of-use/"
+  },
+  "enricher_note": "General practice inbox published on the practice's own terms-of-use page; patient-facing pages route to a form and (281) 242-1061."
+ },
+ {
+  "company_name": "McConnell Jones LLP",
+  "website": "https://mcconnelljones.com",
+  "patch": {
+   "company_email": "privacy@mjlm.com",
+   "company_email_source": "https://mcconnelljones.com/company-and-people/privacy-statement/"
+  },
+  "enricher_note": "Only email published on the firm's own site (privacy statement); note it uses the firm's legacy mjlm.com mail domain, not mcconnelljones.com. Careers page lists mjcareers@mjlm.com."
+ },
+ {
+  "company_name": "Abel Design Group",
+  "website": "https://abeldesigngroup.com",
+  "patch": {
+   "contact_email": "jabel@abeldesigngroup.com",
+   "contact_email_source": "https://abeldesigngroup.com/leadership/jeffrey-abel/"
+  },
+  "enricher_note": "Named email for decision maker Jeffrey Abel (Managing Principal) published on his own leadership bio page; other principals' emails follow the same first-initial+surname pattern on their bio pages. No general inbox published."
+ },
+ {
+  "company_name": "Aspire Commercial Real Estate",
+  "website": "https://www.aspirecre.com",
+  "patch": {
+   "company_email": "info@aspire-cre.com",
+   "company_email_source": "https://www.aspirecre.com/legal"
+  },
+  "enricher_note": "General inbox published on Aspire's own legal page; caveat - the mail domain is aspire-cre.com (hyphenated), not the website domain aspirecre.com."
+ },
+ {
+  "company_name": "Dean & Draper Insurance Agency",
+  "website": "https://www.deandraper.com",
+  "patch": {
+   "company_email": "sbushman@deandraper.com",
+   "company_email_source": "https://www.deandraper.com/dean-draper-careers/personal-lines-account-manager-brazos-valley"
+  },
+  "enricher_note": "Only email published anywhere on the agency's own site: a named HR/recruiting contact on a careers posting. Caveat - this is a recruiting contact, not a sales or executive inbox; main line (713) 527-0444 is on the contact page."
+ },
+ {
+  "company_name": "EIV Capital, LLC",
+  "website": "https://eivcapital.com/",
+  "patch": {
+   "company_email": "info@eivcapital.com",
+   "company_email_source": "https://eivcapital.com/privacy-policy"
+  },
+  "enricher_note": "General inbox published in EIV Capital's own privacy policy; contact page shows only phone (713) 353-2720 and a form."
+ },
+ {
+  "company_name": "Milton Street Capital",
+  "website": "https://miltonstreetcap.com/",
+  "patch": {
+   "company_email": "data.privacy.policy@miltonstreetcap.com",
+   "company_email_source": "https://miltonstreetcap.com/privacy-policy"
+  },
+  "enricher_note": "Only email published on the firm's own site (privacy policy). Caveat - it is a data-privacy alias, not a business development inbox; contact page is phone plus form."
+ },
+ {
+  "company_name": "RazorMetrics",
+  "website": "https://razormetrics.com/",
+  "patch": {
+   "company_email": "opt-out@razormetrics.com",
+   "company_email_source": "https://razormetrics.com/privacy-policy"
+  },
+  "enricher_note": "Only email published on RazorMetrics' own site (privacy policy opt-out alias). Caveat - not a sales inbox; contact page lists only the general business line (855) 972-9070."
+ },
+ {
+  "company_name": "Greylane",
+  "website": "https://www.greylane.holdings/",
+  "patch": {
+   "phone": "(214) 310-6446",
+   "phone_source": "https://www.greylane.holdings/"
+  },
+  "enricher_note": "Phone published on Greylane's own homepage next to 'Reach out to Greylane' alongside max@greylane.holdings; confirms the phone already on file."
+ },
+ {
+  "company_name": "Crux Capital Ltd",
+  "website": "https://crux-cap.com/",
+  "patch": {
+   "phone": "(214) 205-4821",
+   "phone_source": "https://crux-cap.com/privacy-policy"
+  },
+  "enricher_note": "Published on Crux Capital's own privacy policy: 'email us at privacy@crux-cap.com or call us at (214) 205-4821'. Caveat - differs from the (469) 389-1244 on file, which is not published on the firm's site; the 214 number is the site-published line."
+ },
+ {
+  "company_name": "Saddle Ridge Capital Partners",
+  "website": "https://www.saddleridgecapital.com/",
+  "patch": {
+   "phone": "(713) 820-7984",
+   "phone_source": "https://www.saddleridgecapital.com/contact",
+   "contact_email": "omar@saddleridgecapital.com",
+   "contact_email_source": "https://www.saddleridgecapital.com/contact"
+  },
+  "enricher_note": "Phone and named partner email both published on Saddle Ridge's own contact page alongside info@saddleridgecapital.com."
+ },
+ {
+  "company_name": "Triten Real Estate Partners",
+  "website": "https://www.tritenre.com",
+  "patch": {
+   "phone": "(832) 214-5000",
+   "phone_source": "https://www.tritenre.com/",
+   "company_email": "trepinfo@triten.com",
+   "company_email_source": "https://www.tritenre.com/"
+  },
+  "enricher_note": "Both published in Triten's own site footer ('Tel: 832-214-5000 / trepinfo@triten.com'); caveat - mail domain is triten.com, not the website domain tritenre.com."
+ },
+ {
+  "company_name": "Socha Capital",
+  "website": "https://www.sochacapital.com/",
+  "patch": {
+   "phone": "(512) 240-2244",
+   "phone_source": "https://www.sochacapital.com/privacy-policy"
+  },
+  "enricher_note": "Published on Socha Capital's own privacy policy ('please contact us at (512) 240-2244'); Austin area code matches the firm's metro. No email published on the site."
+ },
+ {
+  "company_name": "Allied Industrial Partners",
+  "website": "https://alliedindustrialpartners.com/",
+  "patch": {
+   "phone": "(832) 415-9055",
+   "phone_source": "https://reports.adviserinfo.sec.gov/reports/ADV/322494/PDF/322494.pdf"
+  },
+  "enricher_note": "SEC Form ADV Part 1 Item 1.F(3) 'Telephone number at this location' for principal office at 4909 Bissonnet St, Houston (CRD 322494, filed 3/31/2026). Identity confirmed by the ADV's own listed website alliedindustrialpartners.com. No phone published on the firm's site."
+ },
+ {
+  "company_name": "LDR Partners LP",
+  "website": "https://ldrgp.com/",
+  "patch": {
+   "phone": "(832) 982-6552",
+   "phone_source": "https://reports.adviserinfo.sec.gov/reports/ADV/328181/PDF/328181.pdf"
+  },
+  "enricher_note": "SEC Form ADV Part 1 Item 1.F(3) principal-office phone for 1111 Louisiana St Suite 4260, Houston (CRD 328181). Identity confirmed by the ADV's listed website ldrgp.com. No phone on the firm's own site."
+ },
+ {
+  "company_name": "First Bight Ventures",
+  "website": "https://firstbight.com/",
+  "patch": {
+   "phone": "(281) 895-1835",
+   "phone_source": "https://reports.adviserinfo.sec.gov/reports/ADV/318381/PDF/318381.pdf"
+  },
+  "enricher_note": "SEC Form ADV Part 1 Item 1.F(3) principal-office phone (CRD 318381); identity confirmed by the ADV's listed website firstbight.com. Site itself publishes only info@firstbight.com."
+ },
+ {
+  "company_name": "Energy Transition Ventures",
+  "website": "https://energytransitionventures.com/",
+  "patch": {
+   "phone": "(650) 766-5563",
+   "phone_source": "https://reports.adviserinfo.sec.gov/reports/ADV/314036/PDF/314036.pdf"
+  },
+  "enricher_note": "SEC Form ADV Part 1 Item 1.F(3) principal-office phone (CRD 314036); identity confirmed by the ADV's listed website energytransitionventures.com. Caveat - it is a 650 (Bay Area) number as filed, not a Houston line, so verify before using it for a Houston-office call."
+ },
+ {
+  "company_name": "Good Life Psychiatry",
+  "website": "https://www.goodlifepsychiatry.com/",
+  "patch": {
+   "phone": "(832) 985-6716",
+   "phone_source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295624823"
+  },
+  "enricher_note": "CMS NPI registry organization record for GOOD LIFE PSYCHIATRY (NPI 1295624823, authorized official Aarion Josey) lists 832-985-6716 as both the practice-location (Friendswood TX) and mailing phone; confirms the number already on file with an authoritative source."
+ },
+ {
+  "company_name": "Turtlebox Audio",
+  "website": "https://turtleboxaudio.com",
+  "patch": {
+   "company_email": "info@turtleboxaudio.com",
+   "company_email_source": "https://turtleboxaudio.com/policies/privacy-policy",
+   "phone": "(832) 789-1232",
+   "phone_source": "https://turtleboxaudio.com/policies/privacy-policy"
+  },
+  "enricher_note": "Both published together on Turtlebox's own Shopify privacy policy: 'contact us by phone at 1 (832) 789-1232, by email at info@turtleboxaudio.com'. Same email also appears on the terms of service; neither value is on the main contact page, which is form-only."
+ },
+ {
+  "company_name": "Epique Realty",
+  "website": "https://epique.com",
+  "patch": {
+   "company_email": "barbara@epiquerealty.com",
+   "company_email_source": "https://www.einpresswire.com/article/704941841/epique-s-soaring-growth-skyrockets-with-addition-of-top-producing-agent-walter-r-key-and-the-exceptional-karbon-club",
+   "phone": "(281) 773-7842",
+   "phone_source": "https://www.einpresswire.com/article/704941841/epique-s-soaring-growth-skyrockets-with-addition-of-top-producing-agent-walter-r-key-and-the-exceptional-karbon-club"
+  },
+  "enricher_note": "Company-issued EIN Presswire release ends with 'For media inquiries or further information, please contact: Barbara Simpson, Epique Realty, +1 281-773-7842, barbara@epiquerealty.com'. Caveats - this is a named media-relations contact on the corporate mail domain (epiquerealty.com, not the website domain epique.com), not the CEO; the phone differs from the (713) 396-3343 on file and is the press contact line."
+ },
+ {
+  "company_name": "Verde Clean Fuels",
+  "website": "https://verdecleanfuels.com",
+  "patch": {
+   "company_email": "verdeIR@icrinc.com",
+   "company_email_source": "https://www.businesswire.com/news/home/20260320115822/en/Verde-Clean-Fuels-Inc.-Announces-New-CEO-and-Engagement-of-Financial-Advisor-to-Evaluate-Strategic-Alternatives"
+  },
+  "enricher_note": "Only contact email Verde publishes anywhere: the 'Contacts - Investor Relations: Caldwell Bailey (ICR) verdeIR@icrinc.com' block on its own BusinessWire releases (repeated across Q4/FY2025 and Q1 2026 releases). Strong caveat - this is an outsourced IR mailbox at agency ICR (icrinc.com), not a verdecleanfuels.com address; the company site publishes no email at all. Drop if only first-party domains qualify."
+ }
+]

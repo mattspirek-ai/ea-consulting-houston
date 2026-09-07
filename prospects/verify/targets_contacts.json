@@ -1,0 +1,1241 @@
+[
+ {
+  "company_name": "Sage Geosystems",
+  "website": "https://sagegeosystems.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Cindy Taff",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://sagegeosystems.com/team",
+   "https://energycapitalhtx.com/sage-geosystems-series-b"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "sage@sagegeosystems.com",
+  "trigger_source": "https://energycapitalhtx.com/sage-geosystems-series-b",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "Verde Clean Fuels",
+  "website": "https://verdecleanfuels.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "George Burdette",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://www.businesswire.com/news/home/20260320115822/en/Verde-Clean-Fuels-Inc.-Announces-New-CEO-and-Engagement-of-Financial-Advisor-to-Evaluate-Strategic-Alternatives",
+   "https://www.ogj.com/general-interest/personnel-moves-promotions/news/55366204/verde-clean-fuels-names-burdette-ceo-advances-strategic-review"
+  ],
+  "phone": "(908) 281-6000",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.businesswire.com/news/home/20260320115822/en/Verde-Clean-Fuels-Inc.-Announces-New-CEO-and-Engagement-of-Financial-Advisor-to-Evaluate-Strategic-Alternatives",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Amperon",
+  "website": "https://amperon.co",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Sean Kelly",
+  "decision_maker_title": "Co-Founder & Chief Executive Officer",
+  "title_sources": [
+   "https://amperon.co/about-us",
+   "https://energycapitalhtx.com/amperon-samsung-ventures-investment"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@amperon.co",
+  "trigger_source": "https://energycapitalhtx.com/amperon-samsung-ventures-investment",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "Collide",
+  "website": "https://www.collide.io",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Collin McLelland",
+  "decision_maker_title": "Co-Founder & Chief Executive Officer",
+  "title_sources": [
+   "https://energycapitalhtx.com/collide-riggs-ai-platform",
+   "https://www.collide.io/contact"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "hello@collide.io",
+  "trigger_source": "https://energycapitalhtx.com/collide-riggs-ai-platform",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Riley Exploration Permian, Inc.",
+  "website": "https://rileypermian.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Bobby Riley",
+  "decision_maker_title": "Chairman and Chief Executive Officer",
+  "title_sources": [
+   "https://rileypermian.com/leadership",
+   "https://pboilandgasmagazine.com/riley-exploration-permian-forecasts-growth-in-production-capex-in-2026/"
+  ],
+  "phone": "(405) 415-8699",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://pboilandgasmagazine.com/riley-exploration-permian-forecasts-growth-in-production-capex-in-2026/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Veriten",
+  "website": "https://veriten.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Maynard Holt",
+  "decision_maker_title": "Founder & Chief Executive Officer",
+  "title_sources": [
+   "https://veriten.com/team",
+   "https://www.prnewswire.com/news-releases/veriten-announces-105-million-initial-close-of-fund-ii-to-accelerate-scalable-technology-solutions-in-energy-power-and-industrial-applications-302775500.html"
+  ],
+  "phone": "(832) 982-0009",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://veriten.com/2026/05/veriten-announces-105-million-initial-close-of-fund-ii-to-accelerate-scalable-technology-solutions-in-energy-power-and-industrial-applications/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Action1",
+  "website": "https://www.action1.com",
+  "metro": "Houston",
+  "vertical": "tech",
+  "decision_maker_name": "Alex Vovk",
+  "decision_maker_title": "CEO & Co-Founder",
+  "title_sources": [
+   "https://action1.com/about-us",
+   "https://www.inc.com/profile/action1"
+  ],
+  "phone": "(346) 444-8530",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.inc.com/profile/action1",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "FINBOA",
+  "website": "https://www.finboa.com",
+  "metro": "Houston",
+  "vertical": "tech",
+  "decision_maker_name": "Dheeraj \"Raj\" Singal",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://www.finboa.com/news/finboa-named-to-2025-inc.-fastest-growing-co-list",
+   "https://www.inc.com/profile/finboa"
+  ],
+  "phone": "(866) 218-4096",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.inc.com/profile/finboa",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Epique Realty",
+  "website": "https://epique.com",
+  "metro": "Houston",
+  "vertical": "other",
+  "decision_maker_name": "Joshua (Josh) Miller",
+  "decision_maker_title": "CEO & Co-Founder",
+  "title_sources": [
+   "https://epique.com/meet-the-founders/",
+   "https://www.linkedin.com/in/epiquejosh"
+  ],
+  "phone": "(713) 396-3343",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://houston.innovationmap.com/houston-rankings-2677721938.html",
+  "failing_gates": [
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "note: researcher contact_email josh@epiquerealty.com not found on any fetched page; set null",
+   "G4 phone not found on company site or cited source page",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Turtlebox Audio",
+  "website": "https://turtleboxaudio.com",
+  "metro": "Houston",
+  "vertical": "other",
+  "decision_maker_name": "Russell Laeding",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://www.linkedin.com/in/russell-laeding",
+   "https://www.inc.com/profile/turtlebox-audio"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.inc.com/profile/turtlebox-audio",
+  "failing_gates": [
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "The Enrichery",
+  "website": "https://theenrichery.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Sarah Seitz",
+  "decision_maker_title": "Founder",
+  "title_sources": [
+   "https://theenrichery.com/our-story",
+   "https://www.linkedin.com/in/sarah-seitz"
+  ],
+  "phone": "(713) 955-0123",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://houston.innovationmap.com/tag/entrepreneurship",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "note: phone discovered by verifier on official site (source recorded)",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Bot Auto",
+  "website": "https://bot.auto",
+  "metro": "Houston",
+  "vertical": "tech",
+  "decision_maker_name": "Dr. Xiaodi Hou",
+  "decision_maker_title": "Founder and Chief Executive Officer",
+  "title_sources": [
+   "https://bot.auto/about/xiaodi-hou",
+   "https://www.linkedin.com/in/xiaodihou"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "haul@bot.auto",
+  "trigger_source": "https://houston.innovationmap.com/bot-auto-houston-test-run-2674005097.html",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Bogey Bros Golf Co.",
+  "website": "https://bogeybros.co",
+  "metro": "Houston",
+  "vertical": "other",
+  "decision_maker_name": "Ryan Rizos",
+  "decision_maker_title": "Co-founder",
+  "title_sources": [
+   "https://bogeybros.co/pages/about-us",
+   "https://www.inc.com/profile/bogey-bros-golf"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "hello@bogeybros.co",
+  "trigger_source": "https://www.inc.com/profile/bogey-bros-golf",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "SmartAC.com",
+  "website": "https://smartac.com",
+  "metro": "Houston",
+  "vertical": "tech",
+  "decision_maker_name": "Josh Teekell",
+  "decision_maker_title": "Founder & CEO",
+  "title_sources": [
+   "https://www.linkedin.com/in/jateekell",
+   "https://houston.innovationmap.com/houston-innovators-podcast-josh-teekell-smartac-revisited-2670731127.html"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://houston.innovationmap.com/houston-innovators-podcast-josh-teekell-smartac-revisited-2670731127.html",
+  "failing_gates": [
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Receipts Depositary Corporation",
+  "website": "https://receiptsdepo.com",
+  "metro": "Houston",
+  "vertical": "tech",
+  "decision_maker_name": "Ankit Mehta",
+  "decision_maker_title": "Co-founder & Chief Executive Officer",
+  "title_sources": [
+   "https://houston.innovationmap.com/receipts-depositary-corp-funding-2677042616.html",
+   "https://receiptsdepo.com/company/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@receiptsdepo.io",
+  "trigger_source": "https://houston.innovationmap.com/receipts-depositary-corp-funding-2677042616.html",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: email domain differs from website domain (verified on page, kept)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "KH Plastic Surgery (Kristy Hamilton, MD)",
+  "website": "https://www.drkristyhamilton.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Kristy Hamilton",
+  "decision_maker_title": "Founder / Owner, board-certified plastic surgeon",
+  "title_sources": [
+   "https://communityimpact.com/houston/bellaire-meyerland-west-university/business/2026/04/07/new-plastic-surgery-clinic-offers-surgical-non-surgical-procedures-in-bellaire/",
+   "https://npiregistry.cms.hhs.gov/provider-view/1629496443"
+  ],
+  "phone": "(713) 770-6257",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://communityimpact.com/houston/bellaire-meyerland-west-university/business/2026/04/07/new-plastic-surgery-clinic-offers-surgical-non-surgical-procedures-in-bellaire/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Body by Ravi Plastic Surgery & Aesthetics (with RISE Med Spa)",
+  "website": "https://www.bodybyravi.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Ravi Somayazula",
+  "decision_maker_title": "Founder / owner, board-certified plastic surgeon",
+  "title_sources": [
+   "https://www.bodybyravi.com/blog/a-new-era-for-beauty-in-houston/",
+   "https://npiregistry.cms.hhs.gov/provider-view/1568624682"
+  ],
+  "phone": "(281) 242-1061",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.einpresswire.com/article/883891241/body-by-ravi-plastic-surgery-aesthetics-and-rise-med-spa-now-open-at-new-west-houston-location",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Face Forward Houston",
+  "website": "https://faceforwardhouston.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Regina Rodman",
+  "decision_maker_title": "Founder / owner, facial plastic surgeon",
+  "title_sources": [
+   "https://www.einpresswire.com/article/914369645/face-forward-houston-opens-new-location-in-the-heights-redefining-facial-plastic-surgery-and-deep-plane-rejuvenation",
+   "https://npiregistry.cms.hhs.gov/provider-view/1083916415"
+  ],
+  "phone": "(713) 321-2424",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://apnews.com/press-release/ein-presswire-newsmatics/face-forward-houston-opens-new-location-in-the-heights-redefining-facial-plastic-surgery-and-deep-plane-rejuvenation-90ea4ba7eb2445d5d43246e2bd98a9a0",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Inovi Fertility & Genetics Institute",
+  "website": "https://www.inovifertility.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Stephan Krotz",
+  "decision_maker_title": "Founder / Owner",
+  "title_sources": [
+   "https://www.inovifertility.com/about-us/",
+   "https://npiregistry.cms.hhs.gov/provider-view/1477933091"
+  ],
+  "phone": "(713) 401-9000",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://npiregistry.cms.hhs.gov/provider-view/1477933091",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Houston Premier Dermatology, PLLC",
+  "website": "https://houstonpremierdermatology.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Catherine Papasakelariou",
+  "decision_maker_title": "Founder / President",
+  "title_sources": [
+   "https://houstonpremierdermatology.com/dr-catherine-papasakelario",
+   "https://npiregistry.cms.hhs.gov/provider-view/1407403330"
+  ],
+  "phone": "(713) 561-5633",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://npiregistry.cms.hhs.gov/provider-view/1407403330",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Good Life Psychiatry",
+  "website": "https://www.goodlifepsychiatry.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Aarion Josey",
+  "decision_maker_title": "Chief Executive Officer / founder",
+  "title_sources": [
+   "https://npiregistry.cms.hhs.gov/provider-view/1295624823",
+   "https://voyagehouston.com/interview/community-highlights-meet-aarion-josey-of-good-life-psychiatry/"
+  ],
+  "phone": "(832) 985-6716",
+  "contact_email": "MD@goodlifepsychiatry.com",
+  "company_email": "MD@goodlifepsychiatry.com",
+  "trigger_source": "https://npiregistry.cms.hhs.gov/provider-view/1295624823",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 phone not found on company site or cited source page",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Pathways Behavioral Health, Inc",
+  "website": "https://voyagehouston.com/interview/hidden-gems-meet-christen-lewis-of-pathways-behavioral-health-inc/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Christen Lewis",
+  "decision_maker_title": "Co-Owner / Program Director",
+  "title_sources": [
+   "https://npiregistry.cms.hhs.gov/provider-view/1043967144",
+   "https://voyagehouston.com/interview/hidden-gems-meet-christen-lewis-of-pathways-behavioral-health-inc/"
+  ],
+  "phone": "(225) 636-9827",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://voyagehouston.com/interview/hidden-gems-meet-christen-lewis-of-pathways-behavioral-health-inc/",
+  "failing_gates": [
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "G4 phone not found on company site or cited source page",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "TLN Family Dental",
+  "website": "https://tlnfamilydental.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Tammeka Nickleberry",
+  "decision_maker_title": "Founder / Owner",
+  "title_sources": [
+   "https://www.groupdentistrynow.com/dso-group-blog/tln-family-dental/",
+   "https://npiregistry.cms.hhs.gov/provider-view/1417198615"
+  ],
+  "phone": "(713) 723-2600",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.groupdentistrynow.com/dso-group-blog/tln-family-dental/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Delta Spine and Pain Clinic",
+  "website": "https://www.delta-spine.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Johnson A. Ukpede",
+  "decision_maker_title": "Founder / Physician-Owner",
+  "title_sources": [
+   "https://www.delta-spine.com/providers/",
+   "https://npiregistry.cms.hhs.gov/provider-view/1740645787"
+  ],
+  "phone": "(281) 741-3243",
+  "contact_email": null,
+  "company_email": "info@delta-spine.com",
+  "trigger_source": "https://www.delta-spine.com/providers/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G5 email domain delta-spine.com has no MX record",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Endocrine & Diabetes Plus Clinic of Houston",
+  "website": "https://endocrine.plus/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Libu Varughese",
+  "decision_maker_title": "Co-Founding Physician",
+  "title_sources": [
+   "https://communityimpact.com/sugar-land-missouri-city/business/endocrine-diabetes-plus-clinic-of-houston-relocates-sugar-land-office/",
+   "https://npiregistry.cms.hhs.gov/provider-view/1053750331"
+  ],
+  "phone": "(832) 968-7003",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://communityimpact.com/sugar-land-missouri-city/business/endocrine-diabetes-plus-clinic-of-houston-relocates-sugar-land-office/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Hicks Thomas LLP",
+  "website": "https://www.hicks-thomas.com",
+  "metro": "Houston",
+  "vertical": "legal",
+  "decision_maker_name": "John B. Thomas",
+  "decision_maker_title": "Founding Partner and Co-Founder",
+  "title_sources": [
+   "https://www.hicks-thomas.com/attorneys/john-b-thomas/",
+   "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=228138"
+  ],
+  "phone": "(713) 547-9100",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.hicks-thomas.com/attorneys/john-b-thomas/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Burke Law Group, PLLC",
+  "website": "https://burkegroup.law",
+  "metro": "Houston",
+  "vertical": "legal",
+  "decision_maker_name": "Marcella Burke",
+  "decision_maker_title": "Managing Partner and Chairman",
+  "title_sources": [
+   "https://burkegroup.law/lawyer/marcella-burke/",
+   "https://www.law.com/texaslawyer/2026/07/15/focused-on-growing-its-trial-team-burke-law-group-adds-pillsbury-litigator-in-houston/"
+  ],
+  "phone": "(832) 987-2214",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://burkegroup.law/news/burke-law-group-adds-veteran-trial-lawyer-liz-klingensmith-as-partner-deepening-its-texas-litigation-bench/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Wright Abshire, Attorneys, A Professional Corporation",
+  "website": "https://www.wrightabshire.com",
+  "metro": "Houston",
+  "vertical": "legal",
+  "decision_maker_name": "Wesley E. Wright",
+  "decision_maker_title": "Founding shareholder / name partner",
+  "title_sources": [
+   "https://www.wrightabshire.com/attorney/wesley-e-wright/",
+   "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=192926"
+  ],
+  "phone": "(713) 234-1940",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.wrightabshire.com/our-attorneys/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Green Heron Partners",
+  "website": "https://www.greenheronpartners.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "C. Houston Johnson",
+  "decision_maker_title": "Co-Founder & Managing Partner",
+  "title_sources": [
+   "https://www.greenheronpartners.com/who-we-are/",
+   "https://mergr.com/investor/green-heron-partners/team/houston-johnson"
+  ],
+  "phone": null,
+  "contact_email": "houston@greenheronpartners.com",
+  "company_email": "info@greenheronpartners.com",
+  "trigger_source": "https://linkedin.com/company/green-heron-partners",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "Milton Street Capital",
+  "website": "https://miltonstreetcap.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Francis Carr",
+  "decision_maker_title": "Managing Partner",
+  "title_sources": [
+   "https://miltonstreetcap.com/team/",
+   "https://www.linkedin.com/in/hunter-nelson-092a2521a"
+  ],
+  "phone": "(713) 568-1285",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://miltonstreetcap.com/news/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Platform Partners",
+  "website": "https://platformllc.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Brad Morgan",
+  "decision_maker_title": "Co-Founder & Co-CEO",
+  "title_sources": [
+   "https://platformllc.com/team/brad-morgan/",
+   "https://mergr.com/investor/platform-partners/team/brad-morgan"
+  ],
+  "phone": "(713) 335-2300",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://platformllc.com/news/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Allied Industrial Partners",
+  "website": "https://alliedindustrialpartners.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Philip Wright",
+  "decision_maker_title": "Co-Founder & Managing Partner",
+  "title_sources": [
+   "https://www.prnewswire.com/news-releases/allied-industrial-partners-makes-majority-investment-in-trinity-industrial-a-gulf-coast-equipment-rental-and-specialty-services-platform-302764953.html",
+   "https://www.linkedin.com/in/philip-wright-61721319"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "contact@aipgp.com",
+  "trigger_source": "https://www.prnewswire.com/news-releases/allied-industrial-partners-makes-majority-investment-in-trinity-industrial-a-gulf-coast-equipment-rental-and-specialty-services-platform-302764953.html",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: email domain differs from website domain (verified on page, kept)"
+  ]
+ },
+ {
+  "company_name": "LDR Partners LP",
+  "website": "https://ldrgp.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Ryan Martin",
+  "decision_maker_title": "Managing Partner & CEO",
+  "title_sources": [
+   "https://www.prnewswire.com/news-releases/ldr-partners-names-paul-b-murphy-jr-as-partner-302859344.html",
+   "https://ldrgp.com/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@ldrgp.com",
+  "trigger_source": "https://www.prnewswire.com/news-releases/ldr-partners-names-paul-b-murphy-jr-as-partner-302859344.html",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Saddle Ridge Capital Partners",
+  "website": "https://www.saddleridgecapital.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Omar Garza",
+  "decision_maker_title": "Founder & CEO",
+  "title_sources": [
+   "https://www.saddleridgecapital.com/team",
+   "https://www.newswire.com/news/saddle-ridge-capital-partners-launches-with-entrepreneurial-vision-to-22530318"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@saddleridgecapital.com",
+  "trigger_source": "https://www.newswire.com/news/saddle-ridge-capital-partners-launches-with-entrepreneurial-vision-to-22530318",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G4 no 10-digit phone published",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "EIV Capital, LLC",
+  "website": "https://eivcapital.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Patricia Melcher",
+  "decision_maker_title": "Managing Partner & Co-Founder",
+  "title_sources": [
+   "https://eivcapital.com/team/",
+   "https://www.rigzone.com/news/eiv_capital_raises_11b_for_new_oil_and_gas_funds-24-apr-2026-183527-article/"
+  ],
+  "phone": "(713) 353-2720",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://eivcapital.com/eiv-capital-closes-on-1-1-billion-in-capital-commitments-across-energy-infrastructure-and-upstream-investment-strategies/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Soul Street Ventures",
+  "website": "https://soulvp.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Prasanth Chilukuri",
+  "decision_maker_title": "Co-Founder & Managing Partner",
+  "title_sources": [
+   "https://soulvp.com/the-team/",
+   "https://vcwire.tech/2025/04/14/interview-with-soul-street-ventures-managing-partner-prasanth-chilukuri/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@soulstreet.com",
+  "trigger_source": "https://vcwire.tech/2025/03/10/soul-street-ventures-closes-22-5m-inaugural-fund/",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: email domain differs from website domain (verified on page, kept)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Modi Ventures",
+  "website": "https://modiventures.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Sahir Ali",
+  "decision_maker_title": "Founder & General Partner",
+  "title_sources": [
+   "https://www.prnewswire.com/news-releases/modi-ventures-raises-88-million-for-second-fund-to-invest-in-tech-bio-convergence-302505446.html",
+   "https://www.linkedin.com/in/sahirzeeshan-ali"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@modivc.com",
+  "trigger_source": "https://www.prnewswire.com/news-releases/modi-ventures-raises-88-million-for-second-fund-to-invest-in-tech-bio-convergence-302505446.html",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: email domain differs from website domain (verified on page, kept)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "First Bight Ventures",
+  "website": "https://firstbight.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Veronica Breckenridge",
+  "decision_maker_title": "Founder & Managing Partner",
+  "title_sources": [
+   "https://firstbight.com/team/",
+   "https://nvca.org/member-spotlight-first-bight-ventures/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@firstbight.com",
+  "trigger_source": "https://firstbight.com/team/",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "Energy Transition Ventures",
+  "website": "https://energytransitionventures.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Neal Dikeman",
+  "decision_maker_title": "Partner",
+  "title_sources": [
+   "https://energytransitionventures.com/team",
+   "https://www.linkedin.com/company/energy-transition-ventures"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@energytransitionvc.com",
+  "trigger_source": "https://energytransitionventures.com/news/",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "note: email domain differs from website domain (verified on page, kept)"
+  ]
+ },
+ {
+  "company_name": "McConnell Jones LLP",
+  "website": "https://mcconnelljones.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Wayne McConnell",
+  "decision_maker_title": "Managing Partner",
+  "title_sources": [
+   "https://mcconnelljones.com/company-and-people/team-members/",
+   "https://insidepublicaccounting.com/2025/03/26/mcconnell-jones-announces-acquisition-of-taylor-cpa-associates/"
+  ],
+  "phone": "(713) 968-1600",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://mcconnelljones.com/mcconnell-jones-announces-acquisition-of-taylor-cpa-associates/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "EHRA Engineering",
+  "website": "https://ehra.team",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Jim Russ",
+  "decision_maker_title": "President & CEO",
+  "title_sources": [
+   "https://ehra.team/about-us/leadership",
+   "https://www.arch.tamu.edu/alumni/jim-russ-86/"
+  ],
+  "phone": "(713) 784-4500",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://ehra.team/resources/news/celebrating-90-years?hs_amp=true",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "DBR Engineering Consultants, Inc.",
+  "website": "https://www.dbrinc.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Brian S. Jenkins",
+  "decision_maker_title": "President | Chief Operating Officer",
+  "title_sources": [
+   "https://www.dbrinc.com/about/leadership/",
+   "https://www.linkedin.com/in/brian-jenkins-83204514"
+  ],
+  "phone": "(713) 914-0888",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.avisonyoung.us/news-item/-/article/2025/07/28/avison-young-negotiates-new-47150-sf-corporate-headquarters-lease-on-behalf-of-dbr-engineering-consultants-inc-in-houston/in/houston",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Abel Design Group",
+  "website": "https://abeldesigngroup.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Jeffrey Abel",
+  "decision_maker_title": "Managing Principal (founder)",
+  "title_sources": [
+   "https://abeldesigngroup.com/leadership/",
+   "https://www.linkedin.com/in/jeffreyabel"
+  ],
+  "phone": "(713) 622-8899",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://abeldesigngroup.com/abel-design-group-durham-expansion-carolinas/",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Triten Real Estate Partners",
+  "website": "https://www.tritenre.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Scott Arnoldy",
+  "decision_maker_title": "Chief Executive Officer, Founder",
+  "title_sources": [
+   "https://www.tritenre.com/team/scott-arnoldy",
+   "https://realtynewsreport.com/triten-starts-big-industrial-project-in-north-houston/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://realtynewsreport.com/triten-starts-big-industrial-project-in-north-houston/",
+  "failing_gates": [
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "note: researcher company_email trepinfo@triten.com not found on any fetched page; set null",
+   "G4 no 10-digit phone published",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Rebel Retail Advisors",
+  "website": "https://www.rebelretailadvisors.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Lacee Jacobs",
+  "decision_maker_title": "Founder & President",
+  "title_sources": [
+   "https://www.comocreatives.com/press/midway-executive-launches-rebel-retail-advisors-a-woman-founded-firm-revolutionizing-retail-real-estate-leasing-and-consulting",
+   "https://www.linkedin.com/in/lacee-jacobs-tx-retail-leasing"
+  ],
+  "phone": null,
+  "contact_email": "laceej@rebelretailadvisors.com",
+  "company_email": "info@rebelretailadvisors.com",
+  "trigger_source": "https://www.comocreatives.com/press/midway-executive-launches-rebel-retail-advisors-a-woman-founded-firm-revolutionizing-retail-real-estate-leasing-and-consulting",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "note: named email discovered by verifier on official site (surname match; source recorded)",
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "Aspire Commercial Real Estate",
+  "website": "https://www.aspirecre.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Brandon Avedikian",
+  "decision_maker_title": "Founder / CEO",
+  "title_sources": [
+   "https://crebrokerplaybook.com/p/from-broker-to-ceo-how-brandon-avedikian-is-building-a-real-business-10e9d82dc997bf76",
+   "https://www.aspirecre.com/contact"
+  ],
+  "phone": "(713) 933-2001",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://crebrokerplaybook.com/p/from-broker-to-ceo-how-brandon-avedikian-is-building-a-real-business-10e9d82dc997bf76",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Dean & Draper Insurance Agency",
+  "website": "https://www.deandraper.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Kyle Dean, MBA, CLCS",
+  "decision_maker_title": "President & CEO",
+  "title_sources": [
+   "https://www.deandraper.com/kyle-dean",
+   "https://www.linkedin.com/in/jkyledean"
+  ],
+  "phone": "(713) 527-0444",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://linkedin.com/company/deananddraper",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Medley, Inc.",
+  "website": "https://medleyinc.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Ashley Small",
+  "decision_maker_title": "Founder & CEO",
+  "title_sources": [
+   "https://defendernetwork.com/people/dn-news-profiles/ashley-small-medley-houston/",
+   "https://medleyinc.com/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "party@medleyinc.com",
+  "trigger_source": "https://defendernetwork.com/people/dn-news-profiles/ashley-small-medley-houston/",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G4 no 10-digit phone published",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Crux Capital Ltd",
+  "website": "https://crux-cap.com/",
+  "metro": "DFW",
+  "vertical": "private_capital",
+  "decision_maker_name": "Wayne Moore",
+  "decision_maker_title": "Founder and Managing Partner",
+  "title_sources": [
+   "https://crux-cap.com/team/wayne-moore/",
+   "https://www.linkedin.com/in/wayne-moore-crux-capital"
+  ],
+  "phone": "(469) 389-1244",
+  "contact_email": null,
+  "company_email": "info@crux-cap.com",
+  "trigger_source": "https://www.dmagazine.com/business-economy/2025/09/dallas-pe-firm-crux-capital-raises-342-million-for-inaugural-fund/",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 phone not found on company site or cited source page"
+  ]
+ },
+ {
+  "company_name": "Greylane",
+  "website": "https://www.greylane.holdings/",
+  "metro": "DFW",
+  "vertical": "private_capital",
+  "decision_maker_name": "Max Katzenstein",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://www.prnewswire.com/news-releases/greylane-launches-as-a-serial-acquirer-of-niche-engineered-component-businesses-302515310.html",
+   "https://dallasinnovates.com/dallas-based-greylane-launches-to-acquire-engineered-components-manufacturers-starting-with-san-antonios-aircare/"
+  ],
+  "phone": "(214) 310-6446",
+  "contact_email": "max@greylane.holdings",
+  "company_email": null,
+  "trigger_source": "https://www.prnewswire.com/news-releases/greylane-launches-as-a-serial-acquirer-of-niche-engineered-component-businesses-302515310.html",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 phone not found on company site or cited source page",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Socha Capital",
+  "website": "https://www.sochacapital.com/",
+  "metro": "Austin",
+  "vertical": "private_capital",
+  "decision_maker_name": "Jeff Socha",
+  "decision_maker_title": "Founder & Chief Executive Officer",
+  "title_sources": [
+   "https://www.sochacapital.com/team/jeff-socha",
+   "https://www.linkedin.com/in/jeffsocha"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.linkedin.com/jobs/view/executive-assistant-to-chief-executive-officer-at-socha-capital-4453718657",
+  "failing_gates": [
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Throne Science",
+  "website": "https://www.thronescience.com/",
+  "metro": "Austin",
+  "vertical": "healthcare",
+  "decision_maker_name": "Scott Hickle",
+  "decision_maker_title": "Co-Founder & Chief Executive Officer",
+  "title_sources": [
+   "https://www.linkedin.com/in/scotthickle",
+   "https://insider.fitt.co/press-release/throne-science-maker-of-smart-toilet-sensor-announces-10-million-series-a-fundraise/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "support@thronescience.com",
+  "trigger_source": "https://insider.fitt.co/press-release/throne-science-maker-of-smart-toilet-sensor-announces-10-million-series-a-fundraise/",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "Insight Health AI, Inc.",
+  "website": "https://www.insighthealth.ai/",
+  "metro": "Austin",
+  "vertical": "healthcare",
+  "decision_maker_name": "Jaimal Soni",
+  "decision_maker_title": "Co-Founder & Chief Executive Officer",
+  "title_sources": [
+   "https://www.linkedin.com/company/insight-health-ai",
+   "https://www.builtinaustin.com/articles/insight-health-raises-11m-series-a-20260407"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "help@insighthealth.ai",
+  "trigger_source": "https://www.builtinaustin.com/articles/insight-health-raises-11m-series-a-20260407",
+  "failing_gates": [
+   "G4"
+  ],
+  "reasons": [
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "RazorMetrics",
+  "website": "https://razormetrics.com/",
+  "metro": "Austin",
+  "vertical": "tech",
+  "decision_maker_name": "Tom Dorsett",
+  "decision_maker_title": "Chief Executive Officer and co-founder",
+  "title_sources": [
+   "https://razormetrics.com/about/",
+   "https://www.prnewswire.com/news-releases/razormetrics-named-to-inc-5000-fastest-growing-companies-list-for-second-consecutive-year-302847771.html"
+  ],
+  "phone": "(855) 972-9070",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.prnewswire.com/news-releases/razormetrics-named-to-inc-5000-fastest-growing-companies-list-for-second-consecutive-year-302847771.html",
+  "failing_gates": [
+   "G5"
+  ],
+  "reasons": [
+   "G5 no published email"
+  ]
+ }
+]

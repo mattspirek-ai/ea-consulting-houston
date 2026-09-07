@@ -1,0 +1,843 @@
+[
+ {
+  "company_name": "Ignis H2 Energy",
+  "website": "https://ignisenergy.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Richard Calleri",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://ignisenergy.com/team-members/richard-calleri/",
+   "https://www.linkedin.com/in/richardcalleri"
+  ],
+  "phone": "(713) 300-3890",
+  "contact_email": "r.calleri@ignisenergy.com",
+  "company_email": "info@ignisenergy.com",
+  "trigger_source": "https://www.globenewswire.com/news-release/2025/06/26/3106139/0/en/Ignis-Energy-Announced-Final-Close-of-13-6M-Series-A-Round-To-Advance-Global-Geothermal-Exploration-Portfolio.html",
+  "failing_gates": [
+   "G6"
+  ],
+  "reasons": [
+   "note: named email discovered by verifier on official site (surname match; source recorded)",
+   "G6 trigger source not reachable (HTTP None)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Plus Power",
+  "website": "https://pluspower.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Naveen V. Abraham",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://www.pluspower.com/people",
+   "https://pluspower.com/about"
+  ],
+  "phone": "(832) 585-1238",
+  "contact_email": null,
+  "company_email": "contact@pluspower.com",
+  "trigger_source": "https://www.pluspower.com/people",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G3 title sources insufficient (1 domains, 2 usable)"
+  ]
+ },
+ {
+  "company_name": "Evolution Petroleum Corporation",
+  "website": "https://evolutionpetroleum.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Kelly W. Loyd",
+  "decision_maker_title": "President, Chief Executive Officer and Director",
+  "title_sources": [
+   "https://www.evolutionpetroleum.com/wp-content/uploads/2026.08-EPM-Investor-Presentation.pdf",
+   "https://ir.evolutionpetroleum.com/news-releases/news-release-details/evolution-petroleum-reports-fiscal-second-quarter-2026-results"
+  ],
+  "phone": "(713) 935-0122",
+  "contact_email": null,
+  "company_email": "info@evolutionpetroleum.com",
+  "trigger_source": "https://www.morningstar.com/news/globe-newswire/9388463/evolution-petroleum-announces-acquisition-of-non-operated-oil-and-natural-gas-assets-in-new-mexico-texas-and-louisiana",
+  "failing_gates": [
+   "G6"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G6 trigger source not reachable (HTTP 404)"
+  ]
+ },
+ {
+  "company_name": "Epsilon Energy Ltd.",
+  "website": "https://epsilonenergyltd.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Jason P. Stabell",
+  "decision_maker_title": "President / Chief Executive Officer",
+  "title_sources": [
+   "https://epsilonenergyltd.com/about/",
+   "https://finance.yahoo.com/quote/EPSN/profile/"
+  ],
+  "phone": "(281) 670-0002",
+  "contact_email": null,
+  "company_email": "Admin@epsilonenergyltd.com",
+  "trigger_source": "https://epsilonenergyltd.com/about/",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (2 domains, 1 usable)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Enventure Global Technology",
+  "website": "https://enventuregt.com",
+  "metro": "Houston",
+  "vertical": "energy",
+  "decision_maker_name": "Brad Baker",
+  "decision_maker_title": "Chairman & Chief Executive Officer",
+  "title_sources": [
+   "https://enventuregt.com/about-us",
+   "https://markets.financialcontent.com/stocks/article/bizwire-2026-8-25-enventure-names-brad-baker-chairman-and-ceo-to-lead-next-phase-of-strategic-growth"
+  ],
+  "phone": "(281) 552-2200",
+  "contact_email": null,
+  "company_email": "need.info@enventuregt.com",
+  "trigger_source": "https://markets.financialcontent.com/stocks/article/bizwire-2026-8-25-enventure-names-brad-baker-chairman-and-ceo-to-lead-next-phase-of-strategic-growth",
+  "failing_gates": [
+   "G3",
+   "G6"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (2 domains, 1 usable)",
+   "G6 trigger source not reachable (HTTP None)"
+  ]
+ },
+ {
+  "company_name": "OptiSigns",
+  "website": "https://optisigns.com",
+  "metro": "Houston",
+  "vertical": "tech",
+  "decision_maker_name": "Henry Le",
+  "decision_maker_title": "Co-founder & Chief Product Officer",
+  "title_sources": [
+   "https://www.inc.com/profile/optisigns",
+   "https://www.linkedin.com/in/henryle1"
+  ],
+  "phone": "(832) 410-8132",
+  "contact_email": null,
+  "company_email": "support@optisigns.com",
+  "trigger_source": "https://www.inc.com/profile/optisigns",
+  "failing_gates": [
+   "G2"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page"
+  ]
+ },
+ {
+  "company_name": "O'Donnell/Snider Construction",
+  "website": "https://www.odonnellsnider.com",
+  "metro": "Houston",
+  "vertical": "other",
+  "decision_maker_name": "Trey Snider",
+  "decision_maker_title": "Co-founder, Chairman & CEO",
+  "title_sources": [
+   "https://www.odonnellsnider.com/about-us/leadership/",
+   "https://www.odonnellsnider.com/odonnell-snider-construction-named-a-finalist-for-houston-business-journals-2026-fastest-growing-companies/"
+  ],
+  "phone": "(713) 782-7660",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.odonnellsnider.com/odonnell-snider-construction-named-a-finalist-for-houston-business-journals-2026-fastest-growing-companies/",
+  "failing_gates": [
+   "G3",
+   "G5"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Anchor Construction & Management",
+  "website": "https://anchorcm.net",
+  "metro": "Houston",
+  "vertical": "other",
+  "decision_maker_name": "Sonya Bly",
+  "decision_maker_title": "Co-founder & Chief Executive Officer",
+  "title_sources": [
+   "https://anchorcm.net/about-us",
+   "https://anchorcm.net/newsroom-anchor/anchor-construction-named-2025-fastest-growing-company"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "info@anchorcm.net",
+  "trigger_source": "https://anchorcm.net/newsroom-anchor/anchor-construction-named-2025-fastest-growing-company",
+  "failing_gates": [
+   "G3",
+   "G4"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "G4 no 10-digit phone published",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "TrueLeap Inc.",
+  "website": "https://trueleapinc.com",
+  "metro": "Houston",
+  "vertical": "tech",
+  "decision_maker_name": "Dr. Sandip Bordoloi",
+  "decision_maker_title": "President & CEO (co-founder)",
+  "title_sources": [
+   "https://trueleapinc.com/company",
+   "https://trueleapinc.com/press/seed-round-3-3m"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://houston.innovationmap.com/true-leap-inc-seed-round-2675256137.html",
+  "failing_gates": [
+   "G2",
+   "G3",
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "G4 no 10-digit phone published",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Bairitone Health",
+  "website": "https://bairitone.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Meagan R. Pitcher, PhD",
+  "decision_maker_title": "Founder & CEO",
+  "title_sources": [
+   "https://houston.innovationmap.com/meagan-pitcher-bairitone-health-houston-innovators-podcast-2670703311.html",
+   "https://www.linkedin.com/in/meaganrpitcher"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "team@bairitone.com",
+  "trigger_source": "https://www.linkedin.com/posts/meaganrpitcher_promising-houston-sleep-tech-startup-readies-activity-7500926813179662336-y8q-",
+  "failing_gates": [
+   "G2",
+   "G4"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "G4 no 10-digit phone published",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "GastroDoxs (Northwest Houston Gastroenterology PA)",
+  "website": "https://www.gastrodoxs.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Bharat Pothuri",
+  "decision_maker_title": "Founder / Owner, board-certified gastroenterologist & hepatologist",
+  "title_sources": [
+   "https://www.gastrodoxs.com/team/dr-bharat-pothuri",
+   "https://npiregistry.cms.hhs.gov/provider-view/1811160773"
+  ],
+  "phone": "(832) 632-4070",
+  "contact_email": null,
+  "company_email": "info@gastrodoxs.com",
+  "trigger_source": "https://www.intelligence360.news/dr-bharat-pothuri-md-to-expand-into-4361-square-feet-of-space-in-cypress-texas/",
+  "failing_gates": [
+   "G6"
+  ],
+  "reasons": [
+   "G6 trigger source not reachable (HTTP 500)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Elite Dental & Wellness",
+  "website": "https://www.elitedentalwellness.com/",
+  "metro": "Houston",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dr. Ashandra Batiste, DDS",
+  "decision_maker_title": "Founder / Owner",
+  "title_sources": [
+   "https://afrotech.com/elite-dental-wellness-2",
+   "https://npiregistry.cms.hhs.gov/provider-view/1336349836"
+  ],
+  "phone": "(713) 789-8680",
+  "contact_email": null,
+  "company_email": "office@elitedentalwellness.com",
+  "trigger_source": "https://www.elitedentalwellness.com/",
+  "failing_gates": [
+   "G2"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G2 decision-maker surname not found on any fetched official page",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Vasquez Waite, PLLC",
+  "website": "https://vasquezwaite.com",
+  "metro": "Houston",
+  "vertical": "legal",
+  "decision_maker_name": "Cara Vasquez",
+  "decision_maker_title": "Founding Partner",
+  "title_sources": [
+   "https://vasquezwaite.com/our-team/",
+   "https://vasquezwaite.com/2025/01/building-business-from-bigger-law-to-a-boutique/"
+  ],
+  "phone": "(713) 993-7950",
+  "contact_email": null,
+  "company_email": "info@vasquezwaite.com",
+  "trigger_source": "https://vasquezwaite.com/2025/01/houston-litigation-firm-vasquez-waite-off-to-fast-and-furious-start/",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)"
+  ]
+ },
+ {
+  "company_name": "Williams Hart & Boundas, LLP",
+  "website": "https://whlaw.com",
+  "metro": "Houston",
+  "vertical": "legal",
+  "decision_maker_name": "John Eddie Williams, Jr.",
+  "decision_maker_title": "Founder",
+  "title_sources": [
+   "https://whlaw.com/lawyers/",
+   "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=192237"
+  ],
+  "phone": "(713) 230-2200",
+  "contact_email": null,
+  "company_email": "tames@whlaw.com",
+  "trigger_source": "https://www.einpresswire.com/article/907771119/williams-hart-boundas-llp-names-new-partners-in-houston-tx",
+  "failing_gates": [
+   "G2"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G2 decision-maker surname not found on any fetched official page",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Pontem Energy Capital",
+  "website": "https://www.pontemec.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Jeff Bartlett",
+  "decision_maker_title": "Managing Partner",
+  "title_sources": [
+   "https://www.pontemec.com/team/jeff-bartlett",
+   "https://www.pontemec.com/team"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.businesswire.com/news/home/20250715347484/en/Pontem-Energy-Capital-Holds-Initial-Close-for-Its-Second-Private-Equity-Fund",
+  "failing_gates": [
+   "G3",
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "G4 no 10-digit phone published",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Andros Capital Partners",
+  "website": "https://www.androscapital.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Phillip Gayle, Jr.",
+  "decision_maker_title": "Founder & Managing Partner",
+  "title_sources": [
+   "https://www.androscapital.com/",
+   "https://mergr.com/investor/andros-capital/team/phillip-gayle"
+  ],
+  "phone": "(713) 568-0701",
+  "contact_email": null,
+  "company_email": "info@androscapital.com",
+  "trigger_source": "https://www.businesswire.com/news/home/20250407103379/en/Andros-Capital-Partners-Closes-Third-Energy-Fund-at-%241-Billion",
+  "failing_gates": [
+   "G2"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Cannon Field",
+  "website": "https://cannonfield.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Brian Weinberg",
+  "decision_maker_title": "Chief Executive Officer",
+  "title_sources": [
+   "https://img1.wsimg.com/blobby/go/878623ec-bcbd-4137-98dc-b92f3d9cecc4/downloads/0c004151-7964-4f58-bc88-3dc5845a2e02/Cannon%20Field%20Fund%20III%20Press%20Release.pdf?ver=1740671021538",
+   "https://www.linkedin.com/in/brian-weinberg-338045146"
+  ],
+  "phone": "(832) 804-6863",
+  "contact_email": null,
+  "company_email": "land@cannonfield.com",
+  "trigger_source": "https://img1.wsimg.com/blobby/go/878623ec-bcbd-4137-98dc-b92f3d9cecc4/downloads/0c004151-7964-4f58-bc88-3dc5845a2e02/Cannon%20Field%20Fund%20III%20Press%20Release.pdf?ver=1740671021538",
+  "failing_gates": [
+   "G2"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "South Loop Ventures",
+  "website": "https://www.southloop.vc/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Zach Ellis, Jr.",
+  "decision_maker_title": "Founder & Managing Partner",
+  "title_sources": [
+   "https://www.southloop.vc/about",
+   "https://fortune.com/2025/06/19/south-loop-venturess-zach-ellis-on-investing-in-texas-and-diverse-founders/"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": "zach@southloop.vc",
+  "trigger_source": "https://techcrunch.com/2025/05/20/south-loop-ventures-closes-21m-fund-in-houston-to-build-up-local-tech-ecosystem/",
+  "failing_gates": [
+   "G2",
+   "G4"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G2 decision-maker surname not found on any fetched official page",
+   "G4 no 10-digit phone published"
+  ]
+ },
+ {
+  "company_name": "Post Oak Private Wealth Advisors",
+  "website": "https://postoakprivatewealth.com/",
+  "metro": "Houston",
+  "vertical": "private_capital",
+  "decision_maker_name": "Robert M. Wyrick, Jr.",
+  "decision_maker_title": "Managing Director & Chief Investment Officer",
+  "title_sources": [
+   "https://postoakprivatewealth.com/robert-wyrick",
+   "https://adviserinfo.sec.gov/firm/summary/159293"
+  ],
+  "phone": "(281) 580-2100",
+  "contact_email": "rwyrick@postoakprivatewealth.com",
+  "company_email": "info@postoakprivatewealth.com",
+  "trigger_source": "https://postoakprivatewealth.com/2026-top-100-investment-professionals-in-the-us",
+  "failing_gates": [
+   "G2"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page"
+  ]
+ },
+ {
+  "company_name": "abip CPAs & Advisors",
+  "website": "https://www.abipcpa.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Scott L. Irvine, CPA",
+  "decision_maker_title": "Managing Partner (Houston)",
+  "title_sources": [
+   "https://www.abipcpa.com/leadership/scott-irvine/",
+   "https://www.abipcpa.com/leadership/"
+  ],
+  "phone": "(713) 954-2002",
+  "contact_email": null,
+  "company_email": "info@abipcpa.com",
+  "trigger_source": "https://www.linkedin.com/posts/abipcpa_houstonbusinessjournal-accountingfirms-activity-7432877152410423297-hKT_",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Harper & Pearson Company, P.C.",
+  "website": "https://www.harperpearson.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Richard B. Lynch",
+  "decision_maker_title": "CEO / President",
+  "title_sources": [
+   "https://www.harperpearson.com/team",
+   "https://www.harperpearson.com/contact"
+  ],
+  "phone": "(713) 622-2310",
+  "contact_email": "rlynch@harperpearson.com",
+  "company_email": "info@harperpearson.com",
+  "trigger_source": "https://www.harperpearson.com/team",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)"
+  ]
+ },
+ {
+  "company_name": "Desroches Partners, LLP",
+  "website": "https://dpllp.cpa",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Rod L. Desroches, Jr., CPA",
+  "decision_maker_title": "Partner (founding partner)",
+  "title_sources": [
+   "https://dpllp.cpa/our-team/",
+   "https://dpllp.cpa/"
+  ],
+  "phone": "(713) 360-0800",
+  "contact_email": null,
+  "company_email": "dp@dpllp.cpa",
+  "trigger_source": "https://dpllp.cpa/our-team/",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Bowles, Womack & Company, P.C.",
+  "website": "https://www.bwc.cpa",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Tony Saucedo II, CPA",
+  "decision_maker_title": "Managing Partner",
+  "title_sources": [
+   "https://www.bwc.cpa/team.php",
+   "https://www.bwc.cpa/"
+  ],
+  "phone": "(713) 621-0050",
+  "contact_email": "tony.saucedo@bwc.cpa",
+  "company_email": "info@bwc.cpa",
+  "trigger_source": "https://www.bwc.cpa/team.php",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "note: named email discovered by verifier on official site (surname match; source recorded)",
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Momentum Engineering & Surveying",
+  "website": "http://momentumtx.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Salman Qadir, P.E.",
+  "decision_maker_title": "Founder / Owner",
+  "title_sources": [
+   "http://momentumtx.com/our_team.php",
+   "https://www.linkedin.com/in/salman-mirajwala-99076423"
+  ],
+  "phone": "(281) 741-1998",
+  "contact_email": null,
+  "company_email": "momentum@momentumtx.com",
+  "trigger_source": "https://www.intelligence360.news/momentum-engineering-surveying-to-spend-2172800-00-to-occupy-10864-square-feet-of-space-in-houston-texas/",
+  "failing_gates": [
+   "G2",
+   "G6"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "G6 trigger source not reachable (HTTP 500)"
+  ]
+ },
+ {
+  "company_name": "Boyd Commercial, LLC / CORFAC International",
+  "website": "http://www.boydcommercial.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "David Boyd",
+  "decision_maker_title": "Managing Principal",
+  "title_sources": [
+   "https://members.corfac.com/member-directory/Details/david-boyd-4468042",
+   "https://members.corfac.com/member-directory/Details/j-michael-boyd-4468226"
+  ],
+  "phone": "(713) 599-3434",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://members.corfac.com/member-directory/Details/david-boyd-4468042",
+  "failing_gates": [
+   "G3",
+   "G5"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Brady, Chapman, Holland & Associates (BCH)",
+  "website": "https://bch-insurance.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Timothy J. Brady",
+  "decision_maker_title": "President & CEO (co-founder)",
+  "title_sources": [
+   "https://bch-insurance.com/about/",
+   "https://bch-insurance.com/contact-us/"
+  ],
+  "phone": "(713) 688-1500",
+  "contact_email": null,
+  "company_email": "info@bch-insurance.com",
+  "trigger_source": "https://bch-insurance.com/about/",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 1 usable)"
+  ]
+ },
+ {
+  "company_name": "McDade Insurance Brokerage Group, LLC",
+  "website": "https://www.mcdadeins.com",
+  "metro": "Houston",
+  "vertical": "professional_services",
+  "decision_maker_name": "Charles McDade, LUTCF",
+  "decision_maker_title": "Founder / Owner",
+  "title_sources": [
+   "https://www.mcdadeins.com/about",
+   "https://www.mcdadeins.com/"
+  ],
+  "phone": "(281) 378-5002",
+  "contact_email": "charles@mcdadeins.com",
+  "company_email": null,
+  "trigger_source": "https://www.mcdadeins.com/about",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "note: named email discovered by verifier on official site (surname match; source recorded)",
+   "note: phone discovered by verifier on official site (source recorded)",
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Mythic",
+  "website": "https://mythic.ai/",
+  "metro": "Austin",
+  "vertical": "tech",
+  "decision_maker_name": "Taner Ozcelik",
+  "decision_maker_title": "Chairman & CEO",
+  "title_sources": [
+   "https://mythic.ai/company/",
+   "https://linkedin.com/company/mythic-ai"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://jobs.lever.co/mythic-ai.com/f13545af-ac58-4a6c-b6d6-85d67bc83b41",
+  "failing_gates": [
+   "G2",
+   "G4",
+   "G5",
+   "G6"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "G4 no 10-digit phone published",
+   "G5 no published email",
+   "G6 trigger source not reachable (HTTP 404)"
+  ]
+ },
+ {
+  "company_name": "The Pettit Law Firm, PC",
+  "website": "https://www.pettitfirm.com/",
+  "metro": "DFW",
+  "vertical": "legal",
+  "decision_maker_name": "Julie Pettit",
+  "decision_maker_title": "Founding Partner",
+  "title_sources": [
+   "https://www.pettitfirm.com/attorney/julie-pettit/",
+   "https://www.pettitfirm.com/"
+  ],
+  "phone": "(214) 329-0151",
+  "contact_email": "jpettit@pettitfirm.com",
+  "company_email": null,
+  "trigger_source": "https://www.pettitfirm.com/our-team/",
+  "failing_gates": [
+   "G3",
+   "G6"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)",
+   "G6 trigger source not reachable (HTTP 404)"
+  ]
+ },
+ {
+  "company_name": "McDonald Sanders, P.C.",
+  "website": "https://www.mcdonaldlaw.com/",
+  "metro": "DFW",
+  "vertical": "legal",
+  "decision_maker_name": "John Wright",
+  "decision_maker_title": "President, Shareholder and Director",
+  "title_sources": [
+   "https://www.mcdonaldlaw.com/team/john-wright",
+   "https://www.mcdonaldlaw.com/about-us"
+  ],
+  "phone": "(817) 336-8651",
+  "contact_email": "jww@mcdonaldlaw.com",
+  "company_email": "info@mcdonaldlaw.com",
+  "trigger_source": "https://www.mcdonaldlaw.com/team/john-wright",
+  "failing_gates": [
+   "G3"
+  ],
+  "reasons": [
+   "G3 title sources insufficient (1 domains, 2 usable)"
+  ]
+ },
+ {
+  "company_name": "Huggins Reddien Kornbacher LLP",
+  "website": "https://www.hrkllp.com/",
+  "metro": "Austin",
+  "vertical": "legal",
+  "decision_maker_name": "Devika Kornbacher",
+  "decision_maker_title": "Name Partner",
+  "title_sources": [
+   "https://www.hrkllp.com/our-team",
+   "https://www.globenewswire.com/news-release/2026/02/19/3240984/0/en/Huggins-Reddien-becomes-Huggins-Reddien-Kornbacher-as-Tech-Law-Leader-Devika-Kornbacher-Joins-Firm.html"
+  ],
+  "phone": "(512) 699-7700",
+  "contact_email": "dkornbacher@hrkllp.com",
+  "company_email": "info@hrkllp.com",
+  "trigger_source": "https://www.globenewswire.com/news-release/2026/02/19/3240984/0/en/Huggins-Reddien-becomes-Huggins-Reddien-Kornbacher-as-Tech-Law-Leader-Devika-Kornbacher-Joins-Firm.html",
+  "failing_gates": [
+   "G3",
+   "G6"
+  ],
+  "reasons": [
+   "note: named email discovered by verifier on official site (surname match; source recorded)",
+   "note: phone discovered by verifier on official site (source recorded)",
+   "G3 title sources insufficient (2 domains, 1 usable)",
+   "G6 trigger source not reachable (HTTP None)"
+  ]
+ },
+ {
+  "company_name": "Ighani Eye Care",
+  "website": "https://ighanieyecare.com/",
+  "metro": "DFW",
+  "vertical": "healthcare",
+  "decision_maker_name": "Farshid Ighani, MD",
+  "decision_maker_title": "Founder and Board-Certified Ophthalmologist (practice owner)",
+  "title_sources": [
+   "https://ighanieyecare.com/",
+   "https://communityimpact.com/sponsored/ighani-eye-care-expands-with-second-location-brings-patient-centered-approach-to-southlake/"
+  ],
+  "phone": "(682) 688-2020",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://communityimpact.com/sponsored/ighani-eye-care-expands-with-second-location-brings-patient-centered-approach-to-southlake/",
+  "failing_gates": [
+   "G2",
+   "G5"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Dallas Neurosurgical & Spine",
+  "website": "https://www.dallasneurosurgical.com/",
+  "metro": "DFW",
+  "vertical": "healthcare",
+  "decision_maker_name": "Jason S. Taub, MD",
+  "decision_maker_title": "President",
+  "title_sources": [
+   "https://www.linkedin.com/in/jason-s-taub-md-a2546312",
+   "https://www.dallasneurosurgical.com/about/our-doctors/"
+  ],
+  "phone": "(214) 750-3646",
+  "contact_email": null,
+  "company_email": "info@dallasneurosurgical.com",
+  "trigger_source": "https://www.beckersspine.com/spine/dallas-neurosurgical-spine-adds-endoscopic-spine-surgeon/",
+  "failing_gates": [
+   "G2"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page"
+  ]
+ },
+ {
+  "company_name": "Star Orthopedics and Sports Medicine",
+  "website": "https://starorthopedics.com/",
+  "metro": "DFW",
+  "vertical": "healthcare",
+  "decision_maker_name": "Andrew Dold, MD",
+  "decision_maker_title": "Co-Founder and Owner/Physician",
+  "title_sources": [
+   "https://starorthopedics.com/our-doctors/andrew-dold-md/",
+   "https://opennpi.com/provider/1033939863"
+  ],
+  "phone": "(469) 850-0680",
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.openpr.com/news/4177921/star-orthopedics-sports-medicine-unveils-plans-for-new-era",
+  "failing_gates": [
+   "G2",
+   "G5"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Happy Health, Inc.",
+  "website": "https://www.happyhealth.me/",
+  "metro": "Austin",
+  "vertical": "healthcare",
+  "decision_maker_name": "Dustin Freckleton, MD",
+  "decision_maker_title": "Founder & Chief Executive Officer",
+  "title_sources": [
+   "https://www.linkedin.com/in/dustinfreckleton",
+   "https://www.fiercehealthcare.com/finance/happy-health-secures-75m-ai-driven-home-based-care-platform"
+  ],
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "trigger_source": "https://www.fiercehealthcare.com/finance/happy-health-secures-75m-ai-driven-home-based-care-platform",
+  "failing_gates": [
+   "G2",
+   "G4",
+   "G5"
+  ],
+  "reasons": [
+   "G2 decision-maker surname not found on any fetched official page",
+   "G4 no 10-digit phone published",
+   "G5 no published email"
+  ]
+ }
+]

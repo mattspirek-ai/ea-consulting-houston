@@ -1,0 +1,186 @@
+[
+ {
+  "company_name": "Cemvita",
+  "website": "https://www.cemvita.com",
+  "decision_maker_name": "Moji Karimi",
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "G1 website bot-blocked (HTTP 202); needs browser spot-check",
+   "G4 no 10-digit phone published",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Battalion Oil Corporation",
+  "website": "https://battalionoil.com",
+  "decision_maker_name": "Matt Steele",
+  "phone": "(832) 538-0300",
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "G1 website bot-blocked (HTTP 403); needs browser spot-check",
+   "G4 phone not found on company site or cited source page",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Patriot Bolt and Fastener",
+  "website": "https://patriotbolt.com",
+  "decision_maker_name": "Kris Kolb",
+  "phone": "(281) 581-0176",
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "G1 website bot-blocked (HTTP 403); needs browser spot-check",
+   "note: researcher company_email sales@patriotbolt.com not found on any fetched page; set null",
+   "G2 decision-maker surname not found on any fetched official page",
+   "G4 phone not found on company site or cited source page",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Modern Heart and Vascular",
+  "website": "https://www.modernheartandvascular.com/",
+  "decision_maker_name": "Dr. Rajiv Agarwal",
+  "phone": "(832) 644-8930",
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "G1 website bot-blocked (HTTP 202); needs browser spot-check",
+   "G2 decision-maker surname not found on any fetched official page",
+   "G4 phone not found on company site or cited source page",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Harrison Dermatology",
+  "website": "https://harrisonderm.com/",
+  "decision_maker_name": "Dr. Harrison Nguyen",
+  "phone": "(832) 392-8889",
+  "contact_email": null,
+  "company_email": "info@harrisonderm.com",
+  "reasons": [
+   "G1 website bot-blocked (HTTP 202); needs browser spot-check",
+   "note: company email discovered by verifier on official site (source recorded)",
+   "G4 phone not found on company site or cited source page",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "Beck Redden LLP",
+  "website": "https://beckredden.com",
+  "decision_maker_name": "David J. Beck",
+  "phone": "(713) 951-3700",
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "G1 website bot-blocked (HTTP 403); needs browser spot-check",
+   "note: researcher contact_email dbeck@beckredden.com not found on any fetched page; set null",
+   "G4 phone not found on company site or cited source page",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Post Oak Energy Capital, LP",
+  "website": "https://www.postoakenergy.com/",
+  "decision_maker_name": "Frost W. Cochran",
+  "phone": "(713) 571-9393",
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "G1 website bot-blocked (HTTP 403); needs browser spot-check",
+   "G2 decision-maker surname not found on any fetched official page",
+   "G4 phone not found on company site or cited source page",
+   "G5 no published email",
+   "note: employee count not sourced (null kept, not estimated)"
+  ]
+ },
+ {
+  "company_name": "EEPB, P.C. (EEPB CPAs and Business Advisors)",
+  "website": "https://eepb.com",
+  "decision_maker_name": "Steven Parkhill, CPA",
+  "phone": "(713) 622-0016",
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "G1 website bot-blocked (HTTP 202); needs browser spot-check",
+   "note: researcher company_email info@eepb.com not found on any fetched page; set null",
+   "G5 no published email"
+  ]
+ },
+ {
+  "company_name": "Markovich Grover",
+  "website": "https://www.law.com/texaslawyer/2025/02/19/7-shareholders-leave-brown-sims-form-civil-trial-firm-launching-in-4-states/",
+  "decision_maker_name": null,
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "legal scout: Could not source any contact data: markovichgrover.com is a fully client-rendered site that returns no addresses, phone numbers or emails in raw HTML, and no State Bar cross-check was attempted for the founders. Strong trigger exists (7 shareholders left Brown Sims to launch the firm, Feb 2025) so this is worth a browser-based retry by another agent."
+  ],
+  "new_row_needed": true
+ },
+ {
+  "company_name": "HTX Venture Legal PLLC",
+  "website": "https://pressadvantage.com/story/90205-htx-venture-legal-debuts-specialized-services-to-help-entrepreneurs-navigate-complex-transactions",
+  "decision_maker_name": null,
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "legal scout: Could not source a firm website, address, phone or email -- htxventurelegal.com returned nothing crawlable and the only sources are syndicated press-release copies. Good ICP fit (founder/managing partner Layla Dotson Lumpkin, corporate/VC boutique launched ~2024) so worth a browser-based retry."
+  ],
+  "new_row_needed": true
+ },
+ {
+  "company_name": "Smyser Kaplan & Veselka LLP",
+  "website": null,
+  "decision_maker_name": null,
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "legal scout: Could not reach skv.com on any tried path (no attorney index, no contact page) so no contact data could be sourced. Known Houston trial boutique -- worth a browser-based retry."
+  ],
+  "new_row_needed": true
+ },
+ {
+  "company_name": "Schiffer Hicks Johnson PLLC",
+  "website": null,
+  "decision_maker_name": null,
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "legal scout: Could not reach shjlawfirm.com on any tried path, so no contact data could be sourced. Known Houston trial boutique -- worth a browser-based retry."
+  ],
+  "new_row_needed": true
+ },
+ {
+  "company_name": "Diggs & Sadler",
+  "website": null,
+  "decision_maker_name": null,
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "legal scout: Could not reach diggsandsadler.com attorney index on any tried path; no contact data sourced. Houston family-law boutique -- worth a browser-based retry."
+  ],
+  "new_row_needed": true
+ },
+ {
+  "company_name": "Hoover Slovacek LLP",
+  "website": "https://hooverslovacek.com/attorneys/leonard-meyer/",
+  "decision_maker_name": null,
+  "phone": null,
+  "contact_email": null,
+  "company_email": null,
+  "reasons": [
+   "legal scout: Attorney bio pages returned empty bodies on repeated fetches, so no name/title/email could be sourced for a managing shareholder. Houston real-estate/bankruptcy boutique -- worth a browser-based retry."
+  ],
+  "new_row_needed": true
+ }
+]
