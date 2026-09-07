@@ -56,3 +56,9 @@ Append-only. Each decision gets an ID, date, the decision, the reasoning, and wh
 ## D-011 · 2026-09-07 · Subagent model
 **Decision:** All delegated work (research, builds, writing) runs on the owner's default subagent model, Fable. Session 2's first three website concept builds were dispatched on Sonnet by mistake; they were discarded and rebuilt on Fable at the owner's instruction.
 **Why:** Owner's explicit preference; judgment quality on design and copy is the point of these builds.
+
+## D-012 · 2026-09-07 · Concept D: replicate Athena's paid-landing-page format
+**Decision:** Build a fourth website concept that copies the *format* of athena.com/cl/nb-executive-assistant almost exactly — section order, layout patterns, component shapes, alternating dark/light band rhythm, single repeated CTA — re-skinned to our tokens (navy/paper/brass) and filled with our positioning, published pricing, and original copy. Reference captured 2026-09-07 (full-page screenshot, computed styles, component inventory) and translated in `docs/athena-format-spec.md`.
+**Boundaries:** layout and structure only. No Athena copy, logos, photos, client names, statistics, or certifications. Their client-logo strip and stat bands become labeled placeholders, terms statements, or sourced/derived figures with sources in the footer. Testimonials remain placeholders until real.
+**Why:** Owner's explicit instruction ("make it like this site, copy almost exactly the same format"). Athena is the traffic-and-conversion benchmark in the category; its paid landing page is a proven conversion structure. Our advantage over it (Houston presence, US talent, published month-to-month pricing, no lock-in) is expressed inside their proven format.
+**Revisit if:** legal review flags trade-dress concerns about the visual resemblance — in which case keep the section order and swap the component styling further.

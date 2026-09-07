@@ -94,3 +94,24 @@ Format:
 - Replace `BRANDNAME` and all `[PLACEHOLDER]`s; decide slider floor (4 vs 5 hrs/wk) for concept B.
 - Still open from Session 1: Google Keyword Planner volumes; BLS OEWS Houston verification; brand name.
 - Start the LinkedIn calendar (Week 1 setup tasks are dated Sep 7; shift dates with `build_calendar.mjs --start` if launch slips).
+
+---
+
+## 2026-09-07 — Session 3 — Concept D: Athena-format paid landing page
+
+**Requested:** "Make it like this site, copy almost exactly the same format" — athena.com/cl/nb-executive-assistant (their paid-search landing page). Then: wrap up (owner low on tokens).
+
+**Done:**
+- Captured the reference in a real browser: full-page screenshot (1265×8051), section offsets, computed styles (Playfair Display + Figtree; deep-forest/limestone bands; pill eyebrows; ghost arrow buttons; 20/15/8px card radii), component inventory (role-picker widget, logo strip, tabbed delegation list, 3-step columns, battlecards, security grid, pricing card, testimonial carousel, FAQ, full-bleed CTA). Crops kept locally in /agent/workspace/ref/ (not committed — binaries).
+- Wrote `docs/athena-format-spec.md`: section-by-section format translation to our tokens (navy pair + warm paper + brass) and content rules. Format only — no Athena copy, logos, photos, names, stats, or certifications.
+- Built `site-concepts/d-athena-format/index.html` on Fable (1,141 lines): all 10 sections matched to the reference; deviations logged by the builder (hero left column widened for our longer H1; battlecard ~900px vs ~1000px; logo strip = sector words placeholder; stat bands = terms statement / derived $8,250 comparison / metric placeholders; added self-hosted booking form and a Sources footer with last-verified dates). Interaction-tested at 1280px and 390px; JS and JSON-LD validated. Published as a Hyperagent artifact.
+- Decision D-012 appended; `site-concepts/README.md` extended to four concepts.
+
+**Produced:** `docs/athena-format-spec.md`, `site-concepts/d-athena-format/index.html`, updated `site-concepts/README.md`, `docs/decisions.md` (D-012), this entry.
+
+**Data quality notes:** No new data. Competitor anchors unchanged (last verified 2026-09-07). Trade-dress caution recorded in D-012.
+
+**Open items / next steps:**
+- Owner chooses: D as the paid landing + A as the organic site (recommended), or D alone to start.
+- Fill placeholders (brand, address/phone, testimonials, photos, logos with permission, scheduler embed, legal pages).
+- Carry-overs: Keyword Planner volumes; BLS OEWS verification; brand name; concept B slider floor; Worxbee price re-verify.
